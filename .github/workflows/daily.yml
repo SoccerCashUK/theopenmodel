@@ -4,6 +4,11 @@ name: Daily build & deploy
 # The build locks pre-kickoff probabilities into the daily snapshot and scores
 # finished results — committing them back is what makes the record verifiable:
 # the git timestamp proves each prediction existed before the match.
+#
+# Publishing is handled by Vercel, not this workflow: Vercel is connected to the
+# repo and rebuilds on every push to main, and the "Commit ... back to the public
+# record" step below is that push. So the job's responsibility ends at committing
+# fresh data — Vercel takes it from there.
 on:
   schedule:
     - cron: "30 3 * * *"
@@ -29,16 +34,18 @@ jobs:
 
       # Deliberately allowed to fail the whole run. The schedule decides kickoff times,
       # match slugs and which predictions count as pre-kickoff, so shipping a bad one is
-      # worse than not shipping: Cloudflare keeps serving the last good deploy while a
+      # worse than not shipping: Vercel keeps serving the last good deploy while a
       # failure here sends a notification. A silent skip is what let placeholder kickoff
       # times reach the site for weeks.
       - name: Refresh season schedule
         env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
         run: node scripts/fetch-fixtures.mjs
 
       - name: Build (fetch data, lock snapshot, static export)
         env:
+          FOOTBALL_DATA_KEY: ${{ secrets.FOOTBALL_DATA_KEY }}
           API_FOOTBALL_KEY: ${{ secrets.API_FOOTBALL_KEY }}
           # Public by design — it only identifies which Kit form a submission belongs to.
           # Unset means the signup form renders nowhere rather than collecting into a void.
@@ -52,6 +59,8 @@ jobs:
       - name: Check data freshness
         run: node scripts/check-data-freshness.mjs
 
+      # This push is the deploy trigger: Vercel is connected to the repo and rebuilds
+      # main on every commit, so committing the refreshed record is what publishes it.
       - name: Commit snapshot + data back to the public record
         run: |
           git config user.name "github-actions[bot]"
@@ -60,21 +69,10 @@ jobs:
           git diff --cached --quiet || git commit -m "record: daily snapshot & results $(date -u +%F)"
           git push
 
-      - name: Deploy static export to Cloudflare Workers
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        run: npx wrangler deploy
-
-      - name: Verify site is up
-        run: |
-          for path in / /record/ /data/season-forecast.csv; do
-            code=$(curl -s -o /dev/null -w '%{http_code}' "https://theopenmodel.com$path")
-            echo "$path -> $code"; [ "$code" = "200" ] || exit 1
-          done
-
-      # Runs only once the new pages are actually live, so the engines fetch today's
-      # numbers rather than yesterday's.
+      # Runs only once the new commit is pushed, so the engines fetch today's numbers
+      # rather than yesterday's. Best-effort: a failure here should not fail the record.
       - name: Submit URLs to IndexNow (Bing/Yandex)
+        continue-on-error: true
         run: node scripts/indexnow-ping.mjs
 
       # Posting stays off until TELEGRAM_ENABLED is set to "1" in repo variables, even
