@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
   "provider": "football-data",
-  "asOf": "2026-08-20T10:52:25.417Z",
-  "updatedAt": "2026-08-20T10:52:25.417Z",
+  "asOf": "2026-08-20T11:10:43.228Z",
+  "updatedAt": "2026-08-20T11:10:43.228Z",
   "coverage": {
     "dateFrom": "2026-08-15",
     "dateTo": "2026-09-03",
@@ -1154,108 +1154,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:560546",
-      "providerId": 560546,
-      "name": "Everton FC vs Crystal Palace FC",
-      "startTime": "2026-08-22T14:00:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2502,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-08-20T05:20:31Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2021,
-        "name": "Premier League",
-        "shortCode": "PL",
-        "imageUrl": "https://crests.football-data.org/PL.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 62,
-          "name": "Everton FC",
-          "shortCode": "EVE",
-          "imageUrl": "https://crests.football-data.org/62.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 354,
-          "name": "Crystal Palace FC",
-          "shortCode": "CRY",
-          "imageUrl": "https://crests.football-data.org/354.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 62,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 354,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 62,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 354,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:560544",
       "providerId": 560544,
       "name": "Ipswich Town FC vs Sunderland AFC",
@@ -1348,6 +1246,108 @@
           "id": null,
           "typeId": null,
           "participantId": 71,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:560546",
+      "providerId": 560546,
+      "name": "Everton FC vs Crystal Palace FC",
+      "startTime": "2026-08-22T14:00:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2502,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-08-20T05:20:31Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2021,
+        "name": "Premier League",
+        "shortCode": "PL",
+        "imageUrl": "https://crests.football-data.org/PL.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 62,
+          "name": "Everton FC",
+          "shortCode": "EVE",
+          "imageUrl": "https://crests.football-data.org/62.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 354,
+          "name": "Crystal Palace FC",
+          "shortCode": "CRY",
+          "imageUrl": "https://crests.football-data.org/354.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 62,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 354,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 62,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 354,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
@@ -2888,108 +2888,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:559717",
-      "providerId": 559717,
-      "name": "Angers SCO vs Lille OSC",
-      "startTime": "2026-08-23T13:00:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2497,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-08-20T05:20:30Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2015,
-        "name": "Ligue 1",
-        "shortCode": "FL1",
-        "imageUrl": "https://crests.football-data.org/FL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 532,
-          "name": "Angers SCO",
-          "shortCode": "ANG",
-          "imageUrl": "https://crests.football-data.org/532.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 521,
-          "name": "Lille OSC",
-          "shortCode": "LIL",
-          "imageUrl": "https://crests.football-data.org/521.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 532,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 521,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 532,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 521,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:560549",
       "providerId": 560549,
       "name": "Brighton & Hove Albion FC vs Aston Villa FC",
@@ -3082,6 +2980,108 @@
           "id": null,
           "typeId": null,
           "participantId": 58,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:559717",
+      "providerId": 559717,
+      "name": "Angers SCO vs Lille OSC",
+      "startTime": "2026-08-23T13:00:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2497,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-08-20T05:20:30Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "shortCode": "FL1",
+        "imageUrl": "https://crests.football-data.org/FL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 532,
+          "name": "Angers SCO",
+          "shortCode": "ANG",
+          "imageUrl": "https://crests.football-data.org/532.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 521,
+          "name": "Lille OSC",
+          "shortCode": "LIL",
+          "imageUrl": "https://crests.football-data.org/521.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 532,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 521,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 532,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 521,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
@@ -5234,6 +5234,108 @@
       "injuries": []
     },
     {
+      "id": "football-data:565779",
+      "providerId": 565779,
+      "name": "1. FC Union Berlin vs Eintracht Frankfurt",
+      "startTime": "2026-08-29T13:30:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2522,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-08-20T05:20:29Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "shortCode": "BL1",
+        "imageUrl": "https://crests.football-data.org/BL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 28,
+          "name": "1. FC Union Berlin",
+          "shortCode": "UNB",
+          "imageUrl": "https://crests.football-data.org/28.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 19,
+          "name": "Eintracht Frankfurt",
+          "shortCode": "SGE",
+          "imageUrl": "https://crests.football-data.org/19.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 28,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 19,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 28,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 19,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:565777",
       "providerId": 565777,
       "name": "RB Leipzig vs Borussia Mönchengladbach",
@@ -5428,108 +5530,6 @@
           "id": null,
           "typeId": null,
           "participantId": 2,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:565779",
-      "providerId": 565779,
-      "name": "1. FC Union Berlin vs Eintracht Frankfurt",
-      "startTime": "2026-08-29T13:30:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2522,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-08-20T05:20:29Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2002,
-        "name": "Bundesliga",
-        "shortCode": "BL1",
-        "imageUrl": "https://crests.football-data.org/BL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 28,
-          "name": "1. FC Union Berlin",
-          "shortCode": "UNB",
-          "imageUrl": "https://crests.football-data.org/28.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 19,
-          "name": "Eintracht Frankfurt",
-          "shortCode": "SGE",
-          "imageUrl": "https://crests.football-data.org/19.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 28,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 19,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 28,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 19,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
