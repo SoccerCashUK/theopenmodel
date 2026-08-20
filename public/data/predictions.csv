@@ -1,6 +1,6 @@
 kickoff,league,home,away,pHome,pDraw,pAway,modelPick,lockedOn,homeGoals,awayGoals,result,correct
-2026-08-15T17:30:00+00:00,la-liga,"Alaves","Getafe",0.3801,0.2846,0.3354,home,2026-08-15,3,0,home,true
-2026-08-15T19:30:00+00:00,la-liga,"Sevilla","Rayo Vallecano",0.321,0.2839,0.3951,away,2026-08-15,2,1,home,false
+2026-08-16T15:00:00+00:00,la-liga,"Sevilla","Rayo Vallecano",0.321,0.2839,0.3951,away,2026-08-15,2,1,home,false
+2026-08-16T15:00:00+00:00,la-liga,"Alaves","Getafe",0.3801,0.2846,0.3354,home,2026-08-15,3,0,home,true
 2026-08-16T15:00:00+00:00,la-liga,"Santander","Villarreal",0.2219,0.2686,0.5095,away,2026-08-16,2,2,draw,false
 2026-08-16T17:00:00+00:00,la-liga,"Espanyol","Levante",0.4032,0.2834,0.3134,home,2026-08-16,3,0,home,true
 2026-08-17T19:00:00+00:00,la-liga,"Depor","Elche",0.3257,0.2841,0.3901,away,2026-08-17,1,1,draw,false

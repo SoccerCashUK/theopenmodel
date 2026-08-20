@@ -6,29 +6,10 @@
  "pending": 43,
  "rows": [
   {
-   "id": 1570333,
-   "slug": "alaves-vs-getafe-2026-08-16",
-   "league": "la-liga",
-   "date": "2026-08-15T17:30:00+00:00",
-   "home": "Alaves",
-   "away": "Getafe",
-   "p": {
-    "h": 0.3801,
-    "d": 0.2846,
-    "a": 0.3354
-   },
-   "lockedOn": "2026-08-15",
-   "pick": "home",
-   "hg": 3,
-   "ag": 0,
-   "actual": "home",
-   "correct": true
-  },
-  {
    "id": 1570341,
    "slug": "sevilla-vs-rayo-vallecano-2026-08-16",
    "league": "la-liga",
-   "date": "2026-08-15T19:30:00+00:00",
+   "date": "2026-08-16T15:00:00+00:00",
    "home": "Sevilla",
    "away": "Rayo Vallecano",
    "p": {
@@ -42,6 +23,25 @@
    "ag": 1,
    "actual": "home",
    "correct": false
+  },
+  {
+   "id": 1570333,
+   "slug": "alaves-vs-getafe-2026-08-16",
+   "league": "la-liga",
+   "date": "2026-08-16T15:00:00+00:00",
+   "home": "Alaves",
+   "away": "Getafe",
+   "p": {
+    "h": 0.3801,
+    "d": 0.2846,
+    "a": 0.3354
+   },
+   "lockedOn": "2026-08-15",
+   "pick": "home",
+   "hg": 3,
+   "ag": 0,
+   "actual": "home",
+   "correct": true
   },
   {
    "id": 1570339,
