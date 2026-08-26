@@ -37,7 +37,7 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-08-23T17:30:00Z,la-liga,"Regular Season - 2","Getafe","Santander",0.4896,0.2725,0.2379,1.67,1.11,https://theopenmodel.com/match/getafe-vs-santander-2026-08-23/
 2026-08-23T18:45:00Z,serie-a,"Regular Season - 1","Atalanta","Sassuolo",0.5835,0.25,0.1665,1.87,0.92,https://theopenmodel.com/match/atalanta-vs-sassuolo-2026-08-23/
 2026-08-23T18:45:00Z,serie-a,"Regular Season - 1","Torino","Milan",0.2733,0.279,0.4477,1.2,1.58,https://theopenmodel.com/match/torino-vs-milan-2026-08-23/
-2026-08-23T18:45:00Z,ligue-1,"Regular Season - 1","Paris SG","Rennes",0.7106,0.2028,0.0866,2.14,0.64,https://theopenmodel.com/match/paris-sg-vs-rennes-2026-08-23/
+2026-08-23T18:45:00Z,ligue-1,"Regular Season - 1","Rennes","Paris SG",0.1559,0.2454,0.5987,0.88,1.9,https://theopenmodel.com/match/rennes-vs-paris-sg-2026-08-23/
 2026-08-23T19:30:00Z,la-liga,"Regular Season - 2","Elche","Barcelona",0.0997,0.2128,0.6875,0.69,2.09,https://theopenmodel.com/match/elche-vs-barcelona-2026-08-23/
 2026-08-24T16:30:00Z,serie-a,"Regular Season - 1","Bologna","Lazio",0.4118,0.2828,0.3055,1.51,1.27,https://theopenmodel.com/match/bologna-vs-lazio-2026-08-24/
 2026-08-24T17:30:00Z,la-liga,"Regular Season - 2","Osasuna","Levante",0.4452,0.2793,0.2755,1.58,1.2,https://theopenmodel.com/match/osasuna-vs-levante-2026-08-24/
@@ -1223,7 +1223,7 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2027-03-06T00:00:00Z,bundesliga,"Regular Season - 25","Koeln","Union Berlin",0.3547,0.2849,0.3603,1.38,1.4,https://theopenmodel.com/match/koeln-vs-union-berlin-2027-03-06/
 2027-03-06T00:00:00Z,bundesliga,"Regular Season - 25","Hoffenheim","Werder",0.527,0.2648,0.2082,1.75,1.03,https://theopenmodel.com/match/hoffenheim-vs-werder-2027-03-06/
 2027-03-06T00:00:00Z,ligue-1,"Regular Season - 23","Le Havre","Nice",0.4113,0.2828,0.3059,1.51,1.27,https://theopenmodel.com/match/le-havre-vs-nice-2027-03-06/
-2027-03-06T00:00:00Z,ligue-1,"Regular Season - 23","Rennes","Paris SG",0.1559,0.2454,0.5987,0.88,1.9,https://theopenmodel.com/match/rennes-vs-paris-sg-2027-03-06/
+2027-03-06T00:00:00Z,ligue-1,"Regular Season - 23","Paris SG","Rennes",0.7106,0.2028,0.0866,2.14,0.64,https://theopenmodel.com/match/paris-sg-vs-rennes-2027-03-06/
 2027-03-06T00:00:00Z,ligue-1,"Regular Season - 23","Lens","Strasbourg",0.481,0.274,0.245,1.65,1.13,https://theopenmodel.com/match/lens-vs-strasbourg-2027-03-06/
 2027-03-06T00:00:00Z,ligue-1,"Regular Season - 23","Toulouse","Le Mans",0.6053,0.2433,0.1514,1.91,0.87,https://theopenmodel.com/match/toulouse-vs-le-mans-2027-03-06/
 2027-03-06T00:00:00Z,ligue-1,"Regular Season - 23","Troyes","Lorient",0.2816,0.2802,0.4383,1.22,1.56,https://theopenmodel.com/match/troyes-vs-lorient-2027-03-06/

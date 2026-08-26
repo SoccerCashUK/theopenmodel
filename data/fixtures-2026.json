@@ -16008,10 +16008,10 @@
    "round": "Regular Season - 1",
    "venue": null,
    "city": null,
-   "homeId": 85,
-   "awayId": 94,
-   "home": "Paris SG",
-   "away": "Rennes"
+   "homeId": 94,
+   "awayId": 85,
+   "home": "Rennes",
+   "away": "Paris SG"
   },
   {
    "id": 559702,
@@ -18109,10 +18109,10 @@
    "round": "Regular Season - 23",
    "venue": null,
    "city": null,
-   "homeId": 94,
-   "awayId": 85,
-   "home": "Rennes",
-   "away": "Paris SG"
+   "homeId": 85,
+   "awayId": 94,
+   "home": "Paris SG",
+   "away": "Rennes"
   },
   {
    "id": 559515,

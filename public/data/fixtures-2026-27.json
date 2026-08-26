@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-25",
+ "updated": "2026-08-26",
  "license": "CC BY 4.0 — link to theopenmodel.com",
  "rows": [
   {
@@ -500,14 +500,14 @@
    "date": "2026-08-23T18:45:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 1",
-   "home": "Paris SG",
-   "away": "Rennes",
-   "pHome": 0.7106,
-   "pDraw": 0.2028,
-   "pAway": 0.0866,
-   "xgHome": 2.14,
-   "xgAway": 0.64,
-   "url": "https://theopenmodel.com/match/paris-sg-vs-rennes-2026-08-23/"
+   "home": "Rennes",
+   "away": "Paris SG",
+   "pHome": 0.1559,
+   "pDraw": 0.2454,
+   "pAway": 0.5987,
+   "xgHome": 0.88,
+   "xgAway": 1.9,
+   "url": "https://theopenmodel.com/match/rennes-vs-paris-sg-2026-08-23/"
   },
   {
    "date": "2026-08-23T19:30:00Z",
@@ -15918,14 +15918,14 @@
    "date": "2027-03-06T00:00:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 23",
-   "home": "Rennes",
-   "away": "Paris SG",
-   "pHome": 0.1559,
-   "pDraw": 0.2454,
-   "pAway": 0.5987,
-   "xgHome": 0.88,
-   "xgAway": 1.9,
-   "url": "https://theopenmodel.com/match/rennes-vs-paris-sg-2027-03-06/"
+   "home": "Paris SG",
+   "away": "Rennes",
+   "pHome": 0.7106,
+   "pDraw": 0.2028,
+   "pAway": 0.0866,
+   "xgHome": 2.14,
+   "xgAway": 0.64,
+   "url": "https://theopenmodel.com/match/paris-sg-vs-rennes-2027-03-06/"
   },
   {
    "date": "2027-03-06T00:00:00Z",
