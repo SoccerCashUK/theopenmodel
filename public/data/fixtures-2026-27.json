@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28",
+ "updated": "2026-08-29",
  "license": "CC BY 4.0 — link to theopenmodel.com",
  "rows": [
   {
@@ -2928,19 +2928,6 @@
    "url": "https://theopenmodel.com/match/newcastle-vs-hull-2026-09-19/"
   },
   {
-   "date": "2026-09-19T14:00:00Z",
-   "league": "premier-league",
-   "round": "Regular Season - 5",
-   "home": "Man City",
-   "away": "Sunderland",
-   "pHome": 0.692,
-   "pDraw": 0.2109,
-   "pAway": 0.0971,
-   "xgHome": 2.1,
-   "xgAway": 0.68,
-   "url": "https://theopenmodel.com/match/man-city-vs-sunderland-2026-09-19/"
-  },
-  {
    "date": "2026-09-19T16:00:00Z",
    "league": "serie-a",
    "round": "Regular Season - 5",
@@ -3147,6 +3134,19 @@
    "xgHome": 1.42,
    "xgAway": 1.37,
    "url": "https://theopenmodel.com/match/bournemouth-vs-liverpool-2026-09-20/"
+  },
+  {
+   "date": "2026-09-20T13:00:00Z",
+   "league": "premier-league",
+   "round": "Regular Season - 5",
+   "home": "Man City",
+   "away": "Sunderland",
+   "pHome": 0.692,
+   "pDraw": 0.2109,
+   "pAway": 0.0971,
+   "xgHome": 2.1,
+   "xgAway": 0.68,
+   "url": "https://theopenmodel.com/match/man-city-vs-sunderland-2026-09-20/"
   },
   {
    "date": "2026-09-20T13:00:00Z",

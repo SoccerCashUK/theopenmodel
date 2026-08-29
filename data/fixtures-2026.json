@@ -507,17 +507,6 @@
    "away": "Hull"
   },
   {
-   "id": 560590,
-   "date": "2026-09-19T14:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 50,
-   "awayId": 746,
-   "home": "Man City",
-   "away": "Sunderland"
-  },
-  {
    "id": 560589,
    "date": "2026-09-19T16:30:00Z",
    "round": "Regular Season - 5",
@@ -538,6 +527,17 @@
    "awayId": 40,
    "home": "Bournemouth",
    "away": "Liverpool"
+  },
+  {
+   "id": 560590,
+   "date": "2026-09-20T13:00:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 50,
+   "awayId": 746,
+   "home": "Man City",
+   "away": "Sunderland"
   },
   {
    "id": 560583,
