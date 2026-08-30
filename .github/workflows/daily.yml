@@ -74,9 +74,15 @@ jobs:
       # Pinging the deploy hook explicitly is what publishes each morning's snapshot. Skipped
       # cleanly if the secret is unset, and never fails the record if the ping itself errors.
       - name: Trigger Vercel production deploy
-        if: ${{ secrets.VERCEL_DEPLOY_HOOK != '' }}
         continue-on-error: true
-        run: curl -sS -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
+        env:
+          VERCEL_DEPLOY_HOOK: ${{ secrets.VERCEL_DEPLOY_HOOK }}
+        run: |
+          if [ -n "$VERCEL_DEPLOY_HOOK" ]; then
+            curl -sS -X POST "$VERCEL_DEPLOY_HOOK"
+          else
+            echo "VERCEL_DEPLOY_HOOK not set — skipping deploy trigger."
+          fi
 
       # Runs only once the new commit is pushed, so the engines fetch today's numbers
       # rather than yesterday's. Best-effort: a failure here should not fail the record.
