@@ -4634,19 +4634,8 @@
    "away": "Sociedad"
   },
   {
-   "id": 564668,
-   "date": "2026-09-13T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 546,
-   "awayId": 544,
-   "home": "Getafe",
-   "away": "Depor"
-  },
-  {
    "id": 564669,
-   "date": "2026-09-13T00:00:00Z",
+   "date": "2026-09-11T19:00:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -4657,7 +4646,7 @@
   },
   {
    "id": 564670,
-   "date": "2026-09-13T00:00:00Z",
+   "date": "2026-09-12T12:00:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -4667,30 +4656,8 @@
    "away": "Alaves"
   },
   {
-   "id": 564671,
-   "date": "2026-09-13T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 533,
-   "awayId": 543,
-   "home": "Villarreal",
-   "away": "Betis"
-  },
-  {
-   "id": 564672,
-   "date": "2026-09-13T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 538,
-   "awayId": 535,
-   "home": "Celta",
-   "away": "Malaga"
-  },
-  {
    "id": 564673,
-   "date": "2026-09-13T00:00:00Z",
+   "date": "2026-09-12T14:15:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -4700,30 +4667,8 @@
    "away": "Espanyol"
   },
   {
-   "id": 564674,
-   "date": "2026-09-13T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 548,
-   "awayId": 530,
-   "home": "Sociedad",
-   "away": "Atletico"
-  },
-  {
-   "id": 564675,
-   "date": "2026-09-13T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 539,
-   "awayId": 529,
-   "home": "Levante",
-   "away": "Barcelona"
-  },
-  {
    "id": 564676,
-   "date": "2026-09-13T00:00:00Z",
+   "date": "2026-09-12T16:30:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -4734,7 +4679,7 @@
   },
   {
    "id": 564677,
-   "date": "2026-09-13T00:00:00Z",
+   "date": "2026-09-12T19:00:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -4744,8 +4689,63 @@
    "away": "Rayo Vallecano"
   },
   {
+   "id": 564672,
+   "date": "2026-09-13T12:00:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 538,
+   "awayId": 535,
+   "home": "Celta",
+   "away": "Malaga"
+  },
+  {
+   "id": 564675,
+   "date": "2026-09-13T14:15:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 539,
+   "awayId": 529,
+   "home": "Levante",
+   "away": "Barcelona"
+  },
+  {
+   "id": 564668,
+   "date": "2026-09-13T16:30:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 546,
+   "awayId": 544,
+   "home": "Getafe",
+   "away": "Depor"
+  },
+  {
+   "id": 564674,
+   "date": "2026-09-13T19:00:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 548,
+   "awayId": 530,
+   "home": "Sociedad",
+   "away": "Atletico"
+  },
+  {
+   "id": 564671,
+   "date": "2026-09-14T19:00:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 533,
+   "awayId": 543,
+   "home": "Villarreal",
+   "away": "Betis"
+  },
+  {
    "id": 564678,
-   "date": "2026-09-16T00:00:00Z",
+   "date": "2026-09-15T17:00:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -4755,19 +4755,8 @@
    "away": "Espanyol"
   },
   {
-   "id": 564679,
-   "date": "2026-09-16T00:00:00Z",
-   "round": "Regular Season - 6",
-   "venue": null,
-   "city": null,
-   "homeId": 544,
-   "awayId": 536,
-   "home": "Depor",
-   "away": "Sevilla"
-  },
-  {
    "id": 564680,
-   "date": "2026-09-16T00:00:00Z",
+   "date": "2026-09-15T18:00:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -4778,7 +4767,7 @@
   },
   {
    "id": 564681,
-   "date": "2026-09-16T00:00:00Z",
+   "date": "2026-09-15T19:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -4788,19 +4777,19 @@
    "away": "Real Madrid"
   },
   {
-   "id": 564683,
-   "date": "2026-09-16T00:00:00Z",
+   "id": 564679,
+   "date": "2026-09-16T17:00:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
-   "homeId": 535,
-   "awayId": 533,
-   "home": "Malaga",
-   "away": "Villarreal"
+   "homeId": 544,
+   "awayId": 536,
+   "home": "Depor",
+   "away": "Sevilla"
   },
   {
    "id": 564684,
-   "date": "2026-09-16T00:00:00Z",
+   "date": "2026-09-16T17:00:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -4811,7 +4800,7 @@
   },
   {
    "id": 564685,
-   "date": "2026-09-16T00:00:00Z",
+   "date": "2026-09-16T19:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -4821,19 +4810,8 @@
    "away": "Bilbao"
   },
   {
-   "id": 564686,
-   "date": "2026-09-16T00:00:00Z",
-   "round": "Regular Season - 6",
-   "venue": null,
-   "city": null,
-   "homeId": 543,
-   "awayId": 546,
-   "home": "Betis",
-   "away": "Getafe"
-  },
-  {
    "id": 564687,
-   "date": "2026-09-16T00:00:00Z",
+   "date": "2026-09-16T19:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -4843,15 +4821,70 @@
    "away": "Santander"
   },
   {
-   "id": 564688,
-   "date": "2026-09-20T00:00:00Z",
+   "id": 564686,
+   "date": "2026-09-17T17:00:00Z",
+   "round": "Regular Season - 6",
+   "venue": null,
+   "city": null,
+   "homeId": 543,
+   "awayId": 546,
+   "home": "Betis",
+   "away": "Getafe"
+  },
+  {
+   "id": 564683,
+   "date": "2026-09-17T19:30:00Z",
+   "round": "Regular Season - 6",
+   "venue": null,
+   "city": null,
+   "homeId": 535,
+   "awayId": 533,
+   "home": "Malaga",
+   "away": "Villarreal"
+  },
+  {
+   "id": 564693,
+   "date": "2026-09-19T12:00:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
-   "homeId": 530,
-   "awayId": 541,
-   "home": "Atletico",
-   "away": "Real Madrid"
+   "homeId": 727,
+   "awayId": 728,
+   "home": "Osasuna",
+   "away": "Rayo Vallecano"
+  },
+  {
+   "id": 564691,
+   "date": "2026-09-19T14:15:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 531,
+   "awayId": 542,
+   "home": "Bilbao",
+   "away": "Alaves"
+  },
+  {
+   "id": 564694,
+   "date": "2026-09-19T16:30:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 538,
+   "awayId": 4665,
+   "home": "Celta",
+   "away": "Santander"
+  },
+  {
+   "id": 564690,
+   "date": "2026-09-19T19:00:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 536,
+   "awayId": 529,
+   "home": "Sevilla",
+   "away": "Barcelona"
   },
   {
    "id": 564689,
@@ -4865,28 +4898,6 @@
    "away": "Sociedad"
   },
   {
-   "id": 564690,
-   "date": "2026-09-20T00:00:00Z",
-   "round": "Regular Season - 7",
-   "venue": null,
-   "city": null,
-   "homeId": 536,
-   "awayId": 529,
-   "home": "Sevilla",
-   "away": "Barcelona"
-  },
-  {
-   "id": 564691,
-   "date": "2026-09-20T00:00:00Z",
-   "round": "Regular Season - 7",
-   "venue": null,
-   "city": null,
-   "homeId": 531,
-   "awayId": 542,
-   "home": "Bilbao",
-   "away": "Alaves"
-  },
-  {
    "id": 564692,
    "date": "2026-09-20T00:00:00Z",
    "round": "Regular Season - 7",
@@ -4898,30 +4909,30 @@
    "away": "Elche"
   },
   {
-   "id": 564693,
-   "date": "2026-09-20T00:00:00Z",
+   "id": 564697,
+   "date": "2026-09-20T12:00:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
-   "homeId": 727,
-   "awayId": 728,
-   "home": "Osasuna",
-   "away": "Rayo Vallecano"
+   "homeId": 546,
+   "awayId": 535,
+   "home": "Getafe",
+   "away": "Malaga"
   },
   {
-   "id": 564694,
-   "date": "2026-09-20T00:00:00Z",
+   "id": 564688,
+   "date": "2026-09-20T14:15:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
-   "homeId": 538,
-   "awayId": 4665,
-   "home": "Celta",
-   "away": "Santander"
+   "homeId": 530,
+   "awayId": 541,
+   "home": "Atletico",
+   "away": "Real Madrid"
   },
   {
    "id": 564695,
-   "date": "2026-09-20T00:00:00Z",
+   "date": "2026-09-20T16:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -4932,7 +4943,7 @@
   },
   {
    "id": 564696,
-   "date": "2026-09-20T00:00:00Z",
+   "date": "2026-09-20T16:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -4940,17 +4951,6 @@
    "awayId": 539,
    "home": "Villarreal",
    "away": "Levante"
-  },
-  {
-   "id": 564697,
-   "date": "2026-09-20T00:00:00Z",
-   "round": "Regular Season - 7",
-   "venue": null,
-   "city": null,
-   "homeId": 546,
-   "awayId": 535,
-   "home": "Getafe",
-   "away": "Malaga"
   },
   {
    "id": 564698,
@@ -8717,15 +8717,15 @@
    "away": "Frosinone"
   },
   {
-   "id": 558608,
+   "id": 558600,
    "date": "2026-09-12T16:00:00Z",
    "round": "Regular Season - 4",
    "venue": null,
    "city": null,
-   "homeId": 488,
-   "awayId": 496,
-   "home": "Sassuolo",
-   "away": "Juventus"
+   "homeId": 487,
+   "awayId": 489,
+   "home": "Lazio",
+   "away": "Milan"
   },
   {
    "id": 558607,
@@ -8737,28 +8737,6 @@
    "awayId": 490,
    "home": "Atalanta",
    "away": "Cagliari"
-  },
-  {
-   "id": 558603,
-   "date": "2026-09-13T10:30:00Z",
-   "round": "Regular Season - 4",
-   "venue": null,
-   "city": null,
-   "homeId": 503,
-   "awayId": 497,
-   "home": "Torino",
-   "away": "Roma"
-  },
-  {
-   "id": 558602,
-   "date": "2026-09-13T13:00:00Z",
-   "round": "Regular Season - 4",
-   "venue": null,
-   "city": null,
-   "homeId": 895,
-   "awayId": 523,
-   "home": "Como",
-   "away": "Parma"
   },
   {
    "id": 558605,
@@ -8783,15 +8761,37 @@
    "away": "Bologna"
   },
   {
-   "id": 558600,
+   "id": 558608,
    "date": "2026-09-13T18:45:00Z",
    "round": "Regular Season - 4",
    "venue": null,
    "city": null,
-   "homeId": 487,
-   "awayId": 489,
-   "home": "Lazio",
-   "away": "Milan"
+   "homeId": 488,
+   "awayId": 496,
+   "home": "Sassuolo",
+   "away": "Juventus"
+  },
+  {
+   "id": 558602,
+   "date": "2026-09-14T16:30:00Z",
+   "round": "Regular Season - 4",
+   "venue": null,
+   "city": null,
+   "homeId": 895,
+   "awayId": 523,
+   "home": "Como",
+   "away": "Parma"
+  },
+  {
+   "id": 558603,
+   "date": "2026-09-14T16:30:00Z",
+   "round": "Regular Season - 4",
+   "venue": null,
+   "city": null,
+   "homeId": 503,
+   "awayId": 497,
+   "home": "Torino",
+   "away": "Roma"
   },
   {
    "id": 558601,
@@ -16311,41 +16311,19 @@
    "away": "Paris SG"
   },
   {
-   "id": 559676,
-   "date": "2026-09-19T00:00:00Z",
+   "id": 559682,
+   "date": "2026-09-18T18:45:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
-   "homeId": 108,
-   "awayId": 106,
-   "home": "Auxerre",
-   "away": "Brest"
-  },
-  {
-   "id": 559677,
-   "date": "2026-09-19T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 1298,
-   "awayId": 97,
-   "home": "Le Mans",
-   "away": "Lorient"
-  },
-  {
-   "id": 559678,
-   "date": "2026-09-19T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 84,
-   "awayId": 79,
-   "home": "Nice",
-   "away": "Lille"
+   "homeId": 91,
+   "awayId": 116,
+   "home": "Monaco",
+   "away": "Lens"
   },
   {
    "id": 559679,
-   "date": "2026-09-19T00:00:00Z",
+   "date": "2026-09-19T15:15:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -16355,8 +16333,19 @@
    "away": "Strasbourg"
   },
   {
+   "id": 559677,
+   "date": "2026-09-19T18:45:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 1298,
+   "awayId": 97,
+   "home": "Le Mans",
+   "away": "Lorient"
+  },
+  {
    "id": 559680,
-   "date": "2026-09-19T00:00:00Z",
+   "date": "2026-09-19T18:45:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -16367,7 +16356,7 @@
   },
   {
    "id": 559681,
-   "date": "2026-09-19T00:00:00Z",
+   "date": "2026-09-19T18:45:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -16377,19 +16366,8 @@
    "away": "Troyes"
   },
   {
-   "id": 559682,
-   "date": "2026-09-19T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 91,
-   "awayId": 116,
-   "home": "Monaco",
-   "away": "Lens"
-  },
-  {
    "id": 559683,
-   "date": "2026-09-19T00:00:00Z",
+   "date": "2026-09-19T18:45:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -16397,6 +16375,28 @@
    "awayId": 94,
    "home": "Lyon",
    "away": "Rennes"
+  },
+  {
+   "id": 559676,
+   "date": "2026-09-20T13:00:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 108,
+   "awayId": 106,
+   "home": "Auxerre",
+   "away": "Brest"
+  },
+  {
+   "id": 559678,
+   "date": "2026-09-20T15:15:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 84,
+   "awayId": 79,
+   "home": "Nice",
+   "away": "Lille"
   },
   {
    "id": 559675,

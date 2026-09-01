@@ -148,6 +148,8 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-11T18:30:00Z,bundesliga,"Regular Season - 3","Union Berlin","Schalke",0.5334,0.2634,0.2033,1.76,1.02,https://theopenmodel.com/match/union-berlin-vs-schalke-2026-09-11/
 2026-09-11T18:45:00Z,serie-a,"Regular Season - 4","Venezia","Fiorentina",0.332,0.2844,0.3835,1.33,1.45,https://theopenmodel.com/match/venezia-vs-fiorentina-2026-09-11/
 2026-09-11T18:45:00Z,ligue-1,"Regular Season - 4","Rennes","Marseille",0.4133,0.2826,0.3041,1.51,1.27,https://theopenmodel.com/match/rennes-vs-marseille-2026-09-11/
+2026-09-11T19:00:00Z,la-liga,"Regular Season - 5","Sevilla","Valencia",0.3437,0.2848,0.3715,1.36,1.42,https://theopenmodel.com/match/sevilla-vs-valencia-2026-09-11/
+2026-09-12T12:00:00Z,la-liga,"Regular Season - 5","Santander","Alaves",0.3384,0.2847,0.3769,1.35,1.43,https://theopenmodel.com/match/santander-vs-alaves-2026-09-12/
 2026-09-12T13:00:00Z,serie-a,"Regular Season - 4","Genoa","Frosinone",0.4777,0.2746,0.2477,1.65,1.14,https://theopenmodel.com/match/genoa-vs-frosinone-2026-09-12/
 2026-09-12T13:30:00Z,bundesliga,"Regular Season - 3","Hoffenheim","Stuttgart",0.341,0.2847,0.3743,1.35,1.43,https://theopenmodel.com/match/hoffenheim-vs-stuttgart-2026-09-12/
 2026-09-12T13:30:00Z,bundesliga,"Regular Season - 3","Dortmund","Paderborn",0.7717,0.173,0.0553,2.29,0.5,https://theopenmodel.com/match/dortmund-vs-paderborn-2026-09-12/
@@ -159,9 +161,11 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-12T14:00:00Z,premier-league,"Regular Season - 4","Aston Villa","Forest",0.5323,0.2636,0.2041,1.76,1.02,https://theopenmodel.com/match/aston-villa-vs-forest-2026-09-12/
 2026-09-12T14:00:00Z,premier-league,"Regular Season - 4","Bournemouth","Brentford",0.456,0.2779,0.2661,1.6,1.18,https://theopenmodel.com/match/bournemouth-vs-brentford-2026-09-12/
 2026-09-12T14:00:00Z,premier-league,"Regular Season - 4","Chelsea","Hull",0.7602,0.179,0.0609,2.26,0.52,https://theopenmodel.com/match/chelsea-vs-hull-2026-09-12/
+2026-09-12T14:15:00Z,la-liga,"Regular Season - 5","Osasuna","Espanyol",0.4212,0.2819,0.2969,1.53,1.25,https://theopenmodel.com/match/osasuna-vs-espanyol-2026-09-12/
 2026-09-12T15:15:00Z,ligue-1,"Regular Season - 4","Strasbourg","Monaco",0.4061,0.2832,0.3107,1.5,1.29,https://theopenmodel.com/match/strasbourg-vs-monaco-2026-09-12/
-2026-09-12T16:00:00Z,serie-a,"Regular Season - 4","Sassuolo","Juventus",0.2484,0.2747,0.4769,1.14,1.64,https://theopenmodel.com/match/sassuolo-vs-juventus-2026-09-12/
+2026-09-12T16:00:00Z,serie-a,"Regular Season - 4","Lazio","Milan",0.3597,0.2849,0.3553,1.4,1.39,https://theopenmodel.com/match/lazio-vs-milan-2026-09-12/
 2026-09-12T16:30:00Z,premier-league,"Regular Season - 4","Tottenham","Everton",0.3835,0.2844,0.332,1.45,1.33,https://theopenmodel.com/match/tottenham-vs-everton-2026-09-12/
+2026-09-12T16:30:00Z,la-liga,"Regular Season - 5","Bilbao","Elche",0.4793,0.2743,0.2464,1.65,1.13,https://theopenmodel.com/match/bilbao-vs-elche-2026-09-12/
 2026-09-12T16:30:00Z,bundesliga,"Regular Season - 3","Koeln","Werder",0.37,0.2848,0.3451,1.42,1.36,https://theopenmodel.com/match/koeln-vs-werder-2026-09-12/
 2026-09-12T18:45:00Z,serie-a,"Regular Season - 4","Atalanta","Cagliari",0.6163,0.2397,0.144,1.94,0.85,https://theopenmodel.com/match/atalanta-vs-cagliari-2026-09-12/
 2026-09-12T18:45:00Z,ligue-1,"Regular Season - 4","Lorient","Toulouse",0.3985,0.2837,0.3178,1.48,1.3,https://theopenmodel.com/match/lorient-vs-toulouse-2026-09-12/
@@ -169,51 +173,41 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-12T18:45:00Z,ligue-1,"Regular Season - 4","Le Havre","Angers",0.4527,0.2784,0.2689,1.59,1.19,https://theopenmodel.com/match/le-havre-vs-angers-2026-09-12/
 2026-09-12T18:45:00Z,ligue-1,"Regular Season - 4","Paris FC","Lyon",0.2982,0.2821,0.4197,1.26,1.52,https://theopenmodel.com/match/paris-fc-vs-lyon-2026-09-12/
 2026-09-12T19:00:00Z,premier-league,"Regular Season - 4","Sunderland","Arsenal",0.1001,0.2131,0.6868,0.69,2.09,https://theopenmodel.com/match/sunderland-vs-arsenal-2026-09-12/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Getafe","Depor",0.5359,0.2628,0.2013,1.77,1.01,https://theopenmodel.com/match/getafe-vs-depor-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Sevilla","Valencia",0.3437,0.2848,0.3715,1.36,1.42,https://theopenmodel.com/match/sevilla-vs-valencia-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Santander","Alaves",0.3384,0.2847,0.3769,1.35,1.43,https://theopenmodel.com/match/santander-vs-alaves-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Villarreal","Betis",0.4248,0.2816,0.2936,1.54,1.25,https://theopenmodel.com/match/villarreal-vs-betis-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Celta","Malaga",0.5772,0.2519,0.171,1.85,0.93,https://theopenmodel.com/match/celta-vs-malaga-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Osasuna","Espanyol",0.4212,0.2819,0.2969,1.53,1.25,https://theopenmodel.com/match/osasuna-vs-espanyol-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Sociedad","Atletico",0.2366,0.2722,0.4912,1.11,1.67,https://theopenmodel.com/match/sociedad-vs-atletico-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Levante","Barcelona",0.1003,0.2133,0.6865,0.69,2.09,https://theopenmodel.com/match/levante-vs-barcelona-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Bilbao","Elche",0.4793,0.2743,0.2464,1.65,1.13,https://theopenmodel.com/match/bilbao-vs-elche-2026-09-13/
-2026-09-13T00:00:00Z,la-liga,"Regular Season - 5","Real Madrid","Rayo Vallecano",0.682,0.2151,0.1029,2.08,0.7,https://theopenmodel.com/match/real-madrid-vs-rayo-vallecano-2026-09-13/
-2026-09-13T10:30:00Z,serie-a,"Regular Season - 4","Torino","Roma",0.2296,0.2706,0.4999,1.09,1.69,https://theopenmodel.com/match/torino-vs-roma-2026-09-13/
+2026-09-12T19:00:00Z,la-liga,"Regular Season - 5","Real Madrid","Rayo Vallecano",0.682,0.2151,0.1029,2.08,0.7,https://theopenmodel.com/match/real-madrid-vs-rayo-vallecano-2026-09-12/
+2026-09-13T12:00:00Z,la-liga,"Regular Season - 5","Celta","Malaga",0.5772,0.2519,0.171,1.85,0.93,https://theopenmodel.com/match/celta-vs-malaga-2026-09-13/
 2026-09-13T13:00:00Z,premier-league,"Regular Season - 4","Coventry","Brighton",0.2189,0.2679,0.5132,1.06,1.72,https://theopenmodel.com/match/coventry-vs-brighton-2026-09-13/
-2026-09-13T13:00:00Z,serie-a,"Regular Season - 4","Como","Parma",0.6056,0.2432,0.1512,1.91,0.87,https://theopenmodel.com/match/como-vs-parma-2026-09-13/
 2026-09-13T13:00:00Z,serie-a,"Regular Season - 4","Lecce","Monza",0.4424,0.2797,0.2779,1.57,1.21,https://theopenmodel.com/match/lecce-vs-monza-2026-09-13/
 2026-09-13T13:00:00Z,ligue-1,"Regular Season - 4","Lille","Troyes",0.678,0.2168,0.1052,2.07,0.71,https://theopenmodel.com/match/lille-vs-troyes-2026-09-13/
 2026-09-13T13:30:00Z,bundesliga,"Regular Season - 3","RB Leipzig","Hamburg",0.6052,0.2433,0.1515,1.91,0.87,https://theopenmodel.com/match/rb-leipzig-vs-hamburg-2026-09-13/
+2026-09-13T14:15:00Z,la-liga,"Regular Season - 5","Levante","Barcelona",0.1003,0.2133,0.6865,0.69,2.09,https://theopenmodel.com/match/levante-vs-barcelona-2026-09-13/
 2026-09-13T15:15:00Z,ligue-1,"Regular Season - 4","Le Mans","Lens",0.1379,0.2365,0.6256,0.83,1.96,https://theopenmodel.com/match/le-mans-vs-lens-2026-09-13/
 2026-09-13T15:30:00Z,premier-league,"Regular Season - 4","Man United","Man City",0.3498,0.2849,0.3653,1.37,1.41,https://theopenmodel.com/match/man-united-vs-man-city-2026-09-13/
 2026-09-13T15:30:00Z,bundesliga,"Regular Season - 3","Elversberg","Bayern",0.0268,0.1338,0.8394,0.32,2.46,https://theopenmodel.com/match/elversberg-vs-bayern-2026-09-13/
 2026-09-13T16:00:00Z,serie-a,"Regular Season - 4","Napoli","Bologna",0.5084,0.2689,0.2227,1.71,1.07,https://theopenmodel.com/match/napoli-vs-bologna-2026-09-13/
-2026-09-13T18:45:00Z,serie-a,"Regular Season - 4","Lazio","Milan",0.3597,0.2849,0.3553,1.4,1.39,https://theopenmodel.com/match/lazio-vs-milan-2026-09-13/
+2026-09-13T16:30:00Z,la-liga,"Regular Season - 5","Getafe","Depor",0.5359,0.2628,0.2013,1.77,1.01,https://theopenmodel.com/match/getafe-vs-depor-2026-09-13/
+2026-09-13T18:45:00Z,serie-a,"Regular Season - 4","Sassuolo","Juventus",0.2484,0.2747,0.4769,1.14,1.64,https://theopenmodel.com/match/sassuolo-vs-juventus-2026-09-13/
 2026-09-13T18:45:00Z,ligue-1,"Regular Season - 4","Brest","Paris SG",0.0879,0.2039,0.7082,0.64,2.14,https://theopenmodel.com/match/brest-vs-paris-sg-2026-09-13/
+2026-09-13T19:00:00Z,la-liga,"Regular Season - 5","Sociedad","Atletico",0.2366,0.2722,0.4912,1.11,1.67,https://theopenmodel.com/match/sociedad-vs-atletico-2026-09-13/
+2026-09-14T16:30:00Z,serie-a,"Regular Season - 4","Como","Parma",0.6056,0.2432,0.1512,1.91,0.87,https://theopenmodel.com/match/como-vs-parma-2026-09-14/
+2026-09-14T16:30:00Z,serie-a,"Regular Season - 4","Torino","Roma",0.2296,0.2706,0.4999,1.09,1.69,https://theopenmodel.com/match/torino-vs-roma-2026-09-14/
 2026-09-14T18:45:00Z,serie-a,"Regular Season - 4","Inter","Udinese",0.7006,0.2072,0.0922,2.12,0.66,https://theopenmodel.com/match/inter-vs-udinese-2026-09-14/
 2026-09-14T19:00:00Z,premier-league,"Regular Season - 4","Leeds","Newcastle",0.3674,0.2849,0.3477,1.41,1.37,https://theopenmodel.com/match/leeds-vs-newcastle-2026-09-14/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Rayo Vallecano","Espanyol",0.4767,0.2748,0.2486,1.64,1.14,https://theopenmodel.com/match/rayo-vallecano-vs-espanyol-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Depor","Sevilla",0.3118,0.2833,0.405,1.29,1.49,https://theopenmodel.com/match/depor-vs-sevilla-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Alaves","Valencia",0.3599,0.2849,0.3552,1.4,1.39,https://theopenmodel.com/match/alaves-vs-valencia-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Elche","Real Madrid",0.1192,0.2259,0.6549,0.76,2.02,https://theopenmodel.com/match/elche-vs-real-madrid-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Malaga","Villarreal",0.2085,0.2649,0.5266,1.03,1.75,https://theopenmodel.com/match/malaga-vs-villarreal-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Atletico","Osasuna",0.6306,0.2348,0.1346,1.97,0.82,https://theopenmodel.com/match/atletico-vs-osasuna-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Levante","Bilbao",0.3517,0.2849,0.3634,1.38,1.4,https://theopenmodel.com/match/levante-vs-bilbao-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Betis","Getafe",0.5322,0.2636,0.2042,1.76,1.02,https://theopenmodel.com/match/betis-vs-getafe-2026-09-16/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Barcelona","Santander",0.8272,0.1414,0.0314,2.43,0.35,https://theopenmodel.com/match/barcelona-vs-santander-2026-09-16/
+2026-09-14T19:00:00Z,la-liga,"Regular Season - 5","Villarreal","Betis",0.4248,0.2816,0.2936,1.54,1.25,https://theopenmodel.com/match/villarreal-vs-betis-2026-09-14/
+2026-09-15T17:00:00Z,la-liga,"Regular Season - 6","Rayo Vallecano","Espanyol",0.4767,0.2748,0.2486,1.64,1.14,https://theopenmodel.com/match/rayo-vallecano-vs-espanyol-2026-09-15/
+2026-09-15T18:00:00Z,la-liga,"Regular Season - 6","Alaves","Valencia",0.3599,0.2849,0.3552,1.4,1.39,https://theopenmodel.com/match/alaves-vs-valencia-2026-09-15/
+2026-09-15T19:30:00Z,la-liga,"Regular Season - 6","Elche","Real Madrid",0.1192,0.2259,0.6549,0.76,2.02,https://theopenmodel.com/match/elche-vs-real-madrid-2026-09-15/
+2026-09-16T17:00:00Z,la-liga,"Regular Season - 6","Depor","Sevilla",0.3118,0.2833,0.405,1.29,1.49,https://theopenmodel.com/match/depor-vs-sevilla-2026-09-16/
+2026-09-16T17:00:00Z,la-liga,"Regular Season - 6","Atletico","Osasuna",0.6306,0.2348,0.1346,1.97,0.82,https://theopenmodel.com/match/atletico-vs-osasuna-2026-09-16/
+2026-09-16T19:30:00Z,la-liga,"Regular Season - 6","Levante","Bilbao",0.3517,0.2849,0.3634,1.38,1.4,https://theopenmodel.com/match/levante-vs-bilbao-2026-09-16/
+2026-09-16T19:30:00Z,la-liga,"Regular Season - 6","Barcelona","Santander",0.8272,0.1414,0.0314,2.43,0.35,https://theopenmodel.com/match/barcelona-vs-santander-2026-09-16/
+2026-09-17T17:00:00Z,la-liga,"Regular Season - 6","Betis","Getafe",0.5322,0.2636,0.2042,1.76,1.02,https://theopenmodel.com/match/betis-vs-getafe-2026-09-17/
+2026-09-17T19:30:00Z,la-liga,"Regular Season - 6","Malaga","Villarreal",0.2085,0.2649,0.5266,1.03,1.75,https://theopenmodel.com/match/malaga-vs-villarreal-2026-09-17/
 2026-09-18T18:30:00Z,bundesliga,"Regular Season - 4","Bayern","Union Berlin",0.8408,0.1329,0.0263,2.47,0.32,https://theopenmodel.com/match/bayern-vs-union-berlin-2026-09-18/
 2026-09-18T18:45:00Z,serie-a,"Regular Season - 5","Monza","Sassuolo",0.3247,0.2841,0.3912,1.32,1.46,https://theopenmodel.com/match/monza-vs-sassuolo-2026-09-18/
+2026-09-18T18:45:00Z,ligue-1,"Regular Season - 5","Monaco","Lens",0.3567,0.2849,0.3584,1.39,1.39,https://theopenmodel.com/match/monaco-vs-lens-2026-09-18/
 2026-09-18T19:00:00Z,premier-league,"Regular Season - 5","Brentford","Chelsea",0.4205,0.282,0.2975,1.53,1.26,https://theopenmodel.com/match/brentford-vs-chelsea-2026-09-18/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Auxerre","Brest",0.4179,0.2822,0.2999,1.52,1.26,https://theopenmodel.com/match/auxerre-vs-brest-2026-09-19/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Le Mans","Lorient",0.252,0.2754,0.4726,1.15,1.64,https://theopenmodel.com/match/le-mans-vs-lorient-2026-09-19/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Nice","Lille",0.2375,0.2724,0.4901,1.11,1.67,https://theopenmodel.com/match/nice-vs-lille-2026-09-19/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Paris FC","Strasbourg",0.3209,0.2839,0.3953,1.31,1.47,https://theopenmodel.com/match/paris-fc-vs-strasbourg-2026-09-19/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Toulouse","Le Havre",0.5002,0.2705,0.2293,1.69,1.09,https://theopenmodel.com/match/toulouse-vs-le-havre-2026-09-19/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Angers","Troyes",0.4453,0.2793,0.2754,1.58,1.2,https://theopenmodel.com/match/angers-vs-troyes-2026-09-19/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Monaco","Lens",0.3567,0.2849,0.3584,1.39,1.39,https://theopenmodel.com/match/monaco-vs-lens-2026-09-19/
-2026-09-19T00:00:00Z,ligue-1,"Regular Season - 5","Lyon","Rennes",0.4323,0.2808,0.2868,1.55,1.23,https://theopenmodel.com/match/lyon-vs-rennes-2026-09-19/
 2026-09-19T11:30:00Z,premier-league,"Regular Season - 5","Tottenham","Aston Villa",0.255,0.276,0.469,1.15,1.63,https://theopenmodel.com/match/tottenham-vs-aston-villa-2026-09-19/
+2026-09-19T12:00:00Z,la-liga,"Regular Season - 7","Osasuna","Rayo Vallecano",0.3601,0.2849,0.355,1.4,1.39,https://theopenmodel.com/match/osasuna-vs-rayo-vallecano-2026-09-19/
 2026-09-19T13:00:00Z,serie-a,"Regular Season - 5","Bologna","Torino",0.5063,0.2693,0.2244,1.71,1.08,https://theopenmodel.com/match/bologna-vs-torino-2026-09-19/
 2026-09-19T13:00:00Z,serie-a,"Regular Season - 5","Udinese","Cagliari",0.4755,0.275,0.2496,1.64,1.14,https://theopenmodel.com/match/udinese-vs-cagliari-2026-09-19/
 2026-09-19T13:30:00Z,bundesliga,"Regular Season - 4","Hamburg","Koeln",0.4543,0.2781,0.2676,1.6,1.18,https://theopenmodel.com/match/hamburg-vs-koeln-2026-09-19/
@@ -224,29 +218,35 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-19T14:00:00Z,premier-league,"Regular Season - 5","Leeds","Crystal Palace",0.4065,0.2832,0.3104,1.5,1.28,https://theopenmodel.com/match/leeds-vs-crystal-palace-2026-09-19/
 2026-09-19T14:00:00Z,premier-league,"Regular Season - 5","Brighton","Arsenal",0.1812,0.2559,0.5629,0.96,1.82,https://theopenmodel.com/match/brighton-vs-arsenal-2026-09-19/
 2026-09-19T14:00:00Z,premier-league,"Regular Season - 5","Newcastle","Hull",0.7668,0.1756,0.0577,2.27,0.51,https://theopenmodel.com/match/newcastle-vs-hull-2026-09-19/
+2026-09-19T14:15:00Z,la-liga,"Regular Season - 7","Bilbao","Alaves",0.4463,0.2792,0.2746,1.58,1.2,https://theopenmodel.com/match/bilbao-vs-alaves-2026-09-19/
+2026-09-19T15:15:00Z,ligue-1,"Regular Season - 5","Paris FC","Strasbourg",0.3209,0.2839,0.3953,1.31,1.47,https://theopenmodel.com/match/paris-fc-vs-strasbourg-2026-09-19/
 2026-09-19T16:00:00Z,serie-a,"Regular Season - 5","Roma","Inter",0.306,0.2828,0.4112,1.27,1.51,https://theopenmodel.com/match/roma-vs-inter-2026-09-19/
 2026-09-19T16:30:00Z,premier-league,"Regular Season - 5","Forest","Coventry",0.6063,0.243,0.1507,1.91,0.87,https://theopenmodel.com/match/forest-vs-coventry-2026-09-19/
+2026-09-19T16:30:00Z,la-liga,"Regular Season - 7","Celta","Santander",0.5527,0.2586,0.1887,1.8,0.98,https://theopenmodel.com/match/celta-vs-santander-2026-09-19/
 2026-09-19T16:30:00Z,bundesliga,"Regular Season - 4","Stuttgart","Dortmund",0.3325,0.2845,0.3831,1.34,1.45,https://theopenmodel.com/match/stuttgart-vs-dortmund-2026-09-19/
 2026-09-19T18:45:00Z,serie-a,"Regular Season - 5","Venezia","Lazio",0.296,0.2819,0.4222,1.25,1.53,https://theopenmodel.com/match/venezia-vs-lazio-2026-09-19/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Atletico","Real Madrid",0.3102,0.2831,0.4066,1.28,1.5,https://theopenmodel.com/match/atletico-vs-real-madrid-2026-09-20/
+2026-09-19T18:45:00Z,ligue-1,"Regular Season - 5","Le Mans","Lorient",0.252,0.2754,0.4726,1.15,1.64,https://theopenmodel.com/match/le-mans-vs-lorient-2026-09-19/
+2026-09-19T18:45:00Z,ligue-1,"Regular Season - 5","Toulouse","Le Havre",0.5002,0.2705,0.2293,1.69,1.09,https://theopenmodel.com/match/toulouse-vs-le-havre-2026-09-19/
+2026-09-19T18:45:00Z,ligue-1,"Regular Season - 5","Angers","Troyes",0.4453,0.2793,0.2754,1.58,1.2,https://theopenmodel.com/match/angers-vs-troyes-2026-09-19/
+2026-09-19T18:45:00Z,ligue-1,"Regular Season - 5","Lyon","Rennes",0.4323,0.2808,0.2868,1.55,1.23,https://theopenmodel.com/match/lyon-vs-rennes-2026-09-19/
+2026-09-19T19:00:00Z,la-liga,"Regular Season - 7","Sevilla","Barcelona",0.1085,0.219,0.6725,0.72,2.06,https://theopenmodel.com/match/sevilla-vs-barcelona-2026-09-19/
 2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Valencia","Sociedad",0.4471,0.2791,0.2738,1.58,1.2,https://theopenmodel.com/match/valencia-vs-sociedad-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Sevilla","Barcelona",0.1085,0.219,0.6725,0.72,2.06,https://theopenmodel.com/match/sevilla-vs-barcelona-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Bilbao","Alaves",0.4463,0.2792,0.2746,1.58,1.2,https://theopenmodel.com/match/bilbao-vs-alaves-2026-09-20/
 2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Espanyol","Elche",0.439,0.2801,0.2809,1.57,1.22,https://theopenmodel.com/match/espanyol-vs-elche-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Osasuna","Rayo Vallecano",0.3601,0.2849,0.355,1.4,1.39,https://theopenmodel.com/match/osasuna-vs-rayo-vallecano-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Celta","Santander",0.5527,0.2586,0.1887,1.8,0.98,https://theopenmodel.com/match/celta-vs-santander-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Depor","Betis",0.2002,0.2624,0.5373,1.01,1.77,https://theopenmodel.com/match/depor-vs-betis-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Villarreal","Levante",0.5724,0.2532,0.1744,1.84,0.94,https://theopenmodel.com/match/villarreal-vs-levante-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Getafe","Malaga",0.5142,0.2677,0.2181,1.72,1.06,https://theopenmodel.com/match/getafe-vs-malaga-2026-09-20/
 2026-09-20T10:30:00Z,serie-a,"Regular Season - 5","Fiorentina","Napoli",0.2899,0.2812,0.4289,1.24,1.54,https://theopenmodel.com/match/fiorentina-vs-napoli-2026-09-20/
+2026-09-20T12:00:00Z,la-liga,"Regular Season - 7","Getafe","Malaga",0.5142,0.2677,0.2181,1.72,1.06,https://theopenmodel.com/match/getafe-vs-malaga-2026-09-20/
 2026-09-20T13:00:00Z,premier-league,"Regular Season - 5","Bournemouth","Liverpool",0.3689,0.2849,0.3463,1.42,1.37,https://theopenmodel.com/match/bournemouth-vs-liverpool-2026-09-20/
 2026-09-20T13:00:00Z,premier-league,"Regular Season - 5","Man City","Sunderland",0.692,0.2109,0.0971,2.1,0.68,https://theopenmodel.com/match/man-city-vs-sunderland-2026-09-20/
 2026-09-20T13:00:00Z,serie-a,"Regular Season - 5","Frosinone","Como",0.205,0.2639,0.5311,1.02,1.76,https://theopenmodel.com/match/frosinone-vs-como-2026-09-20/
 2026-09-20T13:00:00Z,serie-a,"Regular Season - 5","Parma","Genoa",0.3926,0.284,0.3234,1.47,1.31,https://theopenmodel.com/match/parma-vs-genoa-2026-09-20/
+2026-09-20T13:00:00Z,ligue-1,"Regular Season - 5","Auxerre","Brest",0.4179,0.2822,0.2999,1.52,1.26,https://theopenmodel.com/match/auxerre-vs-brest-2026-09-20/
 2026-09-20T13:30:00Z,bundesliga,"Regular Season - 4","Leverkusen","RB Leipzig",0.4641,0.2767,0.2592,1.62,1.16,https://theopenmodel.com/match/leverkusen-vs-rb-leipzig-2026-09-20/
+2026-09-20T14:15:00Z,la-liga,"Regular Season - 7","Atletico","Real Madrid",0.3102,0.2831,0.4066,1.28,1.5,https://theopenmodel.com/match/atletico-vs-real-madrid-2026-09-20/
+2026-09-20T15:15:00Z,ligue-1,"Regular Season - 5","Nice","Lille",0.2375,0.2724,0.4901,1.11,1.67,https://theopenmodel.com/match/nice-vs-lille-2026-09-20/
 2026-09-20T15:30:00Z,premier-league,"Regular Season - 5","Fulham","Man United",0.2984,0.2821,0.4196,1.26,1.52,https://theopenmodel.com/match/fulham-vs-man-united-2026-09-20/
 2026-09-20T15:30:00Z,bundesliga,"Regular Season - 4","Schalke","Elversberg",0.4097,0.2829,0.3074,1.5,1.28,https://theopenmodel.com/match/schalke-vs-elversberg-2026-09-20/
 2026-09-20T16:00:00Z,serie-a,"Regular Season - 5","Juventus","Atalanta",0.4244,0.2816,0.294,1.53,1.25,https://theopenmodel.com/match/juventus-vs-atalanta-2026-09-20/
+2026-09-20T16:30:00Z,la-liga,"Regular Season - 7","Depor","Betis",0.2002,0.2624,0.5373,1.01,1.77,https://theopenmodel.com/match/depor-vs-betis-2026-09-20/
+2026-09-20T16:30:00Z,la-liga,"Regular Season - 7","Villarreal","Levante",0.5724,0.2532,0.1744,1.84,0.94,https://theopenmodel.com/match/villarreal-vs-levante-2026-09-20/
 2026-09-20T17:30:00Z,bundesliga,"Regular Season - 4","Paderborn","Hoffenheim",0.2241,0.2692,0.5066,1.08,1.71,https://theopenmodel.com/match/paderborn-vs-hoffenheim-2026-09-20/
 2026-09-20T18:45:00Z,serie-a,"Regular Season - 5","Milan","Lecce",0.6313,0.2345,0.1342,1.97,0.81,https://theopenmodel.com/match/milan-vs-lecce-2026-09-20/
 2026-09-20T18:45:00Z,ligue-1,"Regular Season - 5","Marseille","Paris SG",0.1564,0.2456,0.598,0.88,1.9,https://theopenmodel.com/match/marseille-vs-paris-sg-2026-09-20/
