@@ -474,17 +474,6 @@
    "away": "Ipswich"
   },
   {
-   "id": 560585,
-   "date": "2026-09-19T14:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 63,
-   "awayId": 52,
-   "home": "Leeds",
-   "away": "Crystal Palace"
-  },
-  {
    "id": 560586,
    "date": "2026-09-19T14:00:00Z",
    "round": "Regular Season - 5",
@@ -527,6 +516,17 @@
    "awayId": 40,
    "home": "Bournemouth",
    "away": "Liverpool"
+  },
+  {
+   "id": 560585,
+   "date": "2026-09-20T13:00:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 63,
+   "awayId": 52,
+   "home": "Leeds",
+   "away": "Crystal Palace"
   },
   {
    "id": 560590,
@@ -4843,6 +4843,17 @@
    "away": "Villarreal"
   },
   {
+   "id": 564692,
+   "date": "2026-09-18T19:00:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 540,
+   "awayId": 797,
+   "home": "Espanyol",
+   "away": "Elche"
+  },
+  {
    "id": 564693,
    "date": "2026-09-19T12:00:00Z",
    "round": "Regular Season - 7",
@@ -4887,28 +4898,6 @@
    "away": "Barcelona"
   },
   {
-   "id": 564689,
-   "date": "2026-09-20T00:00:00Z",
-   "round": "Regular Season - 7",
-   "venue": null,
-   "city": null,
-   "homeId": 532,
-   "awayId": 548,
-   "home": "Valencia",
-   "away": "Sociedad"
-  },
-  {
-   "id": 564692,
-   "date": "2026-09-20T00:00:00Z",
-   "round": "Regular Season - 7",
-   "venue": null,
-   "city": null,
-   "homeId": 540,
-   "awayId": 797,
-   "home": "Espanyol",
-   "away": "Elche"
-  },
-  {
    "id": 564697,
    "date": "2026-09-20T12:00:00Z",
    "round": "Regular Season - 7",
@@ -4951,6 +4940,17 @@
    "awayId": 539,
    "home": "Villarreal",
    "away": "Levante"
+  },
+  {
+   "id": 564689,
+   "date": "2026-09-20T19:00:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 532,
+   "awayId": 548,
+   "home": "Valencia",
+   "away": "Sociedad"
   },
   {
    "id": 564698,

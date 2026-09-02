@@ -206,6 +206,7 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-18T18:45:00Z,serie-a,"Regular Season - 5","Monza","Sassuolo",0.3247,0.2841,0.3912,1.32,1.46,https://theopenmodel.com/match/monza-vs-sassuolo-2026-09-18/
 2026-09-18T18:45:00Z,ligue-1,"Regular Season - 5","Monaco","Lens",0.3567,0.2849,0.3584,1.39,1.39,https://theopenmodel.com/match/monaco-vs-lens-2026-09-18/
 2026-09-18T19:00:00Z,premier-league,"Regular Season - 5","Brentford","Chelsea",0.4205,0.282,0.2975,1.53,1.26,https://theopenmodel.com/match/brentford-vs-chelsea-2026-09-18/
+2026-09-18T19:00:00Z,la-liga,"Regular Season - 7","Espanyol","Elche",0.439,0.2801,0.2809,1.57,1.22,https://theopenmodel.com/match/espanyol-vs-elche-2026-09-18/
 2026-09-19T11:30:00Z,premier-league,"Regular Season - 5","Tottenham","Aston Villa",0.255,0.276,0.469,1.15,1.63,https://theopenmodel.com/match/tottenham-vs-aston-villa-2026-09-19/
 2026-09-19T12:00:00Z,la-liga,"Regular Season - 7","Osasuna","Rayo Vallecano",0.3601,0.2849,0.355,1.4,1.39,https://theopenmodel.com/match/osasuna-vs-rayo-vallecano-2026-09-19/
 2026-09-19T13:00:00Z,serie-a,"Regular Season - 5","Bologna","Torino",0.5063,0.2693,0.2244,1.71,1.08,https://theopenmodel.com/match/bologna-vs-torino-2026-09-19/
@@ -215,7 +216,6 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-19T13:30:00Z,bundesliga,"Regular Season - 4","Werder","Augsburg",0.3786,0.2846,0.3368,1.44,1.34,https://theopenmodel.com/match/werder-vs-augsburg-2026-09-19/
 2026-09-19T13:30:00Z,bundesliga,"Regular Season - 4","Frankfurt","Freiburg",0.3436,0.2848,0.3716,1.36,1.42,https://theopenmodel.com/match/frankfurt-vs-freiburg-2026-09-19/
 2026-09-19T14:00:00Z,premier-league,"Regular Season - 5","Everton","Ipswich",0.6095,0.2419,0.1486,1.92,0.86,https://theopenmodel.com/match/everton-vs-ipswich-2026-09-19/
-2026-09-19T14:00:00Z,premier-league,"Regular Season - 5","Leeds","Crystal Palace",0.4065,0.2832,0.3104,1.5,1.28,https://theopenmodel.com/match/leeds-vs-crystal-palace-2026-09-19/
 2026-09-19T14:00:00Z,premier-league,"Regular Season - 5","Brighton","Arsenal",0.1812,0.2559,0.5629,0.96,1.82,https://theopenmodel.com/match/brighton-vs-arsenal-2026-09-19/
 2026-09-19T14:00:00Z,premier-league,"Regular Season - 5","Newcastle","Hull",0.7668,0.1756,0.0577,2.27,0.51,https://theopenmodel.com/match/newcastle-vs-hull-2026-09-19/
 2026-09-19T14:15:00Z,la-liga,"Regular Season - 7","Bilbao","Alaves",0.4463,0.2792,0.2746,1.58,1.2,https://theopenmodel.com/match/bilbao-vs-alaves-2026-09-19/
@@ -230,11 +230,10 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-19T18:45:00Z,ligue-1,"Regular Season - 5","Angers","Troyes",0.4453,0.2793,0.2754,1.58,1.2,https://theopenmodel.com/match/angers-vs-troyes-2026-09-19/
 2026-09-19T18:45:00Z,ligue-1,"Regular Season - 5","Lyon","Rennes",0.4323,0.2808,0.2868,1.55,1.23,https://theopenmodel.com/match/lyon-vs-rennes-2026-09-19/
 2026-09-19T19:00:00Z,la-liga,"Regular Season - 7","Sevilla","Barcelona",0.1085,0.219,0.6725,0.72,2.06,https://theopenmodel.com/match/sevilla-vs-barcelona-2026-09-19/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Valencia","Sociedad",0.4471,0.2791,0.2738,1.58,1.2,https://theopenmodel.com/match/valencia-vs-sociedad-2026-09-20/
-2026-09-20T00:00:00Z,la-liga,"Regular Season - 7","Espanyol","Elche",0.439,0.2801,0.2809,1.57,1.22,https://theopenmodel.com/match/espanyol-vs-elche-2026-09-20/
 2026-09-20T10:30:00Z,serie-a,"Regular Season - 5","Fiorentina","Napoli",0.2899,0.2812,0.4289,1.24,1.54,https://theopenmodel.com/match/fiorentina-vs-napoli-2026-09-20/
 2026-09-20T12:00:00Z,la-liga,"Regular Season - 7","Getafe","Malaga",0.5142,0.2677,0.2181,1.72,1.06,https://theopenmodel.com/match/getafe-vs-malaga-2026-09-20/
 2026-09-20T13:00:00Z,premier-league,"Regular Season - 5","Bournemouth","Liverpool",0.3689,0.2849,0.3463,1.42,1.37,https://theopenmodel.com/match/bournemouth-vs-liverpool-2026-09-20/
+2026-09-20T13:00:00Z,premier-league,"Regular Season - 5","Leeds","Crystal Palace",0.4065,0.2832,0.3104,1.5,1.28,https://theopenmodel.com/match/leeds-vs-crystal-palace-2026-09-20/
 2026-09-20T13:00:00Z,premier-league,"Regular Season - 5","Man City","Sunderland",0.692,0.2109,0.0971,2.1,0.68,https://theopenmodel.com/match/man-city-vs-sunderland-2026-09-20/
 2026-09-20T13:00:00Z,serie-a,"Regular Season - 5","Frosinone","Como",0.205,0.2639,0.5311,1.02,1.76,https://theopenmodel.com/match/frosinone-vs-como-2026-09-20/
 2026-09-20T13:00:00Z,serie-a,"Regular Season - 5","Parma","Genoa",0.3926,0.284,0.3234,1.47,1.31,https://theopenmodel.com/match/parma-vs-genoa-2026-09-20/
@@ -250,6 +249,7 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-20T17:30:00Z,bundesliga,"Regular Season - 4","Paderborn","Hoffenheim",0.2241,0.2692,0.5066,1.08,1.71,https://theopenmodel.com/match/paderborn-vs-hoffenheim-2026-09-20/
 2026-09-20T18:45:00Z,serie-a,"Regular Season - 5","Milan","Lecce",0.6313,0.2345,0.1342,1.97,0.81,https://theopenmodel.com/match/milan-vs-lecce-2026-09-20/
 2026-09-20T18:45:00Z,ligue-1,"Regular Season - 5","Marseille","Paris SG",0.1564,0.2456,0.598,0.88,1.9,https://theopenmodel.com/match/marseille-vs-paris-sg-2026-09-20/
+2026-09-20T19:00:00Z,la-liga,"Regular Season - 7","Valencia","Sociedad",0.4471,0.2791,0.2738,1.58,1.2,https://theopenmodel.com/match/valencia-vs-sociedad-2026-09-20/
 2026-10-10T00:00:00Z,bundesliga,"Regular Season - 5","Mainz","Leverkusen",0.2669,0.278,0.4551,1.18,1.6,https://theopenmodel.com/match/mainz-vs-leverkusen-2026-10-10/
 2026-10-10T00:00:00Z,bundesliga,"Regular Season - 5","Paderborn","Stuttgart",0.167,0.2502,0.5828,0.92,1.86,https://theopenmodel.com/match/paderborn-vs-stuttgart-2026-10-10/
 2026-10-10T00:00:00Z,bundesliga,"Regular Season - 5","Koeln","Gladbach",0.3307,0.2844,0.3849,1.33,1.45,https://theopenmodel.com/match/koeln-vs-gladbach-2026-10-10/

@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-01",
+ "updated": "2026-09-02",
  "license": "CC BY 4.0 — link to theopenmodel.com",
  "rows": [
   {
@@ -2694,6 +2694,19 @@
    "url": "https://theopenmodel.com/match/brentford-vs-chelsea-2026-09-18/"
   },
   {
+   "date": "2026-09-18T19:00:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 7",
+   "home": "Espanyol",
+   "away": "Elche",
+   "pHome": 0.439,
+   "pDraw": 0.2801,
+   "pAway": 0.2809,
+   "xgHome": 1.57,
+   "xgAway": 1.22,
+   "url": "https://theopenmodel.com/match/espanyol-vs-elche-2026-09-18/"
+  },
+  {
    "date": "2026-09-19T11:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 5",
@@ -2809,19 +2822,6 @@
    "xgHome": 1.92,
    "xgAway": 0.86,
    "url": "https://theopenmodel.com/match/everton-vs-ipswich-2026-09-19/"
-  },
-  {
-   "date": "2026-09-19T14:00:00Z",
-   "league": "premier-league",
-   "round": "Regular Season - 5",
-   "home": "Leeds",
-   "away": "Crystal Palace",
-   "pHome": 0.4065,
-   "pDraw": 0.2832,
-   "pAway": 0.3104,
-   "xgHome": 1.5,
-   "xgAway": 1.28,
-   "url": "https://theopenmodel.com/match/leeds-vs-crystal-palace-2026-09-19/"
   },
   {
    "date": "2026-09-19T14:00:00Z",
@@ -3006,32 +3006,6 @@
    "url": "https://theopenmodel.com/match/sevilla-vs-barcelona-2026-09-19/"
   },
   {
-   "date": "2026-09-20T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 7",
-   "home": "Valencia",
-   "away": "Sociedad",
-   "pHome": 0.4471,
-   "pDraw": 0.2791,
-   "pAway": 0.2738,
-   "xgHome": 1.58,
-   "xgAway": 1.2,
-   "url": "https://theopenmodel.com/match/valencia-vs-sociedad-2026-09-20/"
-  },
-  {
-   "date": "2026-09-20T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 7",
-   "home": "Espanyol",
-   "away": "Elche",
-   "pHome": 0.439,
-   "pDraw": 0.2801,
-   "pAway": 0.2809,
-   "xgHome": 1.57,
-   "xgAway": 1.22,
-   "url": "https://theopenmodel.com/match/espanyol-vs-elche-2026-09-20/"
-  },
-  {
    "date": "2026-09-20T10:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 5",
@@ -3069,6 +3043,19 @@
    "xgHome": 1.42,
    "xgAway": 1.37,
    "url": "https://theopenmodel.com/match/bournemouth-vs-liverpool-2026-09-20/"
+  },
+  {
+   "date": "2026-09-20T13:00:00Z",
+   "league": "premier-league",
+   "round": "Regular Season - 5",
+   "home": "Leeds",
+   "away": "Crystal Palace",
+   "pHome": 0.4065,
+   "pDraw": 0.2832,
+   "pAway": 0.3104,
+   "xgHome": 1.5,
+   "xgAway": 1.28,
+   "url": "https://theopenmodel.com/match/leeds-vs-crystal-palace-2026-09-20/"
   },
   {
    "date": "2026-09-20T13:00:00Z",
@@ -3264,6 +3251,19 @@
    "xgHome": 0.88,
    "xgAway": 1.9,
    "url": "https://theopenmodel.com/match/marseille-vs-paris-sg-2026-09-20/"
+  },
+  {
+   "date": "2026-09-20T19:00:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 7",
+   "home": "Valencia",
+   "away": "Sociedad",
+   "pHome": 0.4471,
+   "pDraw": 0.2791,
+   "pAway": 0.2738,
+   "xgHome": 1.58,
+   "xgAway": 1.2,
+   "url": "https://theopenmodel.com/match/valencia-vs-sociedad-2026-09-20/"
   },
   {
    "date": "2026-10-10T00:00:00Z",
