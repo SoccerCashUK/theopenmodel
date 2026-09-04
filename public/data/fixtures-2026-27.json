@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03",
+ "updated": "2026-09-04",
  "license": "CC BY 4.0 — link to theopenmodel.com",
  "rows": [
   {
@@ -5268,6 +5268,32 @@
    "url": "https://theopenmodel.com/match/frosinone-vs-lecce-2026-10-28/"
   },
   {
+   "date": "2026-10-30T18:00:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Le Havre",
+   "away": "Paris SG",
+   "pHome": 0.0649,
+   "pDraw": 0.1832,
+   "pAway": 0.7519,
+   "xgHome": 0.54,
+   "xgAway": 2.24,
+   "url": "https://theopenmodel.com/match/le-havre-vs-paris-sg-2026-10-30/"
+  },
+  {
+   "date": "2026-10-30T20:05:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Lille",
+   "away": "Lens",
+   "pHome": 0.3868,
+   "pDraw": 0.2843,
+   "pAway": 0.3289,
+   "xgHome": 1.45,
+   "xgAway": 1.33,
+   "url": "https://theopenmodel.com/match/lille-vs-lens-2026-10-30/"
+  },
+  {
    "date": "2026-10-31T00:00:00Z",
    "league": "bundesliga",
    "round": "Regular Season - 8",
@@ -5385,123 +5411,6 @@
    "url": "https://theopenmodel.com/match/leverkusen-vs-stuttgart-2026-10-31/"
   },
   {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Lille",
-   "away": "Lens",
-   "pHome": 0.3868,
-   "pDraw": 0.2843,
-   "pAway": 0.3289,
-   "xgHome": 1.45,
-   "xgAway": 1.33,
-   "url": "https://theopenmodel.com/match/lille-vs-lens-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Lyon",
-   "away": "Angers",
-   "pHome": 0.6338,
-   "pDraw": 0.2337,
-   "pAway": 0.1326,
-   "xgHome": 1.97,
-   "xgAway": 0.81,
-   "url": "https://theopenmodel.com/match/lyon-vs-angers-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Lorient",
-   "away": "Brest",
-   "pHome": 0.4357,
-   "pDraw": 0.2805,
-   "pAway": 0.2839,
-   "xgHome": 1.56,
-   "xgAway": 1.22,
-   "url": "https://theopenmodel.com/match/lorient-vs-brest-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Paris FC",
-   "away": "Monaco",
-   "pHome": 0.3135,
-   "pDraw": 0.2834,
-   "pAway": 0.4031,
-   "xgHome": 1.29,
-   "xgAway": 1.49,
-   "url": "https://theopenmodel.com/match/paris-fc-vs-monaco-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Troyes",
-   "away": "Le Mans",
-   "pHome": 0.448,
-   "pDraw": 0.279,
-   "pAway": 0.273,
-   "xgHome": 1.58,
-   "xgAway": 1.2,
-   "url": "https://theopenmodel.com/match/troyes-vs-le-mans-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Le Havre",
-   "away": "Paris SG",
-   "pHome": 0.0649,
-   "pDraw": 0.1832,
-   "pAway": 0.7519,
-   "xgHome": 0.54,
-   "xgAway": 2.24,
-   "url": "https://theopenmodel.com/match/le-havre-vs-paris-sg-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Marseille",
-   "away": "Toulouse",
-   "pHome": 0.4908,
-   "pDraw": 0.2723,
-   "pAway": 0.2369,
-   "xgHome": 1.67,
-   "xgAway": 1.11,
-   "url": "https://theopenmodel.com/match/marseille-vs-toulouse-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Nice",
-   "away": "Rennes",
-   "pHome": 0.2652,
-   "pDraw": 0.2778,
-   "pAway": 0.457,
-   "xgHome": 1.18,
-   "xgAway": 1.6,
-   "url": "https://theopenmodel.com/match/nice-vs-rennes-2026-10-31/"
-  },
-  {
-   "date": "2026-10-31T00:00:00Z",
-   "league": "ligue-1",
-   "round": "Regular Season - 9",
-   "home": "Strasbourg",
-   "away": "Auxerre",
-   "pHome": 0.5177,
-   "pDraw": 0.2669,
-   "pAway": 0.2154,
-   "xgHome": 1.73,
-   "xgAway": 1.05,
-   "url": "https://theopenmodel.com/match/strasbourg-vs-auxerre-2026-10-31/"
-  },
-  {
    "date": "2026-10-31T12:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 9",
@@ -5580,6 +5489,19 @@
    "url": "https://theopenmodel.com/match/brentford-vs-forest-2026-10-31/"
   },
   {
+   "date": "2026-10-31T16:15:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Nice",
+   "away": "Rennes",
+   "pHome": 0.2652,
+   "pDraw": 0.2778,
+   "pAway": 0.457,
+   "xgHome": 1.18,
+   "xgAway": 1.6,
+   "url": "https://theopenmodel.com/match/nice-vs-rennes-2026-10-31/"
+  },
+  {
    "date": "2026-10-31T17:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 9",
@@ -5591,6 +5513,45 @@
    "xgHome": 1.45,
    "xgAway": 1.34,
    "url": "https://theopenmodel.com/match/tottenham-vs-crystal-palace-2026-10-31/"
+  },
+  {
+   "date": "2026-10-31T19:45:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Lyon",
+   "away": "Angers",
+   "pHome": 0.6338,
+   "pDraw": 0.2337,
+   "pAway": 0.1326,
+   "xgHome": 1.97,
+   "xgAway": 0.81,
+   "url": "https://theopenmodel.com/match/lyon-vs-angers-2026-10-31/"
+  },
+  {
+   "date": "2026-10-31T19:45:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Lorient",
+   "away": "Brest",
+   "pHome": 0.4357,
+   "pDraw": 0.2805,
+   "pAway": 0.2839,
+   "xgHome": 1.56,
+   "xgAway": 1.22,
+   "url": "https://theopenmodel.com/match/lorient-vs-brest-2026-10-31/"
+  },
+  {
+   "date": "2026-10-31T19:45:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Troyes",
+   "away": "Le Mans",
+   "pHome": 0.448,
+   "pDraw": 0.279,
+   "pAway": 0.273,
+   "xgHome": 1.58,
+   "xgAway": 1.2,
+   "url": "https://theopenmodel.com/match/troyes-vs-le-mans-2026-10-31/"
   },
   {
    "date": "2026-10-31T20:00:00Z",
@@ -5866,6 +5827,32 @@
    "url": "https://theopenmodel.com/match/milan-vs-inter-2026-11-01/"
   },
   {
+   "date": "2026-11-01T14:00:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Strasbourg",
+   "away": "Auxerre",
+   "pHome": 0.5177,
+   "pDraw": 0.2669,
+   "pAway": 0.2154,
+   "xgHome": 1.73,
+   "xgAway": 1.05,
+   "url": "https://theopenmodel.com/match/strasbourg-vs-auxerre-2026-11-01/"
+  },
+  {
+   "date": "2026-11-01T16:15:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Paris FC",
+   "away": "Monaco",
+   "pHome": 0.3135,
+   "pDraw": 0.2834,
+   "pAway": 0.4031,
+   "xgHome": 1.29,
+   "xgAway": 1.49,
+   "url": "https://theopenmodel.com/match/paris-fc-vs-monaco-2026-11-01/"
+  },
+  {
    "date": "2026-11-01T16:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 9",
@@ -5877,6 +5864,19 @@
    "xgHome": 1.13,
    "xgAway": 1.65,
    "url": "https://theopenmodel.com/match/liverpool-vs-arsenal-2026-11-01/"
+  },
+  {
+   "date": "2026-11-01T19:45:00Z",
+   "league": "ligue-1",
+   "round": "Regular Season - 9",
+   "home": "Marseille",
+   "away": "Toulouse",
+   "pHome": 0.4908,
+   "pDraw": 0.2723,
+   "pAway": 0.2369,
+   "xgHome": 1.67,
+   "xgAway": 1.11,
+   "url": "https://theopenmodel.com/match/marseille-vs-toulouse-2026-11-01/"
   },
   {
    "date": "2026-11-02T20:00:00Z",
