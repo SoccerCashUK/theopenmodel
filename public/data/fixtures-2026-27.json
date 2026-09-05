@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04",
+ "updated": "2026-09-05",
  "license": "CC BY 4.0 — link to theopenmodel.com",
  "rows": [
   {
@@ -3409,6 +3409,19 @@
    "url": "https://theopenmodel.com/match/arsenal-vs-leeds-2026-10-10/"
   },
   {
+   "date": "2026-10-10T13:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Genoa",
+   "away": "Fiorentina",
+   "pHome": 0.3538,
+   "pDraw": 0.2849,
+   "pAway": 0.3612,
+   "xgHome": 1.38,
+   "xgAway": 1.4,
+   "url": "https://theopenmodel.com/match/genoa-vs-fiorentina-2026-10-10/"
+  },
+  {
    "date": "2026-10-10T14:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 6",
@@ -3474,6 +3487,19 @@
    "url": "https://theopenmodel.com/match/lille-vs-le-havre-2026-10-10/"
   },
   {
+   "date": "2026-10-10T16:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Inter",
+   "away": "Parma",
+   "pHome": 0.7503,
+   "pDraw": 0.184,
+   "pAway": 0.0657,
+   "xgHome": 2.23,
+   "xgAway": 0.55,
+   "url": "https://theopenmodel.com/match/inter-vs-parma-2026-10-10/"
+  },
+  {
    "date": "2026-10-10T16:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 6",
@@ -3485,6 +3511,19 @@
    "xgHome": 1.86,
    "xgAway": 0.92,
    "url": "https://theopenmodel.com/match/man-united-vs-tottenham-2026-10-10/"
+  },
+  {
+   "date": "2026-10-10T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Napoli",
+   "away": "Frosinone",
+   "pHome": 0.6701,
+   "pDraw": 0.22,
+   "pAway": 0.1099,
+   "xgHome": 2.05,
+   "xgAway": 0.73,
+   "url": "https://theopenmodel.com/match/napoli-vs-frosinone-2026-10-10/"
   },
   {
    "date": "2026-10-10T18:45:00Z",
@@ -3669,85 +3708,7 @@
    "url": "https://theopenmodel.com/match/sociedad-vs-depor-2026-10-11/"
   },
   {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Atalanta",
-   "away": "Venezia",
-   "pHome": 0.611,
-   "pDraw": 0.2414,
-   "pAway": 0.1475,
-   "xgHome": 1.92,
-   "xgAway": 0.86,
-   "url": "https://theopenmodel.com/match/atalanta-vs-venezia-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Sassuolo",
-   "away": "Milan",
-   "pHome": 0.2711,
-   "pDraw": 0.2787,
-   "pAway": 0.4502,
-   "xgHome": 1.19,
-   "xgAway": 1.59,
-   "url": "https://theopenmodel.com/match/sassuolo-vs-milan-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Lecce",
-   "away": "Bologna",
-   "pHome": 0.2656,
-   "pDraw": 0.2778,
-   "pAway": 0.4565,
-   "xgHome": 1.18,
-   "xgAway": 1.6,
-   "url": "https://theopenmodel.com/match/lecce-vs-bologna-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Inter",
-   "away": "Parma",
-   "pHome": 0.7503,
-   "pDraw": 0.184,
-   "pAway": 0.0657,
-   "xgHome": 2.23,
-   "xgAway": 0.55,
-   "url": "https://theopenmodel.com/match/inter-vs-parma-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Lazio",
-   "away": "Monza",
-   "pHome": 0.6045,
-   "pDraw": 0.2436,
-   "pAway": 0.1519,
-   "xgHome": 1.91,
-   "xgAway": 0.87,
-   "url": "https://theopenmodel.com/match/lazio-vs-monza-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Cagliari",
-   "away": "Juventus",
-   "pHome": 0.2213,
-   "pDraw": 0.2685,
-   "pAway": 0.5102,
-   "xgHome": 1.07,
-   "xgAway": 1.71,
-   "url": "https://theopenmodel.com/match/cagliari-vs-juventus-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
+   "date": "2026-10-11T10:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 6",
    "home": "Como",
@@ -3758,45 +3719,6 @@
    "xgHome": 1.43,
    "xgAway": 1.35,
    "url": "https://theopenmodel.com/match/como-vs-roma-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Napoli",
-   "away": "Frosinone",
-   "pHome": 0.6701,
-   "pDraw": 0.22,
-   "pAway": 0.1099,
-   "xgHome": 2.05,
-   "xgAway": 0.73,
-   "url": "https://theopenmodel.com/match/napoli-vs-frosinone-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Torino",
-   "away": "Udinese",
-   "pHome": 0.3885,
-   "pDraw": 0.2842,
-   "pAway": 0.3273,
-   "xgHome": 1.46,
-   "xgAway": 1.32,
-   "url": "https://theopenmodel.com/match/torino-vs-udinese-2026-10-11/"
-  },
-  {
-   "date": "2026-10-11T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 6",
-   "home": "Genoa",
-   "away": "Fiorentina",
-   "pHome": 0.3538,
-   "pDraw": 0.2849,
-   "pAway": 0.3612,
-   "xgHome": 1.38,
-   "xgAway": 1.4,
-   "url": "https://theopenmodel.com/match/genoa-vs-fiorentina-2026-10-11/"
   },
   {
    "date": "2026-10-11T13:00:00Z",
@@ -3823,6 +3745,32 @@
    "xgHome": 1.47,
    "xgAway": 1.31,
    "url": "https://theopenmodel.com/match/crystal-palace-vs-forest-2026-10-11/"
+  },
+  {
+   "date": "2026-10-11T13:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Lecce",
+   "away": "Bologna",
+   "pHome": 0.2656,
+   "pDraw": 0.2778,
+   "pAway": 0.4565,
+   "xgHome": 1.18,
+   "xgAway": 1.6,
+   "url": "https://theopenmodel.com/match/lecce-vs-bologna-2026-10-11/"
+  },
+  {
+   "date": "2026-10-11T13:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Lazio",
+   "away": "Monza",
+   "pHome": 0.6045,
+   "pDraw": 0.2436,
+   "pAway": 0.1519,
+   "xgHome": 1.91,
+   "xgAway": 0.87,
+   "url": "https://theopenmodel.com/match/lazio-vs-monza-2026-10-11/"
   },
   {
    "date": "2026-10-11T13:00:00Z",
@@ -3864,6 +3812,32 @@
    "url": "https://theopenmodel.com/match/liverpool-vs-man-city-2026-10-11/"
   },
   {
+   "date": "2026-10-11T16:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Sassuolo",
+   "away": "Milan",
+   "pHome": 0.2711,
+   "pDraw": 0.2787,
+   "pAway": 0.4502,
+   "xgHome": 1.19,
+   "xgAway": 1.59,
+   "url": "https://theopenmodel.com/match/sassuolo-vs-milan-2026-10-11/"
+  },
+  {
+   "date": "2026-10-11T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Cagliari",
+   "away": "Juventus",
+   "pHome": 0.2213,
+   "pDraw": 0.2685,
+   "pAway": 0.5102,
+   "xgHome": 1.07,
+   "xgAway": 1.71,
+   "url": "https://theopenmodel.com/match/cagliari-vs-juventus-2026-10-11/"
+  },
+  {
    "date": "2026-10-11T18:45:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 6",
@@ -3875,6 +3849,32 @@
    "xgHome": 1.02,
    "xgAway": 1.76,
    "url": "https://theopenmodel.com/match/troyes-vs-marseille-2026-10-11/"
+  },
+  {
+   "date": "2026-10-12T16:30:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Atalanta",
+   "away": "Venezia",
+   "pHome": 0.611,
+   "pDraw": 0.2414,
+   "pAway": 0.1475,
+   "xgHome": 1.92,
+   "xgAway": 0.86,
+   "url": "https://theopenmodel.com/match/atalanta-vs-venezia-2026-10-12/"
+  },
+  {
+   "date": "2026-10-12T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 6",
+   "home": "Torino",
+   "away": "Udinese",
+   "pHome": 0.3885,
+   "pDraw": 0.2842,
+   "pAway": 0.3273,
+   "xgHome": 1.46,
+   "xgAway": 1.32,
+   "url": "https://theopenmodel.com/match/torino-vs-udinese-2026-10-12/"
   },
   {
    "date": "2026-10-12T19:00:00Z",
@@ -3891,6 +3891,19 @@
   },
   {
    "date": "2026-10-16T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Frosinone",
+   "away": "Sassuolo",
+   "pHome": 0.3478,
+   "pDraw": 0.2849,
+   "pAway": 0.3673,
+   "xgHome": 1.37,
+   "xgAway": 1.41,
+   "url": "https://theopenmodel.com/match/frosinone-vs-sassuolo-2026-10-16/"
+  },
+  {
+   "date": "2026-10-16T18:45:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 7",
    "home": "Le Mans",
@@ -3901,136 +3914,6 @@
    "xgHome": 1.11,
    "xgAway": 1.67,
    "url": "https://theopenmodel.com/match/le-mans-vs-toulouse-2026-10-16/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Milan",
-   "away": "Atalanta",
-   "pHome": 0.3982,
-   "pDraw": 0.2837,
-   "pAway": 0.3181,
-   "xgHome": 1.48,
-   "xgAway": 1.3,
-   "url": "https://theopenmodel.com/match/milan-vs-atalanta-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Juventus",
-   "away": "Lazio",
-   "pHome": 0.4965,
-   "pDraw": 0.2712,
-   "pAway": 0.2323,
-   "xgHome": 1.69,
-   "xgAway": 1.1,
-   "url": "https://theopenmodel.com/match/juventus-vs-lazio-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Bologna",
-   "away": "Inter",
-   "pHome": 0.2125,
-   "pDraw": 0.2661,
-   "pAway": 0.5214,
-   "xgHome": 1.04,
-   "xgAway": 1.74,
-   "url": "https://theopenmodel.com/match/bologna-vs-inter-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Roma",
-   "away": "Genoa",
-   "pHome": 0.6235,
-   "pDraw": 0.2373,
-   "pAway": 0.1393,
-   "xgHome": 1.95,
-   "xgAway": 0.83,
-   "url": "https://theopenmodel.com/match/roma-vs-genoa-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Frosinone",
-   "away": "Sassuolo",
-   "pHome": 0.3478,
-   "pDraw": 0.2849,
-   "pAway": 0.3673,
-   "xgHome": 1.37,
-   "xgAway": 1.41,
-   "url": "https://theopenmodel.com/match/frosinone-vs-sassuolo-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Udinese",
-   "away": "Lecce",
-   "pHome": 0.5071,
-   "pDraw": 0.2691,
-   "pAway": 0.2238,
-   "xgHome": 1.71,
-   "xgAway": 1.07,
-   "url": "https://theopenmodel.com/match/udinese-vs-lecce-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Venezia",
-   "away": "Napoli",
-   "pHome": 0.2179,
-   "pDraw": 0.2676,
-   "pAway": 0.5145,
-   "xgHome": 1.06,
-   "xgAway": 1.72,
-   "url": "https://theopenmodel.com/match/venezia-vs-napoli-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Monza",
-   "away": "Cagliari",
-   "pHome": 0.3558,
-   "pDraw": 0.2849,
-   "pAway": 0.3593,
-   "xgHome": 1.39,
-   "xgAway": 1.39,
-   "url": "https://theopenmodel.com/match/monza-vs-cagliari-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Fiorentina",
-   "away": "Como",
-   "pHome": 0.3118,
-   "pDraw": 0.2833,
-   "pAway": 0.405,
-   "xgHome": 1.29,
-   "xgAway": 1.49,
-   "url": "https://theopenmodel.com/match/fiorentina-vs-como-2026-10-17/"
-  },
-  {
-   "date": "2026-10-17T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 7",
-   "home": "Parma",
-   "away": "Torino",
-   "pHome": 0.3857,
-   "pDraw": 0.2843,
-   "pAway": 0.3299,
-   "xgHome": 1.45,
-   "xgAway": 1.33,
-   "url": "https://theopenmodel.com/match/parma-vs-torino-2026-10-17/"
   },
   {
    "date": "2026-10-17T00:00:00Z",
@@ -4163,6 +4046,19 @@
    "url": "https://theopenmodel.com/match/everton-vs-chelsea-2026-10-17/"
   },
   {
+   "date": "2026-10-17T13:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Venezia",
+   "away": "Napoli",
+   "pHome": 0.2179,
+   "pDraw": 0.2676,
+   "pAway": 0.5145,
+   "xgHome": 1.06,
+   "xgAway": 1.72,
+   "url": "https://theopenmodel.com/match/venezia-vs-napoli-2026-10-17/"
+  },
+  {
    "date": "2026-10-17T14:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 7",
@@ -4215,6 +4111,19 @@
    "url": "https://theopenmodel.com/match/strasbourg-vs-paris-sg-2026-10-17/"
   },
   {
+   "date": "2026-10-17T16:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Bologna",
+   "away": "Inter",
+   "pHome": 0.2125,
+   "pDraw": 0.2661,
+   "pAway": 0.5214,
+   "xgHome": 1.04,
+   "xgAway": 1.74,
+   "url": "https://theopenmodel.com/match/bologna-vs-inter-2026-10-17/"
+  },
+  {
    "date": "2026-10-17T16:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 7",
@@ -4226,6 +4135,19 @@
    "xgHome": 1.3,
    "xgAway": 1.48,
    "url": "https://theopenmodel.com/match/newcastle-vs-aston-villa-2026-10-17/"
+  },
+  {
+   "date": "2026-10-17T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Roma",
+   "away": "Genoa",
+   "pHome": 0.6235,
+   "pDraw": 0.2373,
+   "pAway": 0.1393,
+   "xgHome": 1.95,
+   "xgAway": 0.83,
+   "url": "https://theopenmodel.com/match/roma-vs-genoa-2026-10-17/"
   },
   {
    "date": "2026-10-17T18:45:00Z",
@@ -4384,6 +4306,19 @@
    "url": "https://theopenmodel.com/match/getafe-vs-rayo-vallecano-2026-10-18/"
   },
   {
+   "date": "2026-10-18T10:30:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Udinese",
+   "away": "Lecce",
+   "pHome": 0.5071,
+   "pDraw": 0.2691,
+   "pAway": 0.2238,
+   "xgHome": 1.71,
+   "xgAway": 1.07,
+   "url": "https://theopenmodel.com/match/udinese-vs-lecce-2026-10-18/"
+  },
+  {
    "date": "2026-10-18T13:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 7",
@@ -4421,6 +4356,19 @@
    "xgHome": 1.61,
    "xgAway": 1.17,
    "url": "https://theopenmodel.com/match/brighton-vs-crystal-palace-2026-10-18/"
+  },
+  {
+   "date": "2026-10-18T13:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Fiorentina",
+   "away": "Como",
+   "pHome": 0.3118,
+   "pDraw": 0.2833,
+   "pAway": 0.405,
+   "xgHome": 1.29,
+   "xgAway": 1.49,
+   "url": "https://theopenmodel.com/match/fiorentina-vs-como-2026-10-18/"
   },
   {
    "date": "2026-10-18T13:00:00Z",
@@ -4488,6 +4436,32 @@
    "url": "https://theopenmodel.com/match/forest-vs-arsenal-2026-10-18/"
   },
   {
+   "date": "2026-10-18T16:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Milan",
+   "away": "Atalanta",
+   "pHome": 0.3982,
+   "pDraw": 0.2837,
+   "pAway": 0.3181,
+   "xgHome": 1.48,
+   "xgAway": 1.3,
+   "url": "https://theopenmodel.com/match/milan-vs-atalanta-2026-10-18/"
+  },
+  {
+   "date": "2026-10-18T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Juventus",
+   "away": "Lazio",
+   "pHome": 0.4965,
+   "pDraw": 0.2712,
+   "pAway": 0.2323,
+   "xgHome": 1.69,
+   "xgAway": 1.1,
+   "url": "https://theopenmodel.com/match/juventus-vs-lazio-2026-10-18/"
+  },
+  {
    "date": "2026-10-18T18:45:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 7",
@@ -4501,6 +4475,32 @@
    "url": "https://theopenmodel.com/match/lyon-vs-nice-2026-10-18/"
   },
   {
+   "date": "2026-10-19T16:30:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Monza",
+   "away": "Cagliari",
+   "pHome": 0.3558,
+   "pDraw": 0.2849,
+   "pAway": 0.3593,
+   "xgHome": 1.39,
+   "xgAway": 1.39,
+   "url": "https://theopenmodel.com/match/monza-vs-cagliari-2026-10-19/"
+  },
+  {
+   "date": "2026-10-19T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 7",
+   "home": "Parma",
+   "away": "Torino",
+   "pHome": 0.3857,
+   "pDraw": 0.2843,
+   "pAway": 0.3299,
+   "xgHome": 1.45,
+   "xgAway": 1.33,
+   "url": "https://theopenmodel.com/match/parma-vs-torino-2026-10-19/"
+  },
+  {
    "date": "2026-10-19T19:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 7",
@@ -4512,6 +4512,19 @@
    "xgHome": 1.8,
    "xgAway": 0.98,
    "url": "https://theopenmodel.com/match/tottenham-vs-coventry-2026-10-19/"
+  },
+  {
+   "date": "2026-10-23T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Torino",
+   "away": "Monza",
+   "pHome": 0.5098,
+   "pDraw": 0.2686,
+   "pAway": 0.2217,
+   "xgHome": 1.71,
+   "xgAway": 1.07,
+   "url": "https://theopenmodel.com/match/torino-vs-monza-2026-10-23/"
   },
   {
    "date": "2026-10-23T18:45:00Z",
@@ -4670,6 +4683,32 @@
    "url": "https://theopenmodel.com/match/aston-villa-vs-man-city-2026-10-24/"
   },
   {
+   "date": "2026-10-24T13:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Cagliari",
+   "away": "Bologna",
+   "pHome": 0.2932,
+   "pDraw": 0.2816,
+   "pAway": 0.4252,
+   "xgHome": 1.25,
+   "xgAway": 1.54,
+   "url": "https://theopenmodel.com/match/cagliari-vs-bologna-2026-10-24/"
+  },
+  {
+   "date": "2026-10-24T13:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Como",
+   "away": "Sassuolo",
+   "pHome": 0.5793,
+   "pDraw": 0.2513,
+   "pAway": 0.1694,
+   "xgHome": 1.86,
+   "xgAway": 0.92,
+   "url": "https://theopenmodel.com/match/como-vs-sassuolo-2026-10-24/"
+  },
+  {
    "date": "2026-10-24T14:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 8",
@@ -4709,6 +4748,19 @@
    "url": "https://theopenmodel.com/match/toulouse-vs-troyes-2026-10-24/"
   },
   {
+   "date": "2026-10-24T16:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Napoli",
+   "away": "Roma",
+   "pHome": 0.3985,
+   "pDraw": 0.2837,
+   "pAway": 0.3178,
+   "xgHome": 1.48,
+   "xgAway": 1.3,
+   "url": "https://theopenmodel.com/match/napoli-vs-roma-2026-10-24/"
+  },
+  {
    "date": "2026-10-24T16:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 8",
@@ -4720,6 +4772,19 @@
    "xgHome": 1.65,
    "xgAway": 1.13,
    "url": "https://theopenmodel.com/match/chelsea-vs-tottenham-2026-10-24/"
+  },
+  {
+   "date": "2026-10-24T18:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Lazio",
+   "away": "Parma",
+   "pHome": 0.5377,
+   "pDraw": 0.2623,
+   "pAway": 0.2,
+   "xgHome": 1.77,
+   "xgAway": 1.01,
+   "url": "https://theopenmodel.com/match/lazio-vs-parma-2026-10-24/"
   },
   {
    "date": "2026-10-24T18:45:00Z",
@@ -4865,59 +4930,7 @@
    "url": "https://theopenmodel.com/match/santander-vs-espanyol-2026-10-25/"
   },
   {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Udinese",
-   "away": "Milan",
-   "pHome": 0.2963,
-   "pDraw": 0.2819,
-   "pAway": 0.4218,
-   "xgHome": 1.25,
-   "xgAway": 1.53,
-   "url": "https://theopenmodel.com/match/udinese-vs-milan-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Cagliari",
-   "away": "Bologna",
-   "pHome": 0.2932,
-   "pDraw": 0.2816,
-   "pAway": 0.4252,
-   "xgHome": 1.25,
-   "xgAway": 1.54,
-   "url": "https://theopenmodel.com/match/cagliari-vs-bologna-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Como",
-   "away": "Sassuolo",
-   "pHome": 0.5793,
-   "pDraw": 0.2513,
-   "pAway": 0.1694,
-   "xgHome": 1.86,
-   "xgAway": 0.92,
-   "url": "https://theopenmodel.com/match/como-vs-sassuolo-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Atalanta",
-   "away": "Frosinone",
-   "pHome": 0.6508,
-   "pDraw": 0.2274,
-   "pAway": 0.1217,
-   "xgHome": 2.01,
-   "xgAway": 0.77,
-   "url": "https://theopenmodel.com/match/atalanta-vs-frosinone-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
+   "date": "2026-10-25T11:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 8",
    "home": "Inter",
@@ -4928,71 +4941,6 @@
    "xgHome": 2.06,
    "xgAway": 0.72,
    "url": "https://theopenmodel.com/match/inter-vs-fiorentina-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Napoli",
-   "away": "Roma",
-   "pHome": 0.3985,
-   "pDraw": 0.2837,
-   "pAway": 0.3178,
-   "xgHome": 1.48,
-   "xgAway": 1.3,
-   "url": "https://theopenmodel.com/match/napoli-vs-roma-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Lazio",
-   "away": "Parma",
-   "pHome": 0.5377,
-   "pDraw": 0.2623,
-   "pAway": 0.2,
-   "xgHome": 1.77,
-   "xgAway": 1.01,
-   "url": "https://theopenmodel.com/match/lazio-vs-parma-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Lecce",
-   "away": "Juventus",
-   "pHome": 0.1968,
-   "pDraw": 0.2613,
-   "pAway": 0.5419,
-   "xgHome": 1,
-   "xgAway": 1.78,
-   "url": "https://theopenmodel.com/match/lecce-vs-juventus-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Torino",
-   "away": "Monza",
-   "pHome": 0.5098,
-   "pDraw": 0.2686,
-   "pAway": 0.2217,
-   "xgHome": 1.71,
-   "xgAway": 1.07,
-   "url": "https://theopenmodel.com/match/torino-vs-monza-2026-10-25/"
-  },
-  {
-   "date": "2026-10-25T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 8",
-   "home": "Genoa",
-   "away": "Venezia",
-   "pHome": 0.437,
-   "pDraw": 0.2803,
-   "pAway": 0.2827,
-   "xgHome": 1.56,
-   "xgAway": 1.22,
-   "url": "https://theopenmodel.com/match/genoa-vs-venezia-2026-10-25/"
   },
   {
    "date": "2026-10-25T14:00:00Z",
@@ -5045,6 +4993,32 @@
    "xgHome": 0.75,
    "xgAway": 2.03,
    "url": "https://theopenmodel.com/match/hull-vs-brentford-2026-10-25/"
+  },
+  {
+   "date": "2026-10-25T14:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Atalanta",
+   "away": "Frosinone",
+   "pHome": 0.6508,
+   "pDraw": 0.2274,
+   "pAway": 0.1217,
+   "xgHome": 2.01,
+   "xgAway": 0.77,
+   "url": "https://theopenmodel.com/match/atalanta-vs-frosinone-2026-10-25/"
+  },
+  {
+   "date": "2026-10-25T14:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Genoa",
+   "away": "Venezia",
+   "pHome": 0.437,
+   "pDraw": 0.2803,
+   "pAway": 0.2827,
+   "xgHome": 1.56,
+   "xgAway": 1.22,
+   "url": "https://theopenmodel.com/match/genoa-vs-venezia-2026-10-25/"
   },
   {
    "date": "2026-10-25T14:00:00Z",
@@ -5125,6 +5099,32 @@
    "url": "https://theopenmodel.com/match/sunderland-vs-leeds-2026-10-25/"
   },
   {
+   "date": "2026-10-25T17:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Lecce",
+   "away": "Juventus",
+   "pHome": 0.1968,
+   "pDraw": 0.2613,
+   "pAway": 0.5419,
+   "xgHome": 1,
+   "xgAway": 1.78,
+   "url": "https://theopenmodel.com/match/lecce-vs-juventus-2026-10-25/"
+  },
+  {
+   "date": "2026-10-25T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 8",
+   "home": "Udinese",
+   "away": "Milan",
+   "pHome": 0.2963,
+   "pDraw": 0.2819,
+   "pAway": 0.4218,
+   "xgHome": 1.25,
+   "xgAway": 1.53,
+   "url": "https://theopenmodel.com/match/udinese-vs-milan-2026-10-25/"
+  },
+  {
    "date": "2026-10-25T19:45:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 8",
@@ -5138,7 +5138,46 @@
    "url": "https://theopenmodel.com/match/paris-sg-vs-lyon-2026-10-25/"
   },
   {
-   "date": "2026-10-28T00:00:00Z",
+   "date": "2026-10-27T17:30:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 9",
+   "home": "Sassuolo",
+   "away": "Lazio",
+   "pHome": 0.3212,
+   "pDraw": 0.2839,
+   "pAway": 0.3949,
+   "xgHome": 1.31,
+   "xgAway": 1.47,
+   "url": "https://theopenmodel.com/match/sassuolo-vs-lazio-2026-10-27/"
+  },
+  {
+   "date": "2026-10-27T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 9",
+   "home": "Roma",
+   "away": "Cagliari",
+   "pHome": 0.6513,
+   "pDraw": 0.2273,
+   "pAway": 0.1215,
+   "xgHome": 2.01,
+   "xgAway": 0.77,
+   "url": "https://theopenmodel.com/match/roma-vs-cagliari-2026-10-27/"
+  },
+  {
+   "date": "2026-10-27T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 9",
+   "home": "Torino",
+   "away": "Como",
+   "pHome": 0.263,
+   "pDraw": 0.2774,
+   "pAway": 0.4596,
+   "xgHome": 1.17,
+   "xgAway": 1.61,
+   "url": "https://theopenmodel.com/match/torino-vs-como-2026-10-27/"
+  },
+  {
+   "date": "2026-10-28T17:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 9",
    "home": "Milan",
@@ -5151,7 +5190,7 @@
    "url": "https://theopenmodel.com/match/milan-vs-bologna-2026-10-28/"
   },
   {
-   "date": "2026-10-28T00:00:00Z",
+   "date": "2026-10-28T17:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 9",
    "home": "Venezia",
@@ -5164,33 +5203,7 @@
    "url": "https://theopenmodel.com/match/venezia-vs-inter-2026-10-28/"
   },
   {
-   "date": "2026-10-28T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 9",
-   "home": "Fiorentina",
-   "away": "Atalanta",
-   "pHome": 0.308,
-   "pDraw": 0.283,
-   "pAway": 0.4091,
-   "xgHome": 1.28,
-   "xgAway": 1.5,
-   "url": "https://theopenmodel.com/match/fiorentina-vs-atalanta-2026-10-28/"
-  },
-  {
-   "date": "2026-10-28T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 9",
-   "home": "Genoa",
-   "away": "Juventus",
-   "pHome": 0.2446,
-   "pDraw": 0.2739,
-   "pAway": 0.4815,
-   "xgHome": 1.13,
-   "xgAway": 1.65,
-   "url": "https://theopenmodel.com/match/genoa-vs-juventus-2026-10-28/"
-  },
-  {
-   "date": "2026-10-28T00:00:00Z",
+   "date": "2026-10-28T17:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 9",
    "home": "Parma",
@@ -5203,7 +5216,20 @@
    "url": "https://theopenmodel.com/match/parma-vs-udinese-2026-10-28/"
   },
   {
-   "date": "2026-10-28T00:00:00Z",
+   "date": "2026-10-28T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 9",
+   "home": "Genoa",
+   "away": "Juventus",
+   "pHome": 0.2446,
+   "pDraw": 0.2739,
+   "pAway": 0.4815,
+   "xgHome": 1.13,
+   "xgAway": 1.65,
+   "url": "https://theopenmodel.com/match/genoa-vs-juventus-2026-10-28/"
+  },
+  {
+   "date": "2026-10-28T19:45:00Z",
    "league": "serie-a",
    "round": "Regular Season - 9",
    "home": "Monza",
@@ -5216,46 +5242,7 @@
    "url": "https://theopenmodel.com/match/monza-vs-napoli-2026-10-28/"
   },
   {
-   "date": "2026-10-28T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 9",
-   "home": "Roma",
-   "away": "Cagliari",
-   "pHome": 0.6513,
-   "pDraw": 0.2273,
-   "pAway": 0.1215,
-   "xgHome": 2.01,
-   "xgAway": 0.77,
-   "url": "https://theopenmodel.com/match/roma-vs-cagliari-2026-10-28/"
-  },
-  {
-   "date": "2026-10-28T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 9",
-   "home": "Sassuolo",
-   "away": "Lazio",
-   "pHome": 0.3212,
-   "pDraw": 0.2839,
-   "pAway": 0.3949,
-   "xgHome": 1.31,
-   "xgAway": 1.47,
-   "url": "https://theopenmodel.com/match/sassuolo-vs-lazio-2026-10-28/"
-  },
-  {
-   "date": "2026-10-28T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 9",
-   "home": "Torino",
-   "away": "Como",
-   "pHome": 0.263,
-   "pDraw": 0.2774,
-   "pAway": 0.4596,
-   "xgHome": 1.17,
-   "xgAway": 1.61,
-   "url": "https://theopenmodel.com/match/torino-vs-como-2026-10-28/"
-  },
-  {
-   "date": "2026-10-28T00:00:00Z",
+   "date": "2026-10-29T17:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 9",
    "home": "Frosinone",
@@ -5265,7 +5252,20 @@
    "pAway": 0.307,
    "xgHome": 1.5,
    "xgAway": 1.28,
-   "url": "https://theopenmodel.com/match/frosinone-vs-lecce-2026-10-28/"
+   "url": "https://theopenmodel.com/match/frosinone-vs-lecce-2026-10-29/"
+  },
+  {
+   "date": "2026-10-29T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 9",
+   "home": "Fiorentina",
+   "away": "Atalanta",
+   "pHome": 0.308,
+   "pDraw": 0.283,
+   "pAway": 0.4091,
+   "xgHome": 1.28,
+   "xgAway": 1.5,
+   "url": "https://theopenmodel.com/match/fiorentina-vs-atalanta-2026-10-29/"
   },
   {
    "date": "2026-10-30T18:00:00Z",
@@ -5424,6 +5424,19 @@
    "url": "https://theopenmodel.com/match/chelsea-vs-man-united-2026-10-31/"
   },
   {
+   "date": "2026-10-31T14:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 10",
+   "home": "Bologna",
+   "away": "Monza",
+   "pHome": 0.6023,
+   "pDraw": 0.2443,
+   "pAway": 0.1535,
+   "xgHome": 1.91,
+   "xgAway": 0.88,
+   "url": "https://theopenmodel.com/match/bologna-vs-monza-2026-10-31/"
+  },
+  {
    "date": "2026-10-31T15:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 9",
@@ -5502,6 +5515,19 @@
    "url": "https://theopenmodel.com/match/nice-vs-rennes-2026-10-31/"
   },
   {
+   "date": "2026-10-31T17:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 10",
+   "home": "Udinese",
+   "away": "Roma",
+   "pHome": 0.2511,
+   "pDraw": 0.2752,
+   "pAway": 0.4737,
+   "xgHome": 1.14,
+   "xgAway": 1.64,
+   "url": "https://theopenmodel.com/match/udinese-vs-roma-2026-10-31/"
+  },
+  {
    "date": "2026-10-31T17:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 9",
@@ -5513,6 +5539,19 @@
    "xgHome": 1.45,
    "xgAway": 1.34,
    "url": "https://theopenmodel.com/match/tottenham-vs-crystal-palace-2026-10-31/"
+  },
+  {
+   "date": "2026-10-31T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 10",
+   "home": "Milan",
+   "away": "Inter",
+   "pHome": 0.2602,
+   "pDraw": 0.2769,
+   "pAway": 0.4629,
+   "xgHome": 1.17,
+   "xgAway": 1.62,
+   "url": "https://theopenmodel.com/match/milan-vs-inter-2026-10-31/"
   },
   {
    "date": "2026-10-31T19:45:00Z",
@@ -5697,59 +5736,7 @@
    "url": "https://theopenmodel.com/match/rayo-vallecano-vs-celta-2026-11-01/"
   },
   {
-   "date": "2026-11-01T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 10",
-   "home": "Bologna",
-   "away": "Monza",
-   "pHome": 0.6023,
-   "pDraw": 0.2443,
-   "pAway": 0.1535,
-   "xgHome": 1.91,
-   "xgAway": 0.88,
-   "url": "https://theopenmodel.com/match/bologna-vs-monza-2026-11-01/"
-  },
-  {
-   "date": "2026-11-01T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 10",
-   "home": "Lecce",
-   "away": "Genoa",
-   "pHome": 0.3559,
-   "pDraw": 0.2849,
-   "pAway": 0.3592,
-   "xgHome": 1.39,
-   "xgAway": 1.39,
-   "url": "https://theopenmodel.com/match/lecce-vs-genoa-2026-11-01/"
-  },
-  {
-   "date": "2026-11-01T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 10",
-   "home": "Sassuolo",
-   "away": "Fiorentina",
-   "pHome": 0.3582,
-   "pDraw": 0.2849,
-   "pAway": 0.3569,
-   "xgHome": 1.39,
-   "xgAway": 1.39,
-   "url": "https://theopenmodel.com/match/sassuolo-vs-fiorentina-2026-11-01/"
-  },
-  {
-   "date": "2026-11-01T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 10",
-   "home": "Udinese",
-   "away": "Roma",
-   "pHome": 0.2511,
-   "pDraw": 0.2752,
-   "pAway": 0.4737,
-   "xgHome": 1.14,
-   "xgAway": 1.64,
-   "url": "https://theopenmodel.com/match/udinese-vs-roma-2026-11-01/"
-  },
-  {
-   "date": "2026-11-01T00:00:00Z",
+   "date": "2026-11-01T11:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 10",
    "home": "Como",
@@ -5762,7 +5749,7 @@
    "url": "https://theopenmodel.com/match/como-vs-venezia-2026-11-01/"
   },
   {
-   "date": "2026-11-01T00:00:00Z",
+   "date": "2026-11-01T14:00:00Z",
    "league": "serie-a",
    "round": "Regular Season - 10",
    "home": "Frosinone",
@@ -5775,20 +5762,7 @@
    "url": "https://theopenmodel.com/match/frosinone-vs-torino-2026-11-01/"
   },
   {
-   "date": "2026-11-01T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 10",
-   "home": "Atalanta",
-   "away": "Parma",
-   "pHome": 0.6097,
-   "pDraw": 0.2419,
-   "pAway": 0.1484,
-   "xgHome": 1.92,
-   "xgAway": 0.86,
-   "url": "https://theopenmodel.com/match/atalanta-vs-parma-2026-11-01/"
-  },
-  {
-   "date": "2026-11-01T00:00:00Z",
+   "date": "2026-11-01T14:00:00Z",
    "league": "serie-a",
    "round": "Regular Season - 10",
    "home": "Lazio",
@@ -5799,32 +5773,6 @@
    "xgHome": 1.78,
    "xgAway": 1,
    "url": "https://theopenmodel.com/match/lazio-vs-cagliari-2026-11-01/"
-  },
-  {
-   "date": "2026-11-01T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 10",
-   "home": "Juventus",
-   "away": "Napoli",
-   "pHome": 0.4046,
-   "pDraw": 0.2833,
-   "pAway": 0.3121,
-   "xgHome": 1.49,
-   "xgAway": 1.29,
-   "url": "https://theopenmodel.com/match/juventus-vs-napoli-2026-11-01/"
-  },
-  {
-   "date": "2026-11-01T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 10",
-   "home": "Milan",
-   "away": "Inter",
-   "pHome": 0.2602,
-   "pDraw": 0.2769,
-   "pAway": 0.4629,
-   "xgHome": 1.17,
-   "xgAway": 1.62,
-   "url": "https://theopenmodel.com/match/milan-vs-inter-2026-11-01/"
   },
   {
    "date": "2026-11-01T14:00:00Z",
@@ -5866,6 +5814,32 @@
    "url": "https://theopenmodel.com/match/liverpool-vs-arsenal-2026-11-01/"
   },
   {
+   "date": "2026-11-01T17:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 10",
+   "home": "Lecce",
+   "away": "Genoa",
+   "pHome": 0.3559,
+   "pDraw": 0.2849,
+   "pAway": 0.3592,
+   "xgHome": 1.39,
+   "xgAway": 1.39,
+   "url": "https://theopenmodel.com/match/lecce-vs-genoa-2026-11-01/"
+  },
+  {
+   "date": "2026-11-01T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 10",
+   "home": "Juventus",
+   "away": "Napoli",
+   "pHome": 0.4046,
+   "pDraw": 0.2833,
+   "pAway": 0.3121,
+   "xgHome": 1.49,
+   "xgAway": 1.29,
+   "url": "https://theopenmodel.com/match/juventus-vs-napoli-2026-11-01/"
+  },
+  {
    "date": "2026-11-01T19:45:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 9",
@@ -5879,6 +5853,32 @@
    "url": "https://theopenmodel.com/match/marseille-vs-toulouse-2026-11-01/"
   },
   {
+   "date": "2026-11-02T17:30:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 10",
+   "home": "Sassuolo",
+   "away": "Fiorentina",
+   "pHome": 0.3582,
+   "pDraw": 0.2849,
+   "pAway": 0.3569,
+   "xgHome": 1.39,
+   "xgAway": 1.39,
+   "url": "https://theopenmodel.com/match/sassuolo-vs-fiorentina-2026-11-02/"
+  },
+  {
+   "date": "2026-11-02T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 10",
+   "home": "Atalanta",
+   "away": "Parma",
+   "pHome": 0.6097,
+   "pDraw": 0.2419,
+   "pAway": 0.1484,
+   "xgHome": 1.92,
+   "xgAway": 0.86,
+   "url": "https://theopenmodel.com/match/atalanta-vs-parma-2026-11-02/"
+  },
+  {
    "date": "2026-11-02T20:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 9",
@@ -5890,6 +5890,19 @@
    "xgHome": 1.6,
    "xgAway": 1.18,
    "url": "https://theopenmodel.com/match/newcastle-vs-everton-2026-11-02/"
+  },
+  {
+   "date": "2026-11-06T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 11",
+   "home": "Venezia",
+   "away": "Udinese",
+   "pHome": 0.3594,
+   "pDraw": 0.2849,
+   "pAway": 0.3557,
+   "xgHome": 1.39,
+   "xgAway": 1.39,
+   "url": "https://theopenmodel.com/match/venezia-vs-udinese-2026-11-06/"
   },
   {
    "date": "2026-11-07T00:00:00Z",
@@ -6113,6 +6126,32 @@
    "url": "https://theopenmodel.com/match/toulouse-vs-strasbourg-2026-11-07/"
   },
   {
+   "date": "2026-11-07T14:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 11",
+   "home": "Torino",
+   "away": "Lecce",
+   "pHome": 0.4809,
+   "pDraw": 0.274,
+   "pAway": 0.2451,
+   "xgHome": 1.65,
+   "xgAway": 1.13,
+   "url": "https://theopenmodel.com/match/torino-vs-lecce-2026-11-07/"
+  },
+  {
+   "date": "2026-11-07T14:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 11",
+   "home": "Cagliari",
+   "away": "Frosinone",
+   "pHome": 0.4491,
+   "pDraw": 0.2788,
+   "pAway": 0.2721,
+   "xgHome": 1.59,
+   "xgAway": 1.19,
+   "url": "https://theopenmodel.com/match/cagliari-vs-frosinone-2026-11-07/"
+  },
+  {
    "date": "2026-11-07T15:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 10",
@@ -6241,6 +6280,32 @@
    "xgHome": 1.5,
    "xgAway": 1.28,
    "url": "https://theopenmodel.com/match/man-united-vs-aston-villa-2026-11-07/"
+  },
+  {
+   "date": "2026-11-07T17:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 11",
+   "home": "Parma",
+   "away": "Bologna",
+   "pHome": 0.2992,
+   "pDraw": 0.2822,
+   "pAway": 0.4186,
+   "xgHome": 1.26,
+   "xgAway": 1.52,
+   "url": "https://theopenmodel.com/match/parma-vs-bologna-2026-11-07/"
+  },
+  {
+   "date": "2026-11-07T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 11",
+   "home": "Roma",
+   "away": "Sassuolo",
+   "pHome": 0.619,
+   "pDraw": 0.2388,
+   "pAway": 0.1422,
+   "xgHome": 1.94,
+   "xgAway": 0.84,
+   "url": "https://theopenmodel.com/match/roma-vs-sassuolo-2026-11-07/"
   },
   {
    "date": "2026-11-07T19:45:00Z",
@@ -6386,59 +6451,7 @@
    "url": "https://theopenmodel.com/match/villarreal-vs-getafe-2026-11-08/"
   },
   {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 11",
-   "home": "Fiorentina",
-   "away": "Juventus",
-   "pHome": 0.2985,
-   "pDraw": 0.2821,
-   "pAway": 0.4194,
-   "xgHome": 1.26,
-   "xgAway": 1.52,
-   "url": "https://theopenmodel.com/match/fiorentina-vs-juventus-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 11",
-   "home": "Inter",
-   "away": "Como",
-   "pHome": 0.5681,
-   "pDraw": 0.2544,
-   "pAway": 0.1775,
-   "xgHome": 1.83,
-   "xgAway": 0.95,
-   "url": "https://theopenmodel.com/match/inter-vs-como-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 11",
-   "home": "Roma",
-   "away": "Sassuolo",
-   "pHome": 0.619,
-   "pDraw": 0.2388,
-   "pAway": 0.1422,
-   "xgHome": 1.94,
-   "xgAway": 0.84,
-   "url": "https://theopenmodel.com/match/roma-vs-sassuolo-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 11",
-   "home": "Torino",
-   "away": "Lecce",
-   "pHome": 0.4809,
-   "pDraw": 0.274,
-   "pAway": 0.2451,
-   "xgHome": 1.65,
-   "xgAway": 1.13,
-   "url": "https://theopenmodel.com/match/torino-vs-lecce-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
+   "date": "2026-11-08T11:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 11",
    "home": "Napoli",
@@ -6451,33 +6464,7 @@
    "url": "https://theopenmodel.com/match/napoli-vs-lazio-2026-11-08/"
   },
   {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 11",
-   "home": "Cagliari",
-   "away": "Frosinone",
-   "pHome": 0.4491,
-   "pDraw": 0.2788,
-   "pAway": 0.2721,
-   "xgHome": 1.59,
-   "xgAway": 1.19,
-   "url": "https://theopenmodel.com/match/cagliari-vs-frosinone-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 11",
-   "home": "Parma",
-   "away": "Bologna",
-   "pHome": 0.2992,
-   "pDraw": 0.2822,
-   "pAway": 0.4186,
-   "xgHome": 1.26,
-   "xgAway": 1.52,
-   "url": "https://theopenmodel.com/match/parma-vs-bologna-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
+   "date": "2026-11-08T14:00:00Z",
    "league": "serie-a",
    "round": "Regular Season - 11",
    "home": "Genoa",
@@ -6490,20 +6477,7 @@
    "url": "https://theopenmodel.com/match/genoa-vs-milan-2026-11-08/"
   },
   {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 11",
-   "home": "Venezia",
-   "away": "Udinese",
-   "pHome": 0.3594,
-   "pDraw": 0.2849,
-   "pAway": 0.3557,
-   "xgHome": 1.39,
-   "xgAway": 1.39,
-   "url": "https://theopenmodel.com/match/venezia-vs-udinese-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
+   "date": "2026-11-08T14:00:00Z",
    "league": "serie-a",
    "round": "Regular Season - 11",
    "home": "Monza",
@@ -6514,6 +6488,32 @@
    "xgHome": 0.96,
    "xgAway": 1.82,
    "url": "https://theopenmodel.com/match/monza-vs-atalanta-2026-11-08/"
+  },
+  {
+   "date": "2026-11-08T17:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 11",
+   "home": "Inter",
+   "away": "Como",
+   "pHome": 0.5681,
+   "pDraw": 0.2544,
+   "pAway": 0.1775,
+   "xgHome": 1.83,
+   "xgAway": 0.95,
+   "url": "https://theopenmodel.com/match/inter-vs-como-2026-11-08/"
+  },
+  {
+   "date": "2026-11-08T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 11",
+   "home": "Fiorentina",
+   "away": "Juventus",
+   "pHome": 0.2985,
+   "pDraw": 0.2821,
+   "pAway": 0.4194,
+   "xgHome": 1.26,
+   "xgAway": 1.52,
+   "url": "https://theopenmodel.com/match/fiorentina-vs-juventus-2026-11-08/"
   },
   {
    "date": "2026-11-21T00:00:00Z",
@@ -6750,6 +6750,32 @@
    "url": "https://theopenmodel.com/match/marseille-vs-le-mans-2026-11-21/"
   },
   {
+   "date": "2026-11-21T14:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 12",
+   "home": "Como",
+   "away": "Cagliari",
+   "pHome": 0.6122,
+   "pDraw": 0.2411,
+   "pAway": 0.1468,
+   "xgHome": 1.93,
+   "xgAway": 0.85,
+   "url": "https://theopenmodel.com/match/como-vs-cagliari-2026-11-21/"
+  },
+  {
+   "date": "2026-11-21T14:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 12",
+   "home": "Lazio",
+   "away": "Lecce",
+   "pHome": 0.576,
+   "pDraw": 0.2522,
+   "pAway": 0.1718,
+   "xgHome": 1.85,
+   "xgAway": 0.93,
+   "url": "https://theopenmodel.com/match/lazio-vs-lecce-2026-11-21/"
+  },
+  {
    "date": "2026-11-21T15:00:00Z",
    "league": "premier-league",
    "round": "Regular Season - 11",
@@ -6878,6 +6904,32 @@
    "xgHome": 0.95,
    "xgAway": 1.83,
    "url": "https://theopenmodel.com/match/newcastle-vs-arsenal-2026-11-21/"
+  },
+  {
+   "date": "2026-11-21T17:00:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 12",
+   "home": "Parma",
+   "away": "Roma",
+   "pHome": 0.2066,
+   "pDraw": 0.2644,
+   "pAway": 0.529,
+   "xgHome": 1.03,
+   "xgAway": 1.75,
+   "url": "https://theopenmodel.com/match/parma-vs-roma-2026-11-21/"
+  },
+  {
+   "date": "2026-11-21T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 12",
+   "home": "Napoli",
+   "away": "Torino",
+   "pHome": 0.601,
+   "pDraw": 0.2447,
+   "pAway": 0.1544,
+   "xgHome": 1.9,
+   "xgAway": 0.88,
+   "url": "https://theopenmodel.com/match/napoli-vs-torino-2026-11-21/"
   },
   {
    "date": "2026-11-22T00:00:00Z",
@@ -7010,72 +7062,7 @@
    "url": "https://theopenmodel.com/match/levante-vs-elche-2026-11-22/"
   },
   {
-   "date": "2026-11-22T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 12",
-   "home": "Monza",
-   "away": "Fiorentina",
-   "pHome": 0.273,
-   "pDraw": 0.279,
-   "pAway": 0.448,
-   "xgHome": 1.2,
-   "xgAway": 1.58,
-   "url": "https://theopenmodel.com/match/monza-vs-fiorentina-2026-11-22/"
-  },
-  {
-   "date": "2026-11-22T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 12",
-   "home": "Atalanta",
-   "away": "Inter",
-   "pHome": 0.2741,
-   "pDraw": 0.2791,
-   "pAway": 0.4467,
-   "xgHome": 1.2,
-   "xgAway": 1.58,
-   "url": "https://theopenmodel.com/match/atalanta-vs-inter-2026-11-22/"
-  },
-  {
-   "date": "2026-11-22T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 12",
-   "home": "Juventus",
-   "away": "Venezia",
-   "pHome": 0.6214,
-   "pDraw": 0.238,
-   "pAway": 0.1407,
-   "xgHome": 1.95,
-   "xgAway": 0.84,
-   "url": "https://theopenmodel.com/match/juventus-vs-venezia-2026-11-22/"
-  },
-  {
-   "date": "2026-11-22T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 12",
-   "home": "Bologna",
-   "away": "Udinese",
-   "pHome": 0.48,
-   "pDraw": 0.2742,
-   "pAway": 0.2458,
-   "xgHome": 1.65,
-   "xgAway": 1.13,
-   "url": "https://theopenmodel.com/match/bologna-vs-udinese-2026-11-22/"
-  },
-  {
-   "date": "2026-11-22T00:00:00Z",
-   "league": "serie-a",
-   "round": "Regular Season - 12",
-   "home": "Milan",
-   "away": "Frosinone",
-   "pHome": 0.6352,
-   "pDraw": 0.2332,
-   "pAway": 0.1317,
-   "xgHome": 1.98,
-   "xgAway": 0.81,
-   "url": "https://theopenmodel.com/match/milan-vs-frosinone-2026-11-22/"
-  },
-  {
-   "date": "2026-11-22T00:00:00Z",
+   "date": "2026-11-22T11:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 12",
    "home": "Sassuolo",
@@ -7088,56 +7075,69 @@
    "url": "https://theopenmodel.com/match/sassuolo-vs-genoa-2026-11-22/"
   },
   {
-   "date": "2026-11-22T00:00:00Z",
+   "date": "2026-11-22T14:00:00Z",
    "league": "serie-a",
    "round": "Regular Season - 12",
-   "home": "Como",
-   "away": "Cagliari",
-   "pHome": 0.6122,
-   "pDraw": 0.2411,
-   "pAway": 0.1468,
-   "xgHome": 1.93,
-   "xgAway": 0.85,
-   "url": "https://theopenmodel.com/match/como-vs-cagliari-2026-11-22/"
+   "home": "Milan",
+   "away": "Frosinone",
+   "pHome": 0.6352,
+   "pDraw": 0.2332,
+   "pAway": 0.1317,
+   "xgHome": 1.98,
+   "xgAway": 0.81,
+   "url": "https://theopenmodel.com/match/milan-vs-frosinone-2026-11-22/"
   },
   {
-   "date": "2026-11-22T00:00:00Z",
+   "date": "2026-11-22T17:00:00Z",
    "league": "serie-a",
    "round": "Regular Season - 12",
-   "home": "Parma",
-   "away": "Roma",
-   "pHome": 0.2066,
-   "pDraw": 0.2644,
-   "pAway": 0.529,
-   "xgHome": 1.03,
-   "xgAway": 1.75,
-   "url": "https://theopenmodel.com/match/parma-vs-roma-2026-11-22/"
+   "home": "Bologna",
+   "away": "Udinese",
+   "pHome": 0.48,
+   "pDraw": 0.2742,
+   "pAway": 0.2458,
+   "xgHome": 1.65,
+   "xgAway": 1.13,
+   "url": "https://theopenmodel.com/match/bologna-vs-udinese-2026-11-22/"
   },
   {
-   "date": "2026-11-22T00:00:00Z",
+   "date": "2026-11-22T19:45:00Z",
    "league": "serie-a",
    "round": "Regular Season - 12",
-   "home": "Napoli",
-   "away": "Torino",
-   "pHome": 0.601,
-   "pDraw": 0.2447,
-   "pAway": 0.1544,
-   "xgHome": 1.9,
-   "xgAway": 0.88,
-   "url": "https://theopenmodel.com/match/napoli-vs-torino-2026-11-22/"
+   "home": "Atalanta",
+   "away": "Inter",
+   "pHome": 0.2741,
+   "pDraw": 0.2791,
+   "pAway": 0.4467,
+   "xgHome": 1.2,
+   "xgAway": 1.58,
+   "url": "https://theopenmodel.com/match/atalanta-vs-inter-2026-11-22/"
   },
   {
-   "date": "2026-11-22T00:00:00Z",
+   "date": "2026-11-23T17:30:00Z",
    "league": "serie-a",
    "round": "Regular Season - 12",
-   "home": "Lazio",
-   "away": "Lecce",
-   "pHome": 0.576,
-   "pDraw": 0.2522,
-   "pAway": 0.1718,
-   "xgHome": 1.85,
-   "xgAway": 0.93,
-   "url": "https://theopenmodel.com/match/lazio-vs-lecce-2026-11-22/"
+   "home": "Monza",
+   "away": "Fiorentina",
+   "pHome": 0.273,
+   "pDraw": 0.279,
+   "pAway": 0.448,
+   "xgHome": 1.2,
+   "xgAway": 1.58,
+   "url": "https://theopenmodel.com/match/monza-vs-fiorentina-2026-11-23/"
+  },
+  {
+   "date": "2026-11-23T19:45:00Z",
+   "league": "serie-a",
+   "round": "Regular Season - 12",
+   "home": "Juventus",
+   "away": "Venezia",
+   "pHome": 0.6214,
+   "pDraw": 0.238,
+   "pAway": 0.1407,
+   "xgHome": 1.95,
+   "xgAway": 0.84,
+   "url": "https://theopenmodel.com/match/juventus-vs-venezia-2026-11-23/"
   },
   {
    "date": "2026-11-28T00:00:00Z",
