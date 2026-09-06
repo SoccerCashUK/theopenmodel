@@ -16806,52 +16806,30 @@
    "away": "Toulouse"
   },
   {
-   "id": 559631,
-   "date": "2026-11-07T00:00:00Z",
+   "id": 559638,
+   "date": "2026-11-06T19:45:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 1298,
-   "awayId": 91,
-   "home": "Le Mans",
-   "away": "Monaco"
+   "homeId": 96,
+   "awayId": 95,
+   "home": "Toulouse",
+   "away": "Strasbourg"
   },
   {
-   "id": 559632,
-   "date": "2026-11-07T00:00:00Z",
+   "id": 559637,
+   "date": "2026-11-07T16:15:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 106,
-   "awayId": 80,
-   "home": "Brest",
-   "away": "Lyon"
-  },
-  {
-   "id": 559633,
-   "date": "2026-11-07T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 111,
-   "awayId": 97,
-   "home": "Le Havre",
-   "away": "Lorient"
-  },
-  {
-   "id": 559634,
-   "date": "2026-11-07T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 77,
-   "awayId": 84,
-   "home": "Angers",
-   "away": "Nice"
+   "homeId": 108,
+   "awayId": 114,
+   "home": "Auxerre",
+   "away": "Paris FC"
   },
   {
    "id": 559635,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-07T19:45:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -16862,7 +16840,7 @@
   },
   {
    "id": 559636,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-08T14:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -16872,30 +16850,52 @@
    "away": "Lille"
   },
   {
-   "id": 559637,
-   "date": "2026-11-07T00:00:00Z",
+   "id": 559631,
+   "date": "2026-11-08T16:15:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 108,
-   "awayId": 114,
-   "home": "Auxerre",
-   "away": "Paris FC"
+   "homeId": 1298,
+   "awayId": 91,
+   "home": "Le Mans",
+   "away": "Monaco"
   },
   {
-   "id": 559638,
-   "date": "2026-11-07T00:00:00Z",
+   "id": 559632,
+   "date": "2026-11-08T16:15:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 96,
-   "awayId": 95,
-   "home": "Toulouse",
-   "away": "Strasbourg"
+   "homeId": 106,
+   "awayId": 80,
+   "home": "Brest",
+   "away": "Lyon"
+  },
+  {
+   "id": 559633,
+   "date": "2026-11-08T16:15:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 111,
+   "awayId": 97,
+   "home": "Le Havre",
+   "away": "Lorient"
+  },
+  {
+   "id": 559634,
+   "date": "2026-11-08T16:15:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 77,
+   "awayId": 84,
+   "home": "Angers",
+   "away": "Nice"
   },
   {
    "id": 559630,
-   "date": "2026-11-07T19:45:00Z",
+   "date": "2026-11-08T19:45:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -16905,19 +16905,8 @@
    "away": "Marseille"
   },
   {
-   "id": 559621,
-   "date": "2026-11-21T00:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 91,
-   "awayId": 108,
-   "home": "Monaco",
-   "away": "Auxerre"
-  },
-  {
    "id": 559622,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-20T19:45:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -16927,8 +16916,30 @@
    "away": "Le Havre"
   },
   {
+   "id": 559628,
+   "date": "2026-11-21T16:15:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 84,
+   "awayId": 85,
+   "home": "Nice",
+   "away": "Paris SG"
+  },
+  {
+   "id": 559621,
+   "date": "2026-11-21T19:45:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 91,
+   "awayId": 108,
+   "home": "Monaco",
+   "away": "Auxerre"
+  },
+  {
    "id": 559623,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-21T19:45:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -16939,7 +16950,7 @@
   },
   {
    "id": 559624,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-21T19:45:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -16949,8 +16960,19 @@
    "away": "Lyon"
   },
   {
+   "id": 559627,
+   "date": "2026-11-21T19:45:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 95,
+   "awayId": 106,
+   "home": "Strasbourg",
+   "away": "Brest"
+  },
+  {
    "id": 559625,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-22T14:00:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -16961,7 +16983,7 @@
   },
   {
    "id": 559626,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-22T16:15:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -16971,30 +16993,8 @@
    "away": "Rennes"
   },
   {
-   "id": 559627,
-   "date": "2026-11-21T00:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 95,
-   "awayId": 106,
-   "home": "Strasbourg",
-   "away": "Brest"
-  },
-  {
-   "id": 559628,
-   "date": "2026-11-21T00:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 84,
-   "awayId": 85,
-   "home": "Nice",
-   "away": "Paris SG"
-  },
-  {
    "id": 559629,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-22T19:45:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -17005,7 +17005,7 @@
   },
   {
    "id": 559616,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-27T19:45:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -17015,52 +17015,8 @@
    "away": "Paris FC"
   },
   {
-   "id": 559617,
-   "date": "2026-11-28T00:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 1298,
-   "awayId": 79,
-   "home": "Le Mans",
-   "away": "Lille"
-  },
-  {
-   "id": 559618,
-   "date": "2026-11-28T00:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 96,
-   "awayId": 94,
-   "home": "Toulouse",
-   "away": "Rennes"
-  },
-  {
-   "id": 559619,
-   "date": "2026-11-28T00:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 108,
-   "awayId": 81,
-   "home": "Auxerre",
-   "away": "Marseille"
-  },
-  {
-   "id": 559620,
-   "date": "2026-11-28T00:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 84,
-   "awayId": 110,
-   "home": "Nice",
-   "away": "Troyes"
-  },
-  {
    "id": 559612,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-28T16:15:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -17070,8 +17026,30 @@
    "away": "Lens"
   },
   {
+   "id": 559617,
+   "date": "2026-11-28T19:45:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 1298,
+   "awayId": 79,
+   "home": "Le Mans",
+   "away": "Lille"
+  },
+  {
+   "id": 559620,
+   "date": "2026-11-28T19:45:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 84,
+   "awayId": 110,
+   "home": "Nice",
+   "away": "Troyes"
+  },
+  {
    "id": 559613,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-28T19:45:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -17082,7 +17060,7 @@
   },
   {
    "id": 559614,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-28T19:45:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -17092,8 +17070,30 @@
    "away": "Lorient"
   },
   {
+   "id": 559619,
+   "date": "2026-11-29T14:00:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 108,
+   "awayId": 81,
+   "home": "Auxerre",
+   "away": "Marseille"
+  },
+  {
+   "id": 559618,
+   "date": "2026-11-29T16:15:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 96,
+   "awayId": 94,
+   "home": "Toulouse",
+   "away": "Rennes"
+  },
+  {
    "id": 559615,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-29T19:45:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
