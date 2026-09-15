@@ -1762,7 +1762,7 @@
   },
   {
    "id": 560702,
-   "date": "2026-12-26T15:00:00Z",
+   "date": "2026-12-26T12:30:00Z",
    "round": "Regular Season - 17",
    "venue": null,
    "city": null,
@@ -1770,28 +1770,6 @@
    "awayId": 63,
    "home": "Aston Villa",
    "away": "Leeds"
-  },
-  {
-   "id": 560703,
-   "date": "2026-12-26T15:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 33,
-   "awayId": 65,
-   "home": "Man United",
-   "away": "Forest"
-  },
-  {
-   "id": 560704,
-   "date": "2026-12-26T15:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 52,
-   "awayId": 42,
-   "home": "Crystal Palace",
-   "away": "Arsenal"
   },
   {
    "id": 560705,
@@ -1803,28 +1781,6 @@
    "awayId": 746,
    "home": "Everton",
    "away": "Sunderland"
-  },
-  {
-   "id": 560706,
-   "date": "2026-12-26T15:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 1346,
-   "awayId": 49,
-   "home": "Coventry",
-   "away": "Chelsea"
-  },
-  {
-   "id": 560707,
-   "date": "2026-12-26T15:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 34,
-   "awayId": 50,
-   "home": "Newcastle",
-   "away": "Man City"
   },
   {
    "id": 560708,
@@ -1849,17 +1805,6 @@
    "away": "Bournemouth"
   },
   {
-   "id": 560710,
-   "date": "2026-12-26T15:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 64,
-   "awayId": 40,
-   "home": "Hull",
-   "away": "Liverpool"
-  },
-  {
    "id": 560711,
    "date": "2026-12-26T15:00:00Z",
    "round": "Regular Season - 17",
@@ -1871,52 +1816,63 @@
    "away": "Brentford"
   },
   {
-   "id": 560712,
-   "date": "2026-12-30T20:00:00Z",
-   "round": "Regular Season - 18",
+   "id": 560710,
+   "date": "2026-12-26T17:30:00Z",
+   "round": "Regular Season - 17",
    "venue": null,
    "city": null,
-   "homeId": 36,
-   "awayId": 42,
-   "home": "Fulham",
-   "away": "Arsenal"
-  },
-  {
-   "id": 560713,
-   "date": "2026-12-30T20:00:00Z",
-   "round": "Regular Season - 18",
-   "venue": null,
-   "city": null,
-   "homeId": 1346,
-   "awayId": 55,
-   "home": "Coventry",
-   "away": "Brentford"
-  },
-  {
-   "id": 560714,
-   "date": "2026-12-30T20:00:00Z",
-   "round": "Regular Season - 18",
-   "venue": null,
-   "city": null,
-   "homeId": 66,
+   "homeId": 64,
    "awayId": 40,
-   "home": "Aston Villa",
+   "home": "Hull",
    "away": "Liverpool"
   },
   {
-   "id": 560715,
-   "date": "2026-12-30T20:00:00Z",
-   "round": "Regular Season - 18",
+   "id": 560707,
+   "date": "2026-12-26T20:00:00Z",
+   "round": "Regular Season - 17",
    "venue": null,
    "city": null,
    "homeId": 34,
-   "awayId": 65,
+   "awayId": 50,
    "home": "Newcastle",
+   "away": "Man City"
+  },
+  {
+   "id": 560706,
+   "date": "2026-12-27T14:00:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 1346,
+   "awayId": 49,
+   "home": "Coventry",
+   "away": "Chelsea"
+  },
+  {
+   "id": 560703,
+   "date": "2026-12-27T16:30:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 33,
+   "awayId": 65,
+   "home": "Man United",
    "away": "Forest"
   },
   {
+   "id": 560704,
+   "date": "2026-12-27T19:00:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 52,
+   "awayId": 42,
+   "home": "Crystal Palace",
+   "away": "Arsenal"
+  },
+  {
    "id": 560716,
-   "date": "2026-12-30T20:00:00Z",
+   "date": "2026-12-29T19:30:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -1926,30 +1882,8 @@
    "away": "Leeds"
   },
   {
-   "id": 560717,
-   "date": "2026-12-30T20:00:00Z",
-   "round": "Regular Season - 18",
-   "venue": null,
-   "city": null,
-   "homeId": 33,
-   "awayId": 746,
-   "home": "Man United",
-   "away": "Sunderland"
-  },
-  {
-   "id": 560718,
-   "date": "2026-12-30T20:00:00Z",
-   "round": "Regular Season - 18",
-   "venue": null,
-   "city": null,
-   "homeId": 57,
-   "awayId": 49,
-   "home": "Ipswich",
-   "away": "Chelsea"
-  },
-  {
    "id": 560719,
-   "date": "2026-12-30T20:00:00Z",
+   "date": "2026-12-29T19:30:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -1960,7 +1894,7 @@
   },
   {
    "id": 560720,
-   "date": "2026-12-30T20:00:00Z",
+   "date": "2026-12-29T20:15:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -1970,8 +1904,52 @@
    "away": "Man City"
   },
   {
+   "id": 560712,
+   "date": "2026-12-30T19:30:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 36,
+   "awayId": 42,
+   "home": "Fulham",
+   "away": "Arsenal"
+  },
+  {
+   "id": 560713,
+   "date": "2026-12-30T19:30:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 1346,
+   "awayId": 55,
+   "home": "Coventry",
+   "away": "Brentford"
+  },
+  {
+   "id": 560715,
+   "date": "2026-12-30T19:30:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 34,
+   "awayId": 65,
+   "home": "Newcastle",
+   "away": "Forest"
+  },
+  {
+   "id": 560717,
+   "date": "2026-12-30T19:30:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 33,
+   "awayId": 746,
+   "home": "Man United",
+   "away": "Sunderland"
+  },
+  {
    "id": 560721,
-   "date": "2026-12-30T20:00:00Z",
+   "date": "2026-12-30T19:30:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -1981,15 +1959,48 @@
    "away": "Bournemouth"
   },
   {
-   "id": 560722,
-   "date": "2027-01-02T15:00:00Z",
+   "id": 560714,
+   "date": "2026-12-30T20:15:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 66,
+   "awayId": 40,
+   "home": "Aston Villa",
+   "away": "Liverpool"
+  },
+  {
+   "id": 560718,
+   "date": "2026-12-30T20:15:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 57,
+   "awayId": 49,
+   "home": "Ipswich",
+   "away": "Chelsea"
+  },
+  {
+   "id": 560724,
+   "date": "2027-01-01T20:00:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
-   "homeId": 35,
-   "awayId": 66,
-   "home": "Bournemouth",
-   "away": "Aston Villa"
+   "homeId": 63,
+   "awayId": 45,
+   "home": "Leeds",
+   "away": "Everton"
+  },
+  {
+   "id": 560730,
+   "date": "2027-01-02T12:30:00Z",
+   "round": "Regular Season - 19",
+   "venue": null,
+   "city": null,
+   "homeId": 51,
+   "awayId": 33,
+   "home": "Brighton",
+   "away": "Man United"
   },
   {
    "id": 560723,
@@ -2001,17 +2012,6 @@
    "awayId": 52,
    "home": "Brentford",
    "away": "Crystal Palace"
-  },
-  {
-   "id": 560724,
-   "date": "2027-01-02T15:00:00Z",
-   "round": "Regular Season - 19",
-   "venue": null,
-   "city": null,
-   "homeId": 63,
-   "awayId": 45,
-   "home": "Leeds",
-   "away": "Everton"
   },
   {
    "id": 560725,
@@ -2047,17 +2047,6 @@
    "away": "Coventry"
   },
   {
-   "id": 560728,
-   "date": "2027-01-02T15:00:00Z",
-   "round": "Regular Season - 19",
-   "venue": null,
-   "city": null,
-   "homeId": 49,
-   "awayId": 34,
-   "home": "Chelsea",
-   "away": "Newcastle"
-  },
-  {
    "id": 560729,
    "date": "2027-01-02T15:00:00Z",
    "round": "Regular Season - 19",
@@ -2069,19 +2058,30 @@
    "away": "Fulham"
   },
   {
-   "id": 560730,
-   "date": "2027-01-02T15:00:00Z",
+   "id": 560722,
+   "date": "2027-01-02T17:30:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
-   "homeId": 51,
-   "awayId": 33,
-   "home": "Brighton",
-   "away": "Man United"
+   "homeId": 35,
+   "awayId": 66,
+   "home": "Bournemouth",
+   "away": "Aston Villa"
+  },
+  {
+   "id": 560728,
+   "date": "2027-01-03T14:00:00Z",
+   "round": "Regular Season - 19",
+   "venue": null,
+   "city": null,
+   "homeId": 49,
+   "awayId": 34,
+   "home": "Chelsea",
+   "away": "Newcastle"
   },
   {
    "id": 560731,
-   "date": "2027-01-02T15:00:00Z",
+   "date": "2027-01-03T16:30:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
@@ -2092,7 +2092,7 @@
   },
   {
    "id": 560732,
-   "date": "2027-01-06T20:00:00Z",
+   "date": "2027-01-05T19:30:00Z",
    "round": "Regular Season - 20",
    "venue": null,
    "city": null,
@@ -2102,30 +2102,8 @@
    "away": "Brentford"
   },
   {
-   "id": 560733,
-   "date": "2027-01-06T20:00:00Z",
-   "round": "Regular Season - 20",
-   "venue": null,
-   "city": null,
-   "homeId": 63,
-   "awayId": 50,
-   "home": "Leeds",
-   "away": "Man City"
-  },
-  {
-   "id": 560734,
-   "date": "2027-01-06T20:00:00Z",
-   "round": "Regular Season - 20",
-   "venue": null,
-   "city": null,
-   "homeId": 33,
-   "awayId": 34,
-   "home": "Man United",
-   "away": "Newcastle"
-  },
-  {
    "id": 560735,
-   "date": "2027-01-06T20:00:00Z",
+   "date": "2027-01-05T19:30:00Z",
    "round": "Regular Season - 20",
    "venue": null,
    "city": null,
@@ -2136,7 +2114,7 @@
   },
   {
    "id": 560736,
-   "date": "2027-01-06T20:00:00Z",
+   "date": "2027-01-05T19:30:00Z",
    "round": "Regular Season - 20",
    "venue": null,
    "city": null,
@@ -2146,19 +2124,8 @@
    "away": "Hull"
   },
   {
-   "id": 560737,
-   "date": "2027-01-06T20:00:00Z",
-   "round": "Regular Season - 20",
-   "venue": null,
-   "city": null,
-   "homeId": 36,
-   "awayId": 47,
-   "home": "Fulham",
-   "away": "Tottenham"
-  },
-  {
    "id": 560738,
-   "date": "2027-01-06T20:00:00Z",
+   "date": "2027-01-05T19:30:00Z",
    "round": "Regular Season - 20",
    "venue": null,
    "city": null,
@@ -2169,7 +2136,7 @@
   },
   {
    "id": 560739,
-   "date": "2027-01-06T20:00:00Z",
+   "date": "2027-01-05T20:15:00Z",
    "round": "Regular Season - 20",
    "venue": null,
    "city": null,
@@ -2179,8 +2146,19 @@
    "away": "Liverpool"
   },
   {
+   "id": 560737,
+   "date": "2027-01-06T19:30:00Z",
+   "round": "Regular Season - 20",
+   "venue": null,
+   "city": null,
+   "homeId": 36,
+   "awayId": 47,
+   "home": "Fulham",
+   "away": "Tottenham"
+  },
+  {
    "id": 560740,
-   "date": "2027-01-06T20:00:00Z",
+   "date": "2027-01-06T19:30:00Z",
    "round": "Regular Season - 20",
    "venue": null,
    "city": null,
@@ -2191,7 +2169,7 @@
   },
   {
    "id": 560741,
-   "date": "2027-01-06T20:00:00Z",
+   "date": "2027-01-06T19:30:00Z",
    "round": "Regular Season - 20",
    "venue": null,
    "city": null,
@@ -2199,6 +2177,28 @@
    "awayId": 1346,
    "home": "Ipswich",
    "away": "Coventry"
+  },
+  {
+   "id": 560733,
+   "date": "2027-01-06T20:15:00Z",
+   "round": "Regular Season - 20",
+   "venue": null,
+   "city": null,
+   "homeId": 63,
+   "awayId": 50,
+   "home": "Leeds",
+   "away": "Man City"
+  },
+  {
+   "id": 560734,
+   "date": "2027-01-07T20:00:00Z",
+   "round": "Regular Season - 20",
+   "venue": null,
+   "city": null,
+   "homeId": 33,
+   "awayId": 34,
+   "home": "Man United",
+   "away": "Newcastle"
   },
   {
    "id": 560742,
@@ -4953,8 +4953,19 @@
    "away": "Sociedad"
   },
   {
+   "id": 564706,
+   "date": "2026-10-09T19:00:00Z",
+   "round": "Regular Season - 8",
+   "venue": null,
+   "city": null,
+   "homeId": 535,
+   "awayId": 540,
+   "home": "Malaga",
+   "away": "Espanyol"
+  },
+  {
    "id": 564698,
-   "date": "2026-10-11T00:00:00Z",
+   "date": "2026-10-10T12:00:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -4965,7 +4976,7 @@
   },
   {
    "id": 564699,
-   "date": "2026-10-11T00:00:00Z",
+   "date": "2026-10-10T14:15:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -4976,7 +4987,7 @@
   },
   {
    "id": 564700,
-   "date": "2026-10-11T00:00:00Z",
+   "date": "2026-10-10T16:30:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -4986,19 +4997,8 @@
    "away": "Getafe"
   },
   {
-   "id": 564701,
-   "date": "2026-10-11T00:00:00Z",
-   "round": "Regular Season - 8",
-   "venue": null,
-   "city": null,
-   "homeId": 543,
-   "awayId": 727,
-   "home": "Betis",
-   "away": "Osasuna"
-  },
-  {
    "id": 564702,
-   "date": "2026-10-11T00:00:00Z",
+   "date": "2026-10-10T19:00:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -5009,7 +5009,7 @@
   },
   {
    "id": 564703,
-   "date": "2026-10-11T00:00:00Z",
+   "date": "2026-10-11T12:00:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -5019,19 +5019,30 @@
    "away": "Celta"
   },
   {
-   "id": 564704,
-   "date": "2026-10-11T00:00:00Z",
+   "id": 564707,
+   "date": "2026-10-11T14:15:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
-   "homeId": 539,
-   "awayId": 536,
-   "home": "Levante",
-   "away": "Sevilla"
+   "homeId": 548,
+   "awayId": 544,
+   "home": "Sociedad",
+   "away": "Depor"
+  },
+  {
+   "id": 564701,
+   "date": "2026-10-11T16:30:00Z",
+   "round": "Regular Season - 8",
+   "venue": null,
+   "city": null,
+   "homeId": 543,
+   "awayId": 727,
+   "home": "Betis",
+   "away": "Osasuna"
   },
   {
    "id": 564705,
-   "date": "2026-10-11T00:00:00Z",
+   "date": "2026-10-11T19:00:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -5041,26 +5052,15 @@
    "away": "Valencia"
   },
   {
-   "id": 564706,
-   "date": "2026-10-11T00:00:00Z",
+   "id": 564704,
+   "date": "2026-10-12T19:00:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
-   "homeId": 535,
-   "awayId": 540,
-   "home": "Malaga",
-   "away": "Espanyol"
-  },
-  {
-   "id": 564707,
-   "date": "2026-10-11T00:00:00Z",
-   "round": "Regular Season - 8",
-   "venue": null,
-   "city": null,
-   "homeId": 548,
-   "awayId": 544,
-   "home": "Sociedad",
-   "away": "Depor"
+   "homeId": 539,
+   "awayId": 536,
+   "home": "Levante",
+   "away": "Sevilla"
   },
   {
    "id": 564708,
@@ -12943,8 +12943,19 @@
    "away": "Hoffenheim"
   },
   {
+   "id": 565820,
+   "date": "2026-10-09T18:30:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 165,
+   "awayId": 162,
+   "home": "Dortmund",
+   "away": "Werder"
+  },
+  {
    "id": 565812,
-   "date": "2026-10-10T00:00:00Z",
+   "date": "2026-10-10T13:30:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -12955,7 +12966,7 @@
   },
   {
    "id": 565813,
-   "date": "2026-10-10T00:00:00Z",
+   "date": "2026-10-10T13:30:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -12965,41 +12976,8 @@
    "away": "Stuttgart"
   },
   {
-   "id": 565814,
-   "date": "2026-10-10T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 192,
-   "awayId": 163,
-   "home": "Koeln",
-   "away": "Gladbach"
-  },
-  {
-   "id": 565815,
-   "date": "2026-10-10T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 173,
-   "awayId": 169,
-   "home": "RB Leipzig",
-   "away": "Frankfurt"
-  },
-  {
-   "id": 565816,
-   "date": "2026-10-10T00:00:00Z",
-   "round": "Regular Season - 5",
-   "venue": null,
-   "city": null,
-   "homeId": 160,
-   "awayId": 174,
-   "home": "Freiburg",
-   "away": "Schalke"
-  },
-  {
    "id": 565817,
-   "date": "2026-10-10T00:00:00Z",
+   "date": "2026-10-10T13:30:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -13010,7 +12988,7 @@
   },
   {
    "id": 565818,
-   "date": "2026-10-10T00:00:00Z",
+   "date": "2026-10-10T13:30:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -13021,7 +12999,7 @@
   },
   {
    "id": 565819,
-   "date": "2026-10-10T00:00:00Z",
+   "date": "2026-10-10T13:30:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
@@ -13031,19 +13009,52 @@
    "away": "Bayern"
   },
   {
-   "id": 565820,
-   "date": "2026-10-10T00:00:00Z",
+   "id": 565815,
+   "date": "2026-10-10T16:30:00Z",
    "round": "Regular Season - 5",
    "venue": null,
    "city": null,
-   "homeId": 165,
-   "awayId": 162,
-   "home": "Dortmund",
-   "away": "Werder"
+   "homeId": 173,
+   "awayId": 169,
+   "home": "RB Leipzig",
+   "away": "Frankfurt"
+  },
+  {
+   "id": 565814,
+   "date": "2026-10-11T13:30:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 192,
+   "awayId": 163,
+   "home": "Koeln",
+   "away": "Gladbach"
+  },
+  {
+   "id": 565816,
+   "date": "2026-10-11T15:30:00Z",
+   "round": "Regular Season - 5",
+   "venue": null,
+   "city": null,
+   "homeId": 160,
+   "awayId": 174,
+   "home": "Freiburg",
+   "away": "Schalke"
+  },
+  {
+   "id": 565828,
+   "date": "2026-10-16T18:30:00Z",
+   "round": "Regular Season - 6",
+   "venue": null,
+   "city": null,
+   "homeId": 169,
+   "awayId": 192,
+   "home": "Frankfurt",
+   "away": "Koeln"
   },
   {
    "id": 565821,
-   "date": "2026-10-17T00:00:00Z",
+   "date": "2026-10-17T13:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -13054,7 +13065,7 @@
   },
   {
    "id": 565822,
-   "date": "2026-10-17T00:00:00Z",
+   "date": "2026-10-17T13:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -13065,7 +13076,7 @@
   },
   {
    "id": 565823,
-   "date": "2026-10-17T00:00:00Z",
+   "date": "2026-10-17T13:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -13076,7 +13087,7 @@
   },
   {
    "id": 565824,
-   "date": "2026-10-17T00:00:00Z",
+   "date": "2026-10-17T13:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -13086,52 +13097,8 @@
    "away": "Augsburg"
   },
   {
-   "id": 565825,
-   "date": "2026-10-17T00:00:00Z",
-   "round": "Regular Season - 6",
-   "venue": null,
-   "city": null,
-   "homeId": 157,
-   "awayId": 173,
-   "home": "Bayern",
-   "away": "RB Leipzig"
-  },
-  {
-   "id": 565826,
-   "date": "2026-10-17T00:00:00Z",
-   "round": "Regular Season - 6",
-   "venue": null,
-   "city": null,
-   "homeId": 163,
-   "awayId": 167,
-   "home": "Gladbach",
-   "away": "Hoffenheim"
-  },
-  {
-   "id": 565827,
-   "date": "2026-10-17T00:00:00Z",
-   "round": "Regular Season - 6",
-   "venue": null,
-   "city": null,
-   "homeId": 168,
-   "awayId": 160,
-   "home": "Leverkusen",
-   "away": "Freiburg"
-  },
-  {
-   "id": 565828,
-   "date": "2026-10-17T00:00:00Z",
-   "round": "Regular Season - 6",
-   "venue": null,
-   "city": null,
-   "homeId": 169,
-   "awayId": 192,
-   "home": "Frankfurt",
-   "away": "Koeln"
-  },
-  {
    "id": 565829,
-   "date": "2026-10-17T00:00:00Z",
+   "date": "2026-10-17T13:30:00Z",
    "round": "Regular Season - 6",
    "venue": null,
    "city": null,
@@ -13141,8 +13108,52 @@
    "away": "Mainz"
   },
   {
+   "id": 565825,
+   "date": "2026-10-17T16:30:00Z",
+   "round": "Regular Season - 6",
+   "venue": null,
+   "city": null,
+   "homeId": 157,
+   "awayId": 173,
+   "home": "Bayern",
+   "away": "RB Leipzig"
+  },
+  {
+   "id": 565827,
+   "date": "2026-10-18T13:30:00Z",
+   "round": "Regular Season - 6",
+   "venue": null,
+   "city": null,
+   "homeId": 168,
+   "awayId": 160,
+   "home": "Leverkusen",
+   "away": "Freiburg"
+  },
+  {
+   "id": 565826,
+   "date": "2026-10-18T15:30:00Z",
+   "round": "Regular Season - 6",
+   "venue": null,
+   "city": null,
+   "homeId": 163,
+   "awayId": 167,
+   "home": "Gladbach",
+   "away": "Hoffenheim"
+  },
+  {
+   "id": 565833,
+   "date": "2026-10-23T18:30:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 172,
+   "awayId": 163,
+   "home": "Stuttgart",
+   "away": "Gladbach"
+  },
+  {
    "id": 565830,
-   "date": "2026-10-24T00:00:00Z",
+   "date": "2026-10-24T13:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -13153,7 +13164,7 @@
   },
   {
    "id": 565831,
-   "date": "2026-10-24T00:00:00Z",
+   "date": "2026-10-24T13:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -13164,7 +13175,7 @@
   },
   {
    "id": 565832,
-   "date": "2026-10-24T00:00:00Z",
+   "date": "2026-10-24T13:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -13174,19 +13185,8 @@
    "away": "Elversberg"
   },
   {
-   "id": 565833,
-   "date": "2026-10-24T00:00:00Z",
-   "round": "Regular Season - 7",
-   "venue": null,
-   "city": null,
-   "homeId": 172,
-   "awayId": 163,
-   "home": "Stuttgart",
-   "away": "Gladbach"
-  },
-  {
    "id": 565834,
-   "date": "2026-10-24T00:00:00Z",
+   "date": "2026-10-24T13:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -13196,8 +13196,30 @@
    "away": "Hamburg"
   },
   {
+   "id": 565838,
+   "date": "2026-10-24T13:30:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 170,
+   "awayId": 182,
+   "home": "Augsburg",
+   "away": "Union Berlin"
+  },
+  {
+   "id": 565837,
+   "date": "2026-10-24T16:30:00Z",
+   "round": "Regular Season - 7",
+   "venue": null,
+   "city": null,
+   "homeId": 165,
+   "awayId": 169,
+   "home": "Dortmund",
+   "away": "Frankfurt"
+  },
+  {
    "id": 565835,
-   "date": "2026-10-24T00:00:00Z",
+   "date": "2026-10-25T14:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -13208,7 +13230,7 @@
   },
   {
    "id": 565836,
-   "date": "2026-10-24T00:00:00Z",
+   "date": "2026-10-25T16:30:00Z",
    "round": "Regular Season - 7",
    "venue": null,
    "city": null,
@@ -13218,30 +13240,19 @@
    "away": "Bayern"
   },
   {
-   "id": 565837,
-   "date": "2026-10-24T00:00:00Z",
-   "round": "Regular Season - 7",
+   "id": 565846,
+   "date": "2026-10-30T19:30:00Z",
+   "round": "Regular Season - 8",
    "venue": null,
    "city": null,
-   "homeId": 165,
-   "awayId": 169,
-   "home": "Dortmund",
-   "away": "Frankfurt"
-  },
-  {
-   "id": 565838,
-   "date": "2026-10-24T00:00:00Z",
-   "round": "Regular Season - 7",
-   "venue": null,
-   "city": null,
-   "homeId": 170,
-   "awayId": 182,
-   "home": "Augsburg",
-   "away": "Union Berlin"
+   "homeId": 1660,
+   "awayId": 164,
+   "home": "Elversberg",
+   "away": "Mainz"
   },
   {
    "id": 565839,
-   "date": "2026-10-31T00:00:00Z",
+   "date": "2026-10-31T14:30:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -13252,7 +13263,7 @@
   },
   {
    "id": 565840,
-   "date": "2026-10-31T00:00:00Z",
+   "date": "2026-10-31T14:30:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -13262,19 +13273,8 @@
    "away": "RB Leipzig"
   },
   {
-   "id": 565841,
-   "date": "2026-10-31T00:00:00Z",
-   "round": "Regular Season - 8",
-   "venue": null,
-   "city": null,
-   "homeId": 182,
-   "awayId": 192,
-   "home": "Union Berlin",
-   "away": "Koeln"
-  },
-  {
    "id": 565842,
-   "date": "2026-10-31T00:00:00Z",
+   "date": "2026-10-31T14:30:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -13285,7 +13285,7 @@
   },
   {
    "id": 565843,
-   "date": "2026-10-31T00:00:00Z",
+   "date": "2026-10-31T14:30:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -13295,41 +13295,8 @@
    "away": "Hoffenheim"
   },
   {
-   "id": 565844,
-   "date": "2026-10-31T00:00:00Z",
-   "round": "Regular Season - 8",
-   "venue": null,
-   "city": null,
-   "homeId": 169,
-   "awayId": 175,
-   "home": "Frankfurt",
-   "away": "Hamburg"
-  },
-  {
-   "id": 565845,
-   "date": "2026-10-31T00:00:00Z",
-   "round": "Regular Season - 8",
-   "venue": null,
-   "city": null,
-   "homeId": 157,
-   "awayId": 165,
-   "home": "Bayern",
-   "away": "Dortmund"
-  },
-  {
-   "id": 565846,
-   "date": "2026-10-31T00:00:00Z",
-   "round": "Regular Season - 8",
-   "venue": null,
-   "city": null,
-   "homeId": 1660,
-   "awayId": 164,
-   "home": "Elversberg",
-   "away": "Mainz"
-  },
-  {
    "id": 565847,
-   "date": "2026-10-31T00:00:00Z",
+   "date": "2026-10-31T14:30:00Z",
    "round": "Regular Season - 8",
    "venue": null,
    "city": null,
@@ -13339,8 +13306,52 @@
    "away": "Stuttgart"
   },
   {
+   "id": 565845,
+   "date": "2026-10-31T17:30:00Z",
+   "round": "Regular Season - 8",
+   "venue": null,
+   "city": null,
+   "homeId": 157,
+   "awayId": 165,
+   "home": "Bayern",
+   "away": "Dortmund"
+  },
+  {
+   "id": 565841,
+   "date": "2026-11-01T14:30:00Z",
+   "round": "Regular Season - 8",
+   "venue": null,
+   "city": null,
+   "homeId": 182,
+   "awayId": 192,
+   "home": "Union Berlin",
+   "away": "Koeln"
+  },
+  {
+   "id": 565844,
+   "date": "2026-11-01T16:30:00Z",
+   "round": "Regular Season - 8",
+   "venue": null,
+   "city": null,
+   "homeId": 169,
+   "awayId": 175,
+   "home": "Frankfurt",
+   "away": "Hamburg"
+  },
+  {
+   "id": 565852,
+   "date": "2026-11-06T19:30:00Z",
+   "round": "Regular Season - 9",
+   "venue": null,
+   "city": null,
+   "homeId": 175,
+   "awayId": 163,
+   "home": "Hamburg",
+   "away": "Gladbach"
+  },
+  {
    "id": 565848,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-07T14:30:00Z",
    "round": "Regular Season - 9",
    "venue": null,
    "city": null,
@@ -13350,19 +13361,8 @@
    "away": "Augsburg"
   },
   {
-   "id": 565849,
-   "date": "2026-11-07T00:00:00Z",
-   "round": "Regular Season - 9",
-   "venue": null,
-   "city": null,
-   "homeId": 172,
-   "awayId": 162,
-   "home": "Stuttgart",
-   "away": "Werder"
-  },
-  {
    "id": 565850,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-07T14:30:00Z",
    "round": "Regular Season - 9",
    "venue": null,
    "city": null,
@@ -13373,7 +13373,7 @@
   },
   {
    "id": 565851,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-07T14:30:00Z",
    "round": "Regular Season - 9",
    "venue": null,
    "city": null,
@@ -13383,19 +13383,8 @@
    "away": "Bayern"
   },
   {
-   "id": 565852,
-   "date": "2026-11-07T00:00:00Z",
-   "round": "Regular Season - 9",
-   "venue": null,
-   "city": null,
-   "homeId": 175,
-   "awayId": 163,
-   "home": "Hamburg",
-   "away": "Gladbach"
-  },
-  {
    "id": 565853,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-07T14:30:00Z",
    "round": "Regular Season - 9",
    "venue": null,
    "city": null,
@@ -13405,19 +13394,19 @@
    "away": "Frankfurt"
   },
   {
-   "id": 565854,
-   "date": "2026-11-07T00:00:00Z",
+   "id": 565849,
+   "date": "2026-11-07T17:30:00Z",
    "round": "Regular Season - 9",
    "venue": null,
    "city": null,
-   "homeId": 160,
-   "awayId": 182,
-   "home": "Freiburg",
-   "away": "Union Berlin"
+   "homeId": 172,
+   "awayId": 162,
+   "home": "Stuttgart",
+   "away": "Werder"
   },
   {
    "id": 565855,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-08T14:30:00Z",
    "round": "Regular Season - 9",
    "venue": null,
    "city": null,
@@ -13427,8 +13416,19 @@
    "away": "Leverkusen"
   },
   {
+   "id": 565854,
+   "date": "2026-11-08T16:30:00Z",
+   "round": "Regular Season - 9",
+   "venue": null,
+   "city": null,
+   "homeId": 160,
+   "awayId": 182,
+   "home": "Freiburg",
+   "away": "Union Berlin"
+  },
+  {
    "id": 565856,
-   "date": "2026-11-07T00:00:00Z",
+   "date": "2026-11-08T18:30:00Z",
    "round": "Regular Season - 9",
    "venue": null,
    "city": null,
@@ -13438,8 +13438,19 @@
    "away": "Schalke"
   },
   {
+   "id": 565859,
+   "date": "2026-11-20T19:30:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 157,
+   "awayId": 192,
+   "home": "Bayern",
+   "away": "Koeln"
+  },
+  {
    "id": 565857,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-21T14:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -13450,7 +13461,7 @@
   },
   {
    "id": 565858,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-21T14:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -13460,19 +13471,8 @@
    "away": "RB Leipzig"
   },
   {
-   "id": 565859,
-   "date": "2026-11-21T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 157,
-   "awayId": 192,
-   "home": "Bayern",
-   "away": "Koeln"
-  },
-  {
    "id": 565860,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-21T14:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -13482,19 +13482,8 @@
    "away": "Freiburg"
   },
   {
-   "id": 565861,
-   "date": "2026-11-21T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 174,
-   "awayId": 172,
-   "home": "Schalke",
-   "away": "Stuttgart"
-  },
-  {
    "id": 565862,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-21T14:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -13504,30 +13493,8 @@
    "away": "Dortmund"
   },
   {
-   "id": 565863,
-   "date": "2026-11-21T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 162,
-   "awayId": 175,
-   "home": "Werder",
-   "away": "Hamburg"
-  },
-  {
-   "id": 565864,
-   "date": "2026-11-21T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 170,
-   "awayId": 164,
-   "home": "Augsburg",
-   "away": "Mainz"
-  },
-  {
    "id": 565865,
-   "date": "2026-11-21T00:00:00Z",
+   "date": "2026-11-21T14:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -13537,8 +13504,52 @@
    "away": "Hoffenheim"
   },
   {
+   "id": 565861,
+   "date": "2026-11-21T17:30:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 174,
+   "awayId": 172,
+   "home": "Schalke",
+   "away": "Stuttgart"
+  },
+  {
+   "id": 565864,
+   "date": "2026-11-22T14:30:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 170,
+   "awayId": 164,
+   "home": "Augsburg",
+   "away": "Mainz"
+  },
+  {
+   "id": 565863,
+   "date": "2026-11-22T16:30:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 162,
+   "awayId": 175,
+   "home": "Werder",
+   "away": "Hamburg"
+  },
+  {
+   "id": 565869,
+   "date": "2026-11-27T19:30:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 162,
+   "awayId": 163,
+   "home": "Werder",
+   "away": "Gladbach"
+  },
+  {
    "id": 565866,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-28T14:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -13549,7 +13560,7 @@
   },
   {
    "id": 565867,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-28T14:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -13560,7 +13571,7 @@
   },
   {
    "id": 565868,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-28T14:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -13570,19 +13581,19 @@
    "away": "Schalke"
   },
   {
-   "id": 565869,
-   "date": "2026-11-28T00:00:00Z",
+   "id": 565874,
+   "date": "2026-11-28T14:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
-   "homeId": 162,
-   "awayId": 163,
-   "home": "Werder",
-   "away": "Gladbach"
+   "homeId": 175,
+   "awayId": 157,
+   "home": "Hamburg",
+   "away": "Bayern"
   },
   {
    "id": 565870,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-28T17:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -13592,8 +13603,19 @@
    "away": "Frankfurt"
   },
   {
+   "id": 565873,
+   "date": "2026-11-29T14:30:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 160,
+   "awayId": 173,
+   "home": "Freiburg",
+   "away": "RB Leipzig"
+  },
+  {
    "id": 565871,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-29T16:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -13604,7 +13626,7 @@
   },
   {
    "id": 565872,
-   "date": "2026-11-28T00:00:00Z",
+   "date": "2026-11-29T18:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -13612,28 +13634,6 @@
    "awayId": 168,
    "home": "Dortmund",
    "away": "Leverkusen"
-  },
-  {
-   "id": 565873,
-   "date": "2026-11-28T00:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 160,
-   "awayId": 173,
-   "home": "Freiburg",
-   "away": "RB Leipzig"
-  },
-  {
-   "id": 565874,
-   "date": "2026-11-28T00:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 175,
-   "awayId": 157,
-   "home": "Hamburg",
-   "away": "Bayern"
   },
   {
    "id": 565875,
