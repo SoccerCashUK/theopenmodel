@@ -41,8 +41,24 @@ check("clubelo", () => {
   const newest = froms[froms.length - 1];
   const age = ageDays(newest);
   // ClubElo rolls a club's rating period forward at each fixture, so in season the newest
-  // period is always within a few days. Ten days means the refresh has stopped.
-  if (age > 10) throw new Error(`newest rating period is ${fmt(age)} old (${newest}) — refresh has stopped`);
+  // period is normally within a few days. But ClubElo is a free single-maintainer service
+  // that goes down for stretches (502s, timeouts), and our fetch already falls back to the
+  // last good CSV rather than failing. While it's stale, lib/elo-live.ts nudges strengths
+  // from results, so projections still move — stale, not wrong. So: warn loudly between 10
+  // and 21 days (upstream's fault, keep shipping), and only hard-fail past 21 days, where
+  // something is genuinely broken and the ratings would mislead. Override the ceiling with
+  // CLUBELO_MAX_AGE_DAYS if needed.
+  const clubeloHardFailDays = Number(process.env.CLUBELO_MAX_AGE_DAYS ?? 21);
+  if (age > clubeloHardFailDays) {
+    throw new Error(`newest rating period is ${fmt(age)} old (${newest}) — well past ${clubeloHardFailDays}d, refresh has stopped`);
+  }
+  if (age > 10) {
+    warnings.push(
+      `clubelo ratings are ${fmt(age)} old (newest ${newest}) — ClubElo has not refreshed. ` +
+      `Keeping the last good file; lib/elo-live.ts is moving strengths from results meanwhile. ` +
+      `Build still ships; this hard-fails past ${clubeloHardFailDays}d.`,
+    );
+  }
   notes.push(`clubelo: ${rows.length} clubs, newest period ${newest} (${fmt(age)})`);
 
   // A fresh file is not the same as a live rating. ClubElo rolls each club's validity
