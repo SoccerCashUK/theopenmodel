@@ -196,7 +196,6 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-09-15T17:00:00Z,la-liga,"Regular Season - 6","Rayo Vallecano","Espanyol",0.4767,0.2748,0.2486,1.64,1.14,https://theopenmodel.com/match/rayo-vallecano-vs-espanyol-2026-09-15/
 2026-09-15T18:00:00Z,la-liga,"Regular Season - 6","Alaves","Valencia",0.3599,0.2849,0.3552,1.4,1.39,https://theopenmodel.com/match/alaves-vs-valencia-2026-09-15/
 2026-09-15T19:30:00Z,la-liga,"Regular Season - 6","Elche","Real Madrid",0.1192,0.2259,0.6549,0.76,2.02,https://theopenmodel.com/match/elche-vs-real-madrid-2026-09-15/
-2026-09-16T00:00:00Z,la-liga,"Regular Season - 6","Levante","Bilbao",0.3517,0.2849,0.3634,1.38,1.4,https://theopenmodel.com/match/levante-vs-bilbao-2026-09-16/
 2026-09-16T17:00:00Z,la-liga,"Regular Season - 6","Depor","Sevilla",0.3118,0.2833,0.405,1.29,1.49,https://theopenmodel.com/match/depor-vs-sevilla-2026-09-16/
 2026-09-16T17:00:00Z,la-liga,"Regular Season - 6","Atletico","Osasuna",0.6306,0.2348,0.1346,1.97,0.82,https://theopenmodel.com/match/atletico-vs-osasuna-2026-09-16/
 2026-09-16T19:30:00Z,la-liga,"Regular Season - 6","Barcelona","Santander",0.8272,0.1414,0.0314,2.43,0.35,https://theopenmodel.com/match/barcelona-vs-santander-2026-09-16/
@@ -346,6 +345,7 @@ date,league,round,home,away,pHome,pDraw,pAway,xgHome,xgAway,url
 2026-10-19T18:45:00Z,serie-a,"Regular Season - 7","Parma","Torino",0.3857,0.2843,0.3299,1.45,1.33,https://theopenmodel.com/match/parma-vs-torino-2026-10-19/
 2026-10-19T19:00:00Z,premier-league,"Regular Season - 7","Tottenham","Coventry",0.5527,0.2586,0.1887,1.8,0.98,https://theopenmodel.com/match/tottenham-vs-coventry-2026-10-19/
 2026-10-19T19:00:00Z,la-liga,"Regular Season - 9","Getafe","Rayo Vallecano",0.3579,0.285,0.3571,1.39,1.39,https://theopenmodel.com/match/getafe-vs-rayo-vallecano-2026-10-19/
+2026-10-21T18:00:00Z,la-liga,"Regular Season - 6","Levante","Bilbao",0.3517,0.2849,0.3634,1.38,1.4,https://theopenmodel.com/match/levante-vs-bilbao-2026-10-21/
 2026-10-23T18:30:00Z,bundesliga,"Regular Season - 7","Stuttgart","Gladbach",0.5614,0.2563,0.1823,1.82,0.96,https://theopenmodel.com/match/stuttgart-vs-gladbach-2026-10-23/
 2026-10-23T18:45:00Z,serie-a,"Regular Season - 8","Torino","Monza",0.5098,0.2686,0.2217,1.71,1.07,https://theopenmodel.com/match/torino-vs-monza-2026-10-23/
 2026-10-23T18:45:00Z,ligue-1,"Regular Season - 8","Brest","Nice",0.4596,0.2774,0.263,1.61,1.17,https://theopenmodel.com/match/brest-vs-nice-2026-10-23/

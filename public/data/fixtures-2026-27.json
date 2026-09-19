@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18",
+ "updated": "2026-09-19",
  "license": "CC BY 4.0 — link to theopenmodel.com",
  "rows": [
   {
@@ -2564,19 +2564,6 @@
    "url": "https://theopenmodel.com/match/elche-vs-real-madrid-2026-09-15/"
   },
   {
-   "date": "2026-09-16T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 6",
-   "home": "Levante",
-   "away": "Bilbao",
-   "pHome": 0.3517,
-   "pDraw": 0.2849,
-   "pAway": 0.3634,
-   "xgHome": 1.38,
-   "xgAway": 1.4,
-   "url": "https://theopenmodel.com/match/levante-vs-bilbao-2026-09-16/"
-  },
-  {
    "date": "2026-09-16T17:00:00Z",
    "league": "la-liga",
    "round": "Regular Season - 6",
@@ -4512,6 +4499,19 @@
    "xgHome": 1.39,
    "xgAway": 1.39,
    "url": "https://theopenmodel.com/match/getafe-vs-rayo-vallecano-2026-10-19/"
+  },
+  {
+   "date": "2026-10-21T18:00:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 6",
+   "home": "Levante",
+   "away": "Bilbao",
+   "pHome": 0.3517,
+   "pDraw": 0.2849,
+   "pAway": 0.3634,
+   "xgHome": 1.38,
+   "xgAway": 1.4,
+   "url": "https://theopenmodel.com/match/levante-vs-bilbao-2026-10-21/"
   },
   {
    "date": "2026-10-23T18:30:00Z",

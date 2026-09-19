@@ -4777,17 +4777,6 @@
    "away": "Real Madrid"
   },
   {
-   "id": 564685,
-   "date": "2026-09-16T00:00:00Z",
-   "round": "Regular Season - 6",
-   "venue": null,
-   "city": null,
-   "homeId": 539,
-   "awayId": 531,
-   "home": "Levante",
-   "away": "Bilbao"
-  },
-  {
    "id": 564679,
    "date": "2026-09-16T17:00:00Z",
    "round": "Regular Season - 6",
@@ -5171,6 +5160,17 @@
    "awayId": 728,
    "home": "Getafe",
    "away": "Rayo Vallecano"
+  },
+  {
+   "id": 564685,
+   "date": "2026-10-21T18:00:00Z",
+   "round": "Regular Season - 6",
+   "venue": null,
+   "city": null,
+   "homeId": 539,
+   "awayId": 531,
+   "home": "Levante",
+   "away": "Bilbao"
   },
   {
    "id": 564718,
