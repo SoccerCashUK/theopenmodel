@@ -57,6 +57,12 @@ jobs:
       # noticing, because a stale forecast is indistinguishable from a fresh one on the
       # page — the only way to see it is to assert on the data.
       - name: Check data freshness
+        env:
+          # ClubElo (a free third-party source) can go offline for stretches; while it's down
+          # our fetch keeps the last good file and lib/elo-live.ts moves strengths from results.
+          # This raises the hard-fail ceiling so an upstream outage doesn't halt the daily build.
+          # Set to a value in the repo Variables; defaults to 21 in the script if unset.
+          CLUBELO_MAX_AGE_DAYS: ${{ vars.CLUBELO_MAX_AGE_DAYS }}
         run: node scripts/check-data-freshness.mjs
 
       # This push is the deploy trigger: Vercel is connected to the repo and rebuilds
