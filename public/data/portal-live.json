@@ -1,14 +1,14 @@
 {
   "schemaVersion": 1,
   "provider": "football-data",
-  "asOf": "2026-09-20T08:44:36.113Z",
-  "updatedAt": "2026-09-20T08:44:36.113Z",
+  "asOf": "2026-09-21T22:06:26.900Z",
+  "updatedAt": "2026-09-21T22:06:26.900Z",
   "coverage": {
-    "dateFrom": "2026-09-15",
-    "dateTo": "2026-10-04",
-    "fixtureCount": 56,
+    "dateFrom": "2026-09-16",
+    "dateTo": "2026-10-05",
+    "fixtureCount": 53,
     "liveFixtureCount": 0,
-    "finishedFixtureCount": 36,
+    "finishedFixtureCount": 53,
     "leagueCount": 5,
     "standingTableCount": 5,
     "requestedIncludes": [
@@ -32,312 +32,6 @@
   },
   "fixtures": [
     {
-      "id": "football-data:564678",
-      "providerId": 564678,
-      "name": "Rayo Vallecano de Madrid vs RCD Espanyol de Barcelona",
-      "startTime": "2026-09-15T17:00:00.000Z",
-      "resultInfo": "2-1",
-      "seasonId": 2518,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
-      "status": {
-        "id": null,
-        "name": "Match Finished",
-        "shortName": "FINISHED",
-        "developerName": "FINISHED",
-        "isLive": false,
-        "isFinished": true
-      },
-      "league": {
-        "id": 2014,
-        "name": "Primera Division",
-        "shortCode": "PD",
-        "imageUrl": "https://crests.football-data.org/laliga.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 87,
-          "name": "Rayo Vallecano de Madrid",
-          "shortCode": "RAY",
-          "imageUrl": "https://crests.football-data.org/87.png",
-          "role": "home",
-          "position": null,
-          "winner": true
-        },
-        {
-          "id": 80,
-          "name": "RCD Espanyol de Barcelona",
-          "shortCode": "ESP",
-          "imageUrl": "https://crests.football-data.org/80.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 2,
-        "away": 1,
-        "halfTimeHome": 2,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 87,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 2
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 80,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 1
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 87,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 2
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 80,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:564680",
-      "providerId": 564680,
-      "name": "Deportivo Alavés vs Valencia CF",
-      "startTime": "2026-09-15T18:00:00.000Z",
-      "resultInfo": "0-1",
-      "seasonId": 2518,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
-      "status": {
-        "id": null,
-        "name": "Match Finished",
-        "shortName": "FINISHED",
-        "developerName": "FINISHED",
-        "isLive": false,
-        "isFinished": true
-      },
-      "league": {
-        "id": 2014,
-        "name": "Primera Division",
-        "shortCode": "PD",
-        "imageUrl": "https://crests.football-data.org/laliga.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 263,
-          "name": "Deportivo Alavés",
-          "shortCode": "ALA",
-          "imageUrl": "https://crests.football-data.org/263.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 95,
-          "name": "Valencia CF",
-          "shortCode": "VAL",
-          "imageUrl": "https://crests.football-data.org/95.png",
-          "role": "away",
-          "position": null,
-          "winner": true
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 1,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 263,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 95,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 1
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 263,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 95,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:564681",
-      "providerId": 564681,
-      "name": "Elche CF vs Real Madrid CF",
-      "startTime": "2026-09-15T19:30:00.000Z",
-      "resultInfo": "2-3",
-      "seasonId": 2518,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
-      "status": {
-        "id": null,
-        "name": "Match Finished",
-        "shortName": "FINISHED",
-        "developerName": "FINISHED",
-        "isLive": false,
-        "isFinished": true
-      },
-      "league": {
-        "id": 2014,
-        "name": "Primera Division",
-        "shortCode": "PD",
-        "imageUrl": "https://crests.football-data.org/laliga.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 285,
-          "name": "Elche CF",
-          "shortCode": "ELC",
-          "imageUrl": "https://crests.football-data.org/285.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 86,
-          "name": "Real Madrid CF",
-          "shortCode": "RMA",
-          "imageUrl": "https://crests.football-data.org/86.png",
-          "role": "away",
-          "position": null,
-          "winner": true
-        }
-      ],
-      "score": {
-        "home": 2,
-        "away": 3,
-        "halfTimeHome": 0,
-        "halfTimeAway": 2
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 285,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 2
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 86,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 3
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 285,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 86,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 2
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:564684",
       "providerId": 564684,
       "name": "Club Atlético de Madrid vs CA Osasuna",
@@ -347,7 +41,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -449,7 +143,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -551,7 +245,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -653,7 +347,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -755,7 +449,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -857,7 +551,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:29Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -950,108 +644,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:558596",
-      "providerId": 558596,
-      "name": "AC Monza vs US Sassuolo Calcio",
-      "startTime": "2026-09-18T18:45:00.000Z",
-      "resultInfo": "2-1",
-      "seasonId": 2494,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
-      "status": {
-        "id": null,
-        "name": "Match Finished",
-        "shortName": "FINISHED",
-        "developerName": "FINISHED",
-        "isLive": false,
-        "isFinished": true
-      },
-      "league": {
-        "id": 2019,
-        "name": "Serie A",
-        "shortCode": "SA",
-        "imageUrl": "https://crests.football-data.org/c111.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 5911,
-          "name": "AC Monza",
-          "shortCode": "MON",
-          "imageUrl": "https://crests.football-data.org/5911.png",
-          "role": "home",
-          "position": null,
-          "winner": true
-        },
-        {
-          "id": 471,
-          "name": "US Sassuolo Calcio",
-          "shortCode": "SAS",
-          "imageUrl": "https://crests.football-data.org/471.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 2,
-        "away": 1,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 5911,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 2
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 471,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 1
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 5911,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 471,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:559682",
       "providerId": 559682,
       "name": "AS Monaco FC vs Racing Club de Lens",
@@ -1061,7 +653,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1154,6 +746,108 @@
       "injuries": []
     },
     {
+      "id": "football-data:558596",
+      "providerId": 558596,
+      "name": "AC Monza vs US Sassuolo Calcio",
+      "startTime": "2026-09-18T18:45:00.000Z",
+      "resultInfo": "2-1",
+      "seasonId": 2494,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
+      "status": {
+        "id": null,
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
+        "isLive": false,
+        "isFinished": true
+      },
+      "league": {
+        "id": 2019,
+        "name": "Serie A",
+        "shortCode": "SA",
+        "imageUrl": "https://crests.football-data.org/c111.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 5911,
+          "name": "AC Monza",
+          "shortCode": "MON",
+          "imageUrl": "https://crests.football-data.org/5911.png",
+          "role": "home",
+          "position": null,
+          "winner": true
+        },
+        {
+          "id": 471,
+          "name": "US Sassuolo Calcio",
+          "shortCode": "SAS",
+          "imageUrl": "https://crests.football-data.org/471.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 2,
+        "away": 1,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 5911,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 2
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 471,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 1
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 5911,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 471,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:560591",
       "providerId": 560591,
       "name": "Brentford FC vs Chelsea FC",
@@ -1163,7 +857,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1265,7 +959,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1367,7 +1061,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1469,7 +1163,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1571,7 +1265,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1673,7 +1367,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1775,7 +1469,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:29Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1877,7 +1571,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:29Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -1970,108 +1664,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:565811",
-      "providerId": 565811,
-      "name": "Eintracht Frankfurt vs SC Freiburg",
-      "startTime": "2026-09-19T13:30:00.000Z",
-      "resultInfo": "2-2",
-      "seasonId": 2522,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:29Z",
-      "status": {
-        "id": null,
-        "name": "Match Finished",
-        "shortName": "FINISHED",
-        "developerName": "FINISHED",
-        "isLive": false,
-        "isFinished": true
-      },
-      "league": {
-        "id": 2002,
-        "name": "Bundesliga",
-        "shortCode": "BL1",
-        "imageUrl": "https://crests.football-data.org/BL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 19,
-          "name": "Eintracht Frankfurt",
-          "shortCode": "SGE",
-          "imageUrl": "https://crests.football-data.org/19.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 17,
-          "name": "SC Freiburg",
-          "shortCode": "SCF",
-          "imageUrl": "https://crests.football-data.org/17.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 2,
-        "away": 2,
-        "halfTimeHome": 2,
-        "halfTimeAway": 1
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 19,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 2
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 17,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 2
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 19,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 2
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 17,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 1
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:565809",
       "providerId": 565809,
       "name": "Borussia Mönchengladbach vs 1. FSV Mainz 05",
@@ -2081,7 +1673,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:29Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2174,16 +1766,16 @@
       "injuries": []
     },
     {
-      "id": "football-data:560586",
-      "providerId": 560586,
-      "name": "Brighton & Hove Albion FC vs Arsenal FC",
-      "startTime": "2026-09-19T14:00:00.000Z",
-      "resultInfo": "3-0",
-      "seasonId": 2502,
+      "id": "football-data:565811",
+      "providerId": 565811,
+      "name": "Eintracht Frankfurt vs SC Freiburg",
+      "startTime": "2026-09-19T13:30:00.000Z",
+      "resultInfo": "2-2",
+      "seasonId": 2522,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2193,10 +1785,10 @@
         "isFinished": true
       },
       "league": {
-        "id": 2021,
-        "name": "Premier League",
-        "shortCode": "PL",
-        "imageUrl": "https://crests.football-data.org/PL.png"
+        "id": 2002,
+        "name": "Bundesliga",
+        "shortCode": "BL1",
+        "imageUrl": "https://crests.football-data.org/BL1.png"
       },
       "round": {
         "id": null,
@@ -2213,51 +1805,51 @@
       },
       "participants": [
         {
-          "id": 397,
-          "name": "Brighton & Hove Albion FC",
-          "shortCode": "BHA",
-          "imageUrl": "https://crests.football-data.org/397.png",
+          "id": 19,
+          "name": "Eintracht Frankfurt",
+          "shortCode": "SGE",
+          "imageUrl": "https://crests.football-data.org/19.png",
           "role": "home",
           "position": null,
-          "winner": true
+          "winner": false
         },
         {
-          "id": 57,
-          "name": "Arsenal FC",
-          "shortCode": "ARS",
-          "imageUrl": "https://crests.football-data.org/57.png",
+          "id": 17,
+          "name": "SC Freiburg",
+          "shortCode": "SCF",
+          "imageUrl": "https://crests.football-data.org/17.png",
           "role": "away",
           "position": null,
           "winner": false
         }
       ],
       "score": {
-        "home": 3,
-        "away": 0,
+        "home": 2,
+        "away": 2,
         "halfTimeHome": 2,
-        "halfTimeAway": 0
+        "halfTimeAway": 1
       },
       "scores": [
         {
           "id": null,
           "typeId": null,
-          "participantId": 397,
+          "participantId": 19,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 3
+          "goals": 2
         },
         {
           "id": null,
           "typeId": null,
-          "participantId": 57,
+          "participantId": 17,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
           "typeId": null,
-          "participantId": 397,
+          "participantId": 19,
           "description": "1ST_HALF",
           "participant": "home",
           "goals": 2
@@ -2265,10 +1857,10 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 57,
+          "participantId": 17,
           "description": "1ST_HALF",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         }
       ],
       "events": [],
@@ -2285,7 +1877,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2387,7 +1979,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2480,6 +2072,108 @@
       "injuries": []
     },
     {
+      "id": "football-data:560586",
+      "providerId": 560586,
+      "name": "Brighton & Hove Albion FC vs Arsenal FC",
+      "startTime": "2026-09-19T14:00:00.000Z",
+      "resultInfo": "3-0",
+      "seasonId": 2502,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
+      "status": {
+        "id": null,
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
+        "isLive": false,
+        "isFinished": true
+      },
+      "league": {
+        "id": 2021,
+        "name": "Premier League",
+        "shortCode": "PL",
+        "imageUrl": "https://crests.football-data.org/PL.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 397,
+          "name": "Brighton & Hove Albion FC",
+          "shortCode": "BHA",
+          "imageUrl": "https://crests.football-data.org/397.png",
+          "role": "home",
+          "position": null,
+          "winner": true
+        },
+        {
+          "id": 57,
+          "name": "Arsenal FC",
+          "shortCode": "ARS",
+          "imageUrl": "https://crests.football-data.org/57.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 3,
+        "away": 0,
+        "halfTimeHome": 2,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 397,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 3
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 57,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 397,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 2
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 57,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:564691",
       "providerId": 564691,
       "name": "Athletic Club vs Deportivo Alavés",
@@ -2489,7 +2183,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2591,7 +2285,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2693,7 +2387,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2786,108 +2480,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:565806",
-      "providerId": 565806,
-      "name": "VfB Stuttgart vs Borussia Dortmund",
-      "startTime": "2026-09-19T16:30:00.000Z",
-      "resultInfo": "0-1",
-      "seasonId": 2522,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:29Z",
-      "status": {
-        "id": null,
-        "name": "Match Finished",
-        "shortName": "FINISHED",
-        "developerName": "FINISHED",
-        "isLive": false,
-        "isFinished": true
-      },
-      "league": {
-        "id": 2002,
-        "name": "Bundesliga",
-        "shortCode": "BL1",
-        "imageUrl": "https://crests.football-data.org/BL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 10,
-          "name": "VfB Stuttgart",
-          "shortCode": "VFB",
-          "imageUrl": "https://crests.football-data.org/10.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 4,
-          "name": "Borussia Dortmund",
-          "shortCode": "BVB",
-          "imageUrl": "https://crests.football-data.org/4.png",
-          "role": "away",
-          "position": null,
-          "winner": true
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 1,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 10,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 4,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 1
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 10,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 4,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:560589",
       "providerId": 560589,
       "name": "Nottingham Forest FC vs Coventry City FC",
@@ -2897,7 +2489,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -2990,6 +2582,108 @@
       "injuries": []
     },
     {
+      "id": "football-data:565806",
+      "providerId": 565806,
+      "name": "VfB Stuttgart vs Borussia Dortmund",
+      "startTime": "2026-09-19T16:30:00.000Z",
+      "resultInfo": "0-1",
+      "seasonId": 2522,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
+      "status": {
+        "id": null,
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
+        "isLive": false,
+        "isFinished": true
+      },
+      "league": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "shortCode": "BL1",
+        "imageUrl": "https://crests.football-data.org/BL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 10,
+          "name": "VfB Stuttgart",
+          "shortCode": "VFB",
+          "imageUrl": "https://crests.football-data.org/10.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 4,
+          "name": "Borussia Dortmund",
+          "shortCode": "BVB",
+          "imageUrl": "https://crests.football-data.org/4.png",
+          "role": "away",
+          "position": null,
+          "winner": true
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 1,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 10,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 4,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 1
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 10,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 4,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:564694",
       "providerId": 564694,
       "name": "RC Celta de Vigo vs Real Racing Club de Santander",
@@ -2999,7 +2693,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -3101,7 +2795,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -3203,7 +2897,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -3305,7 +2999,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -3407,7 +3101,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -3509,7 +3203,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -3611,7 +3305,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
         "name": "Match Finished",
@@ -3708,19 +3402,19 @@
       "providerId": 558591,
       "name": "ACF Fiorentina vs SSC Napoli",
       "startTime": "2026-09-20T10:30:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "1-1",
       "seasonId": 2494,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2019,
@@ -3762,10 +3456,10 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 1,
+        "away": 1,
         "halfTimeHome": 0,
-        "halfTimeAway": 0
+        "halfTimeAway": 1
       },
       "scores": [
         {
@@ -3774,7 +3468,7 @@
           "participantId": 99,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -3782,7 +3476,7 @@
           "participantId": 113,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -3798,7 +3492,7 @@
           "participantId": 113,
           "description": "1ST_HALF",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         }
       ],
       "events": [],
@@ -3810,19 +3504,19 @@
       "providerId": 564697,
       "name": "Getafe CF vs Málaga CF",
       "startTime": "2026-09-20T12:00:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "1-0",
       "seasonId": 2518,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
+      "lastProcessedAt": "2026-09-21T13:25:09Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2014,
@@ -3851,7 +3545,7 @@
           "imageUrl": "https://crests.football-data.org/82.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 84,
@@ -3864,7 +3558,7 @@
         }
       ],
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0,
         "halfTimeHome": 0,
         "halfTimeAway": 0
@@ -3876,7 +3570,7 @@
           "participantId": 82,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -3908,23 +3602,227 @@
       "injuries": []
     },
     {
+      "id": "football-data:559676",
+      "providerId": 559676,
+      "name": "AJ Auxerre vs Stade Brestois 29",
+      "startTime": "2026-09-20T13:00:00.000Z",
+      "resultInfo": "2-1",
+      "seasonId": 2497,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
+      "status": {
+        "id": null,
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
+        "isLive": false,
+        "isFinished": true
+      },
+      "league": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "shortCode": "FL1",
+        "imageUrl": "https://crests.football-data.org/FL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 519,
+          "name": "AJ Auxerre",
+          "shortCode": "AJA",
+          "imageUrl": "https://crests.football-data.org/519.png",
+          "role": "home",
+          "position": null,
+          "winner": true
+        },
+        {
+          "id": 512,
+          "name": "Stade Brestois 29",
+          "shortCode": "BRE",
+          "imageUrl": "https://crests.football-data.org/512.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 2,
+        "away": 1,
+        "halfTimeHome": 0,
+        "halfTimeAway": 1
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 519,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 2
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 512,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 1
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 519,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 512,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 1
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:558590",
+      "providerId": 558590,
+      "name": "Parma Calcio 1913 vs Genoa CFC",
+      "startTime": "2026-09-20T13:00:00.000Z",
+      "resultInfo": "2-1",
+      "seasonId": 2494,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
+      "status": {
+        "id": null,
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
+        "isLive": false,
+        "isFinished": true
+      },
+      "league": {
+        "id": 2019,
+        "name": "Serie A",
+        "shortCode": "SA",
+        "imageUrl": "https://crests.football-data.org/c111.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 112,
+          "name": "Parma Calcio 1913",
+          "shortCode": "PAR",
+          "imageUrl": "https://crests.football-data.org/112.png",
+          "role": "home",
+          "position": null,
+          "winner": true
+        },
+        {
+          "id": 107,
+          "name": "Genoa CFC",
+          "shortCode": "GEN",
+          "imageUrl": "https://crests.football-data.org/107.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 2,
+        "away": 1,
+        "halfTimeHome": 1,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 112,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 2
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 107,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 1
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 112,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 1
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 107,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:560585",
       "providerId": 560585,
       "name": "Leeds United FC vs Crystal Palace FC",
       "startTime": "2026-09-20T13:00:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "0-0",
       "seasonId": 2502,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2021,
@@ -4014,19 +3912,19 @@
       "providerId": 558592,
       "name": "Frosinone Calcio vs Como 1907",
       "startTime": "2026-09-20T13:00:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "2-0",
       "seasonId": 2494,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2019,
@@ -4055,7 +3953,7 @@
           "imageUrl": "https://crests.football-data.org/470.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 7397,
@@ -4068,9 +3966,9 @@
         }
       ],
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0,
-        "halfTimeHome": 0,
+        "halfTimeHome": 2,
         "halfTimeAway": 0
       },
       "scores": [
@@ -4080,7 +3978,7 @@
           "participantId": 470,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -4096,216 +3994,12 @@
           "participantId": 470,
           "description": "1ST_HALF",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
           "typeId": null,
           "participantId": 7397,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:559676",
-      "providerId": 559676,
-      "name": "AJ Auxerre vs Stade Brestois 29",
-      "startTime": "2026-09-20T13:00:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2497,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2015,
-        "name": "Ligue 1",
-        "shortCode": "FL1",
-        "imageUrl": "https://crests.football-data.org/FL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 519,
-          "name": "AJ Auxerre",
-          "shortCode": "AJA",
-          "imageUrl": "https://crests.football-data.org/519.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 512,
-          "name": "Stade Brestois 29",
-          "shortCode": "BRE",
-          "imageUrl": "https://crests.football-data.org/512.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 519,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 512,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 519,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 512,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:558590",
-      "providerId": 558590,
-      "name": "Parma Calcio 1913 vs Genoa CFC",
-      "startTime": "2026-09-20T13:00:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2494,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2019,
-        "name": "Serie A",
-        "shortCode": "SA",
-        "imageUrl": "https://crests.football-data.org/c111.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 112,
-          "name": "Parma Calcio 1913",
-          "shortCode": "PAR",
-          "imageUrl": "https://crests.football-data.org/112.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 107,
-          "name": "Genoa CFC",
-          "shortCode": "GEN",
-          "imageUrl": "https://crests.football-data.org/107.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 112,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 107,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 112,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 107,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
@@ -4320,19 +4014,19 @@
       "providerId": 560590,
       "name": "Manchester City FC vs Sunderland AFC",
       "startTime": "2026-09-20T13:00:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "5-3",
       "seasonId": 2502,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2021,
@@ -4361,7 +4055,7 @@
           "imageUrl": "https://crests.football-data.org/65.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 71,
@@ -4374,10 +4068,10 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
+        "home": 5,
+        "away": 3,
+        "halfTimeHome": 3,
+        "halfTimeAway": 2
       },
       "scores": [
         {
@@ -4386,7 +4080,7 @@
           "participantId": 65,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 5
         },
         {
           "id": null,
@@ -4394,7 +4088,7 @@
           "participantId": 71,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 3
         },
         {
           "id": null,
@@ -4402,7 +4096,7 @@
           "participantId": 65,
           "description": "1ST_HALF",
           "participant": "home",
-          "goals": 0
+          "goals": 3
         },
         {
           "id": null,
@@ -4410,7 +4104,7 @@
           "participantId": 71,
           "description": "1ST_HALF",
           "participant": "away",
-          "goals": 0
+          "goals": 2
         }
       ],
       "events": [],
@@ -4422,19 +4116,19 @@
       "providerId": 560582,
       "name": "AFC Bournemouth vs Liverpool FC",
       "startTime": "2026-09-20T13:00:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "0-1",
       "seasonId": 2502,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2021,
@@ -4472,12 +4166,12 @@
           "imageUrl": "https://crests.football-data.org/64.png",
           "role": "away",
           "position": null,
-          "winner": false
+          "winner": true
         }
       ],
       "score": {
         "home": 0,
-        "away": 0,
+        "away": 1,
         "halfTimeHome": 0,
         "halfTimeAway": 0
       },
@@ -4496,7 +4190,7 @@
           "participantId": 64,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -4524,19 +4218,19 @@
       "providerId": 565807,
       "name": "Bayer 04 Leverkusen vs RB Leipzig",
       "startTime": "2026-09-20T13:30:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "2-0",
       "seasonId": 2522,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2002,
@@ -4565,7 +4259,7 @@
           "imageUrl": "https://crests.football-data.org/3.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 721,
@@ -4578,9 +4272,9 @@
         }
       ],
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0,
-        "halfTimeHome": 0,
+        "halfTimeHome": 1,
         "halfTimeAway": 0
       },
       "scores": [
@@ -4590,7 +4284,7 @@
           "participantId": 3,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -4606,7 +4300,7 @@
           "participantId": 3,
           "description": "1ST_HALF",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -4626,19 +4320,19 @@
       "providerId": 564688,
       "name": "Club Atlético de Madrid vs Real Madrid CF",
       "startTime": "2026-09-20T14:15:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "2-1",
       "seasonId": 2518,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2014,
@@ -4667,7 +4361,7 @@
           "imageUrl": "https://crests.football-data.org/78.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 86,
@@ -4680,8 +4374,8 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 2,
+        "away": 1,
         "halfTimeHome": 0,
         "halfTimeAway": 0
       },
@@ -4692,7 +4386,7 @@
           "participantId": 78,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -4700,7 +4394,7 @@
           "participantId": 86,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -4728,19 +4422,19 @@
       "providerId": 559678,
       "name": "OGC Nice vs Lille OSC",
       "startTime": "2026-09-20T15:15:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "2-1",
       "seasonId": 2497,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:00Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2015,
@@ -4769,7 +4463,7 @@
           "imageUrl": "https://crests.football-data.org/522.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 521,
@@ -4782,9 +4476,9 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
+        "home": 2,
+        "away": 1,
+        "halfTimeHome": 1,
         "halfTimeAway": 0
       },
       "scores": [
@@ -4794,7 +4488,7 @@
           "participantId": 522,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -4802,7 +4496,7 @@
           "participantId": 521,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -4810,7 +4504,7 @@
           "participantId": 522,
           "description": "1ST_HALF",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -4830,19 +4524,19 @@
       "providerId": 560583,
       "name": "Fulham FC vs Manchester United FC",
       "startTime": "2026-09-20T15:30:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "1-1",
       "seasonId": 2502,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:01Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2021,
@@ -4884,8 +4578,8 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 1,
+        "away": 1,
         "halfTimeHome": 0,
         "halfTimeAway": 0
       },
@@ -4896,7 +4590,7 @@
           "participantId": 63,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -4904,7 +4598,7 @@
           "participantId": 66,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -4932,19 +4626,19 @@
       "providerId": 565805,
       "name": "FC Schalke 04 vs SV 07 Elversberg",
       "startTime": "2026-09-20T15:30:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "0-0",
       "seasonId": 2522,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:01Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2002,
@@ -5034,19 +4728,19 @@
       "providerId": 558595,
       "name": "Juventus FC vs Atalanta BC",
       "startTime": "2026-09-20T16:00:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "2-0",
       "seasonId": 2494,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2019,
@@ -5075,7 +4769,7 @@
           "imageUrl": "https://crests.football-data.org/109.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 102,
@@ -5088,9 +4782,9 @@
         }
       ],
       "score": {
-        "home": 0,
+        "home": 2,
         "away": 0,
-        "halfTimeHome": 0,
+        "halfTimeHome": 1,
         "halfTimeAway": 0
       },
       "scores": [
@@ -5100,7 +4794,7 @@
           "participantId": 109,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -5116,7 +4810,7 @@
           "participantId": 109,
           "description": "1ST_HALF",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -5136,19 +4830,19 @@
       "providerId": 564695,
       "name": "RC Deportivo La Coruña vs Real Betis Balompié",
       "startTime": "2026-09-20T16:30:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "1-1",
       "seasonId": 2518,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2014,
@@ -5190,10 +4884,10 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 1,
+        "away": 1,
         "halfTimeHome": 0,
-        "halfTimeAway": 0
+        "halfTimeAway": 1
       },
       "scores": [
         {
@@ -5202,7 +4896,7 @@
           "participantId": 560,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -5210,7 +4904,7 @@
           "participantId": 90,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -5226,7 +4920,7 @@
           "participantId": 90,
           "description": "1ST_HALF",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         }
       ],
       "events": [],
@@ -5238,19 +4932,19 @@
       "providerId": 564696,
       "name": "Villarreal CF vs Levante UD",
       "startTime": "2026-09-20T16:30:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "3-1",
       "seasonId": 2518,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:01Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2014,
@@ -5279,7 +4973,7 @@
           "imageUrl": "https://crests.football-data.org/94.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 88,
@@ -5292,10 +4986,10 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
+        "home": 3,
+        "away": 1,
+        "halfTimeHome": 1,
+        "halfTimeAway": 1
       },
       "scores": [
         {
@@ -5304,7 +4998,7 @@
           "participantId": 94,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 3
         },
         {
           "id": null,
@@ -5312,7 +5006,7 @@
           "participantId": 88,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -5320,7 +5014,7 @@
           "participantId": 94,
           "description": "1ST_HALF",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -5328,7 +5022,7 @@
           "participantId": 88,
           "description": "1ST_HALF",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         }
       ],
       "events": [],
@@ -5340,19 +5034,19 @@
       "providerId": 565803,
       "name": "SC Paderborn 07 vs TSG 1899 Hoffenheim",
       "startTime": "2026-09-20T17:30:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "3-1",
       "seasonId": 2522,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:01Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2002,
@@ -5381,7 +5075,7 @@
           "imageUrl": "https://crests.football-data.org/29.png",
           "role": "home",
           "position": null,
-          "winner": false
+          "winner": true
         },
         {
           "id": 2,
@@ -5394,9 +5088,9 @@
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
+        "home": 3,
+        "away": 1,
+        "halfTimeHome": 2,
         "halfTimeAway": 0
       },
       "scores": [
@@ -5406,7 +5100,7 @@
           "participantId": 29,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 3
         },
         {
           "id": null,
@@ -5414,7 +5108,7 @@
           "participantId": 2,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -5422,7 +5116,7 @@
           "participantId": 29,
           "description": "1ST_HALF",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -5438,23 +5132,125 @@
       "injuries": []
     },
     {
+      "id": "football-data:558597",
+      "providerId": 558597,
+      "name": "AC Milan vs US Lecce",
+      "startTime": "2026-09-20T18:45:00.000Z",
+      "resultInfo": "3-0",
+      "seasonId": 2494,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-09-21T00:20:30Z",
+      "status": {
+        "id": null,
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
+        "isLive": false,
+        "isFinished": true
+      },
+      "league": {
+        "id": 2019,
+        "name": "Serie A",
+        "shortCode": "SA",
+        "imageUrl": "https://crests.football-data.org/c111.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 98,
+          "name": "AC Milan",
+          "shortCode": "MIL",
+          "imageUrl": "https://crests.football-data.org/98.png",
+          "role": "home",
+          "position": null,
+          "winner": true
+        },
+        {
+          "id": 5890,
+          "name": "US Lecce",
+          "shortCode": "USL",
+          "imageUrl": "https://crests.football-data.org/5890.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 3,
+        "away": 0,
+        "halfTimeHome": 1,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 98,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 3
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 5890,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 98,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 1
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 5890,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:559675",
       "providerId": 559675,
       "name": "Olympique de Marseille vs Paris Saint-Germain FC",
       "startTime": "2026-09-20T18:45:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "1-2",
       "seasonId": 2497,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:01Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2015,
@@ -5492,12 +5288,12 @@
           "imageUrl": "https://crests.football-data.org/524.png",
           "role": "away",
           "position": null,
-          "winner": false
+          "winner": true
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 1,
+        "away": 2,
         "halfTimeHome": 0,
         "halfTimeAway": 0
       },
@@ -5508,7 +5304,7 @@
           "participantId": 516,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 1
         },
         {
           "id": null,
@@ -5516,7 +5312,7 @@
           "participantId": 524,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -5530,108 +5326,6 @@
           "id": null,
           "typeId": null,
           "participantId": 524,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:558597",
-      "providerId": 558597,
-      "name": "AC Milan vs US Lecce",
-      "startTime": "2026-09-20T18:45:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2494,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T00:20:30Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2019,
-        "name": "Serie A",
-        "shortCode": "SA",
-        "imageUrl": "https://crests.football-data.org/c111.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 98,
-          "name": "AC Milan",
-          "shortCode": "MIL",
-          "imageUrl": "https://crests.football-data.org/98.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 5890,
-          "name": "US Lecce",
-          "shortCode": "USL",
-          "imageUrl": "https://crests.football-data.org/5890.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 98,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 5890,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 98,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 5890,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
@@ -5646,19 +5340,19 @@
       "providerId": 564689,
       "name": "Valencia CF vs Real Sociedad de Fútbol",
       "startTime": "2026-09-20T19:00:00.000Z",
-      "resultInfo": null,
+      "resultInfo": "2-3",
       "seasonId": 2518,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-20T01:32:01Z",
+      "lastProcessedAt": "2026-09-21T00:20:29Z",
       "status": {
         "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
+        "name": "Match Finished",
+        "shortName": "FINISHED",
+        "developerName": "FINISHED",
         "isLive": false,
-        "isFinished": false
+        "isFinished": true
       },
       "league": {
         "id": 2014,
@@ -5696,14 +5390,14 @@
           "imageUrl": "https://crests.football-data.org/92.png",
           "role": "away",
           "position": null,
-          "winner": false
+          "winner": true
         }
       ],
       "score": {
-        "home": 0,
-        "away": 0,
+        "home": 2,
+        "away": 3,
         "halfTimeHome": 0,
-        "halfTimeAway": 0
+        "halfTimeAway": 1
       },
       "scores": [
         {
@@ -5712,7 +5406,7 @@
           "participantId": 95,
           "description": "CURRENT",
           "participant": "home",
-          "goals": 0
+          "goals": 2
         },
         {
           "id": null,
@@ -5720,7 +5414,7 @@
           "participantId": 92,
           "description": "CURRENT",
           "participant": "away",
-          "goals": 0
+          "goals": 3
         },
         {
           "id": null,
@@ -5736,7 +5430,7 @@
           "participantId": 92,
           "description": "1ST_HALF",
           "participant": "away",
-          "goals": 0
+          "goals": 1
         }
       ],
       "events": [],
@@ -5753,7 +5447,7 @@
           "id": null,
           "participantId": 65,
           "position": 1,
-          "points": 12,
+          "points": 15,
           "result": null,
           "leagueId": 2021,
           "seasonId": 2502,
@@ -5772,12 +5466,12 @@
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Won"
             },
             {
@@ -5792,17 +5486,17 @@
             },
             {
               "typeId": null,
-              "value": 8,
+              "value": 13,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 5,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 8,
               "description": "Goal difference"
             }
           ],
@@ -5987,8 +5681,126 @@
         },
         {
           "id": null,
-          "participantId": 62,
+          "participantId": 341,
           "position": 5,
+          "points": 9,
+          "result": null,
+          "leagueId": 2021,
+          "seasonId": 2502,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 341,
+            "name": "Leeds United FC",
+            "shortCode": "LEE",
+            "imageUrl": "https://crests.football-data.org/341.png",
+            "role": null,
+            "position": 5,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 0,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 64,
+          "position": 6,
+          "points": 9,
+          "result": null,
+          "leagueId": 2021,
+          "seasonId": 2502,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 64,
+            "name": "Liverpool FC",
+            "shortCode": "LIV",
+            "imageUrl": "https://crests.football-data.org/64.png",
+            "role": null,
+            "position": 6,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 0,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 62,
+          "position": 7,
           "points": 9,
           "result": null,
           "leagueId": 2021,
@@ -6002,7 +5814,7 @@
             "shortCode": "EVE",
             "imageUrl": "https://crests.football-data.org/62.png",
             "role": null,
-            "position": 5,
+            "position": 7,
             "winner": null
           },
           "details": [
@@ -6046,67 +5858,8 @@
         },
         {
           "id": null,
-          "participantId": 341,
-          "position": 6,
-          "points": 8,
-          "result": null,
-          "leagueId": 2021,
-          "seasonId": 2502,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 341,
-            "name": "Leeds United FC",
-            "shortCode": "LEE",
-            "imageUrl": "https://crests.football-data.org/341.png",
-            "role": null,
-            "position": 6,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
           "participantId": 322,
-          "position": 7,
+          "position": 8,
           "points": 8,
           "result": null,
           "leagueId": 2021,
@@ -6120,7 +5873,7 @@
             "shortCode": "HUL",
             "imageUrl": "https://crests.football-data.org/322.png",
             "role": null,
-            "position": 7,
+            "position": 8,
             "winner": null
           },
           "details": [
@@ -6165,7 +5918,7 @@
         {
           "id": null,
           "participantId": 67,
-          "position": 8,
+          "position": 9,
           "points": 8,
           "result": null,
           "leagueId": 2021,
@@ -6179,7 +5932,7 @@
             "shortCode": "NEW",
             "imageUrl": "https://crests.football-data.org/67.png",
             "role": null,
-            "position": 8,
+            "position": 9,
             "winner": null
           },
           "details": [
@@ -6224,7 +5977,7 @@
         {
           "id": null,
           "participantId": 61,
-          "position": 9,
+          "position": 10,
           "points": 7,
           "result": null,
           "leagueId": 2021,
@@ -6238,7 +5991,7 @@
             "shortCode": "CHE",
             "imageUrl": "https://crests.football-data.org/61.png",
             "role": null,
-            "position": 9,
+            "position": 10,
             "winner": null
           },
           "details": [
@@ -6275,65 +6028,6 @@
             {
               "typeId": null,
               "value": -2,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 64,
-          "position": 10,
-          "points": 6,
-          "result": null,
-          "leagueId": 2021,
-          "seasonId": 2502,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 64,
-            "name": "Liverpool FC",
-            "shortCode": "LIV",
-            "imageUrl": "https://crests.football-data.org/64.png",
-            "role": null,
-            "position": 10,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 2,
               "description": "Goal difference"
             }
           ],
@@ -6400,8 +6094,67 @@
         },
         {
           "id": null,
-          "participantId": 351,
+          "participantId": 66,
           "position": 12,
+          "points": 5,
+          "result": null,
+          "leagueId": 2021,
+          "seasonId": 2502,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 66,
+            "name": "Manchester United FC",
+            "shortCode": "MUN",
+            "imageUrl": "https://crests.football-data.org/66.png",
+            "role": null,
+            "position": 12,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 8,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 8,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 0,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 351,
+          "position": 13,
           "points": 5,
           "result": null,
           "leagueId": 2021,
@@ -6415,7 +6168,7 @@
             "shortCode": "NOT",
             "imageUrl": "https://crests.football-data.org/351.png",
             "role": null,
-            "position": 12,
+            "position": 13,
             "winner": null
           },
           "details": [
@@ -6459,65 +6212,6 @@
         },
         {
           "id": null,
-          "participantId": 66,
-          "position": 13,
-          "points": 4,
-          "result": null,
-          "leagueId": 2021,
-          "seasonId": 2502,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 66,
-            "name": "Manchester United FC",
-            "shortCode": "MUN",
-            "imageUrl": "https://crests.football-data.org/66.png",
-            "role": null,
-            "position": 13,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
           "participantId": 71,
           "position": 14,
           "points": 4,
@@ -6539,7 +6233,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -6554,22 +6248,81 @@
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 3,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 3,
+              "value": 6,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 5,
+              "value": 10,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -2,
+              "value": -4,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 354,
+          "position": 15,
+          "points": 4,
+          "result": null,
+          "leagueId": 2021,
+          "seasonId": 2502,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 354,
+            "name": "Crystal Palace FC",
+            "shortCode": "CRY",
+            "imageUrl": "https://crests.football-data.org/354.png",
+            "role": null,
+            "position": 15,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 6,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 11,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": -5,
               "description": "Goal difference"
             }
           ],
@@ -6578,7 +6331,7 @@
         {
           "id": null,
           "participantId": 58,
-          "position": 15,
+          "position": 16,
           "points": 4,
           "result": null,
           "leagueId": 2021,
@@ -6592,7 +6345,7 @@
             "shortCode": "AVL",
             "imageUrl": "https://crests.football-data.org/58.png",
             "role": null,
-            "position": 15,
+            "position": 16,
             "winner": null
           },
           "details": [
@@ -6637,7 +6390,7 @@
         {
           "id": null,
           "participantId": 1044,
-          "position": 16,
+          "position": 17,
           "points": 3,
           "result": null,
           "leagueId": 2021,
@@ -6651,87 +6404,28 @@
             "shortCode": "BOU",
             "imageUrl": "https://crests.football-data.org/bournemouth.png",
             "role": null,
-            "position": 16,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -1,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 354,
-          "position": 17,
-          "points": 3,
-          "result": null,
-          "leagueId": 2021,
-          "seasonId": 2502,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 354,
-            "name": "Crystal Palace FC",
-            "shortCode": "CRY",
-            "imageUrl": "https://crests.football-data.org/354.png",
-            "role": null,
             "position": 17,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
               "typeId": null,
-              "value": 1,
+              "value": 0,
               "description": "Won"
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": 3,
               "description": "Drawn"
             },
             {
               "typeId": null,
-              "value": 3,
+              "value": 2,
               "description": "Lost"
             },
             {
@@ -6741,12 +6435,12 @@
             },
             {
               "typeId": null,
-              "value": 11,
+              "value": 8,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -5,
+              "value": -2,
               "description": "Goal difference"
             }
           ],
@@ -6813,8 +6507,67 @@
         },
         {
           "id": null,
-          "participantId": 73,
+          "participantId": 63,
           "position": 19,
+          "points": 2,
+          "result": null,
+          "leagueId": 2021,
+          "seasonId": 2502,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 63,
+            "name": "Fulham FC",
+            "shortCode": "FUL",
+            "imageUrl": "https://crests.football-data.org/63.png",
+            "role": null,
+            "position": 19,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 0,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 8,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": -3,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 73,
+          "position": 20,
           "points": 2,
           "result": null,
           "leagueId": 2021,
@@ -6828,7 +6581,7 @@
             "shortCode": "TOT",
             "imageUrl": "https://crests.football-data.org/73.png",
             "role": null,
-            "position": 19,
+            "position": 20,
             "winner": null
           },
           "details": [
@@ -6865,65 +6618,6 @@
             {
               "typeId": null,
               "value": -6,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 63,
-          "position": 20,
-          "points": 1,
-          "result": null,
-          "leagueId": 2021,
-          "seasonId": 2502,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 63,
-            "name": "Fulham FC",
-            "shortCode": "FUL",
-            "imageUrl": "https://crests.football-data.org/63.png",
-            "role": null,
-            "position": 20,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -3,
               "description": "Goal difference"
             }
           ],
@@ -6996,9 +6690,9 @@
         },
         {
           "id": null,
-          "participantId": 86,
+          "participantId": 78,
           "position": 2,
-          "points": 15,
+          "points": 16,
           "result": null,
           "leagueId": 2014,
           "seasonId": 2518,
@@ -7006,10 +6700,10 @@
           "groupId": null,
           "roundId": null,
           "participant": {
-            "id": 86,
-            "name": "Real Madrid CF",
-            "shortCode": "RMA",
-            "imageUrl": "https://crests.football-data.org/86.png",
+            "id": 78,
+            "name": "Club Atlético de Madrid",
+            "shortCode": "ATL",
+            "imageUrl": "https://crests.football-data.org/78.png",
             "role": null,
             "position": 2,
             "winner": null
@@ -7017,7 +6711,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Played"
             },
             {
@@ -7027,7 +6721,7 @@
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": 1,
               "description": "Drawn"
             },
             {
@@ -7037,17 +6731,17 @@
             },
             {
               "typeId": null,
-              "value": 17,
+              "value": 16,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 11,
+              "value": 9,
               "description": "Goal difference"
             }
           ],
@@ -7057,7 +6751,7 @@
           "id": null,
           "participantId": 90,
           "position": 3,
-          "points": 15,
+          "points": 16,
           "result": null,
           "leagueId": 2014,
           "seasonId": 2518,
@@ -7076,7 +6770,66 @@
           "details": [
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 9,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 86,
+          "position": 4,
+          "points": 15,
+          "result": null,
+          "leagueId": 2014,
+          "seasonId": 2518,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 86,
+            "name": "Real Madrid CF",
+            "shortCode": "RMA",
+            "imageUrl": "https://crests.football-data.org/86.png",
+            "role": null,
+            "position": 4,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 7,
               "description": "Played"
             },
             {
@@ -7091,81 +6844,22 @@
             },
             {
               "typeId": null,
-              "value": 1,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 8,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
               "value": 2,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 78,
-          "position": 4,
-          "points": 13,
-          "result": null,
-          "leagueId": 2014,
-          "seasonId": 2518,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 78,
-            "name": "Club Atlético de Madrid",
-            "shortCode": "ATL",
-            "imageUrl": "https://crests.football-data.org/78.png",
-            "role": null,
-            "position": 4,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 1,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 14,
+              "value": 18,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 8,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 8,
+              "value": 10,
               "description": "Goal difference"
             }
           ],
@@ -7293,7 +6987,7 @@
           "id": null,
           "participantId": 560,
           "position": 7,
-          "points": 9,
+          "points": 10,
           "result": null,
           "leagueId": 2014,
           "seasonId": 2518,
@@ -7312,7 +7006,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Played"
             },
             {
@@ -7322,7 +7016,7 @@
             },
             {
               "typeId": null,
-              "value": 3,
+              "value": 4,
               "description": "Drawn"
             },
             {
@@ -7332,12 +7026,12 @@
             },
             {
               "typeId": null,
-              "value": 9,
+              "value": 10,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 7,
+              "value": 8,
               "description": "Goals against"
             },
             {
@@ -7350,8 +7044,126 @@
         },
         {
           "id": null,
-          "participantId": 77,
+          "participantId": 92,
           "position": 8,
+          "points": 10,
+          "result": null,
+          "leagueId": 2014,
+          "seasonId": 2518,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 92,
+            "name": "Real Sociedad de Fútbol",
+            "shortCode": "RSO",
+            "imageUrl": "https://crests.football-data.org/92.png",
+            "role": null,
+            "position": 8,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 9,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 13,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": -4,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 94,
+          "position": 9,
+          "points": 8,
+          "result": null,
+          "leagueId": 2014,
+          "seasonId": 2518,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 94,
+            "name": "Villarreal CF",
+            "shortCode": "VIL",
+            "imageUrl": "https://crests.football-data.org/94.png",
+            "role": null,
+            "position": 9,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 13,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 12,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 77,
+          "position": 10,
           "points": 8,
           "result": null,
           "leagueId": 2014,
@@ -7365,7 +7177,7 @@
             "shortCode": "ATH",
             "imageUrl": "https://crests.football-data.org/77.png",
             "role": null,
-            "position": 8,
+            "position": 10,
             "winner": null
           },
           "details": [
@@ -7409,8 +7221,67 @@
         },
         {
           "id": null,
+          "participantId": 82,
+          "position": 11,
+          "points": 8,
+          "result": null,
+          "leagueId": 2014,
+          "seasonId": 2518,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 82,
+            "name": "Getafe CF",
+            "shortCode": "GET",
+            "imageUrl": "https://crests.football-data.org/82.png",
+            "role": null,
+            "position": 11,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": -3,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
           "participantId": 87,
-          "position": 9,
+          "position": 12,
           "points": 8,
           "result": null,
           "leagueId": 2014,
@@ -7424,7 +7295,7 @@
             "shortCode": "RAY",
             "imageUrl": "https://crests.football-data.org/87.png",
             "role": null,
-            "position": 9,
+            "position": 12,
             "winner": null
           },
           "details": [
@@ -7469,7 +7340,7 @@
         {
           "id": null,
           "participantId": 79,
-          "position": 10,
+          "position": 13,
           "points": 8,
           "result": null,
           "leagueId": 2014,
@@ -7483,7 +7354,7 @@
             "shortCode": "OSA",
             "imageUrl": "https://crests.football-data.org/79.png",
             "role": null,
-            "position": 10,
+            "position": 13,
             "winner": null
           },
           "details": [
@@ -7528,7 +7399,7 @@
         {
           "id": null,
           "participantId": 558,
-          "position": 11,
+          "position": 14,
           "points": 7,
           "result": null,
           "leagueId": 2014,
@@ -7542,7 +7413,7 @@
             "shortCode": "CEL",
             "imageUrl": "https://crests.football-data.org/558.png",
             "role": null,
-            "position": 11,
+            "position": 14,
             "winner": null
           },
           "details": [
@@ -7587,7 +7458,7 @@
         {
           "id": null,
           "participantId": 80,
-          "position": 12,
+          "position": 15,
           "points": 7,
           "result": null,
           "leagueId": 2014,
@@ -7601,7 +7472,7 @@
             "shortCode": "ESP",
             "imageUrl": "https://crests.football-data.org/80.png",
             "role": null,
-            "position": 12,
+            "position": 15,
             "winner": null
           },
           "details": [
@@ -7645,67 +7516,8 @@
         },
         {
           "id": null,
-          "participantId": 92,
-          "position": 13,
-          "points": 7,
-          "result": null,
-          "leagueId": 2014,
-          "seasonId": 2518,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 92,
-            "name": "Real Sociedad de Fútbol",
-            "shortCode": "RSO",
-            "imageUrl": "https://crests.football-data.org/92.png",
-            "role": null,
-            "position": 13,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 11,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -5,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
           "participantId": 5335,
-          "position": 14,
+          "position": 16,
           "points": 7,
           "result": null,
           "leagueId": 2014,
@@ -7719,7 +7531,7 @@
             "shortCode": "SAN",
             "imageUrl": "https://crests.football-data.org/5335.png",
             "role": null,
-            "position": 14,
+            "position": 16,
             "winner": null
           },
           "details": [
@@ -7763,67 +7575,8 @@
         },
         {
           "id": null,
-          "participantId": 94,
-          "position": 15,
-          "points": 5,
-          "result": null,
-          "leagueId": 2014,
-          "seasonId": 2518,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 94,
-            "name": "Villarreal CF",
-            "shortCode": "VIL",
-            "imageUrl": "https://crests.football-data.org/94.png",
-            "role": null,
-            "position": 15,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 10,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 11,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -1,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
           "participantId": 88,
-          "position": 16,
+          "position": 17,
           "points": 5,
           "result": null,
           "leagueId": 2014,
@@ -7836,65 +7589,6 @@
             "name": "Levante UD",
             "shortCode": "LEV",
             "imageUrl": "https://crests.football-data.org/88.png",
-            "role": null,
-            "position": 16,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 5,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 9,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -2,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 82,
-          "position": 17,
-          "points": 5,
-          "result": null,
-          "leagueId": 2014,
-          "seasonId": 2518,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 82,
-            "name": "Getafe CF",
-            "shortCode": "GET",
-            "imageUrl": "https://crests.football-data.org/82.png",
             "role": null,
             "position": 17,
             "winner": null
@@ -7922,12 +7616,12 @@
             },
             {
               "typeId": null,
-              "value": 3,
+              "value": 8,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 7,
+              "value": 12,
               "description": "Goals against"
             },
             {
@@ -8020,7 +7714,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Played"
             },
             {
@@ -8035,22 +7729,22 @@
             },
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 4,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 10,
+              "value": 13,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -8,
+              "value": -9,
               "description": "Goal difference"
             }
           ],
@@ -8079,7 +7773,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Played"
             },
             {
@@ -8094,7 +7788,7 @@
             },
             {
               "typeId": null,
-              "value": 3,
+              "value": 4,
               "description": "Lost"
             },
             {
@@ -8104,12 +7798,12 @@
             },
             {
               "typeId": null,
-              "value": 11,
+              "value": 12,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -8,
+              "value": -9,
               "description": "Goal difference"
             }
           ],
@@ -8359,8 +8053,67 @@
         },
         {
           "id": null,
-          "participantId": 7397,
+          "participantId": 98,
           "position": 5,
+          "points": 11,
+          "result": null,
+          "leagueId": 2019,
+          "seasonId": 2494,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 98,
+            "name": "AC Milan",
+            "shortCode": "MIL",
+            "imageUrl": "https://crests.football-data.org/98.png",
+            "role": null,
+            "position": 5,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 0,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 10,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 6,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 470,
+          "position": 6,
           "points": 10,
           "result": null,
           "leagueId": 2019,
@@ -8369,18 +8122,18 @@
           "groupId": null,
           "roundId": null,
           "participant": {
-            "id": 7397,
-            "name": "Como 1907",
-            "shortCode": "COM",
-            "imageUrl": "https://crests.football-data.org/7397.png",
+            "id": 470,
+            "name": "Frosinone Calcio",
+            "shortCode": "FRO",
+            "imageUrl": "https://crests.football-data.org/470.png",
             "role": null,
-            "position": 5,
+            "position": 6,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -8395,7 +8148,7 @@
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": 1,
               "description": "Lost"
             },
             {
@@ -8418,127 +8171,9 @@
         },
         {
           "id": null,
-          "participantId": 98,
-          "position": 6,
-          "points": 8,
-          "result": null,
-          "leagueId": 2019,
-          "seasonId": 2494,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 98,
-            "name": "AC Milan",
-            "shortCode": "MIL",
-            "imageUrl": "https://crests.football-data.org/98.png",
-            "role": null,
-            "position": 6,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 470,
-          "position": 7,
-          "points": 7,
-          "result": null,
-          "leagueId": 2019,
-          "seasonId": 2494,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 470,
-            "name": "Frosinone Calcio",
-            "shortCode": "FRO",
-            "imageUrl": "https://crests.football-data.org/470.png",
-            "role": null,
-            "position": 7,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
           "participantId": 109,
-          "position": 8,
-          "points": 7,
+          "position": 7,
+          "points": 10,
           "result": null,
           "leagueId": 2019,
           "seasonId": 2494,
@@ -8551,18 +8186,18 @@
             "shortCode": "JUV",
             "imageUrl": "https://crests.football-data.org/109.png",
             "role": null,
-            "position": 8,
+            "position": 7,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 3,
               "description": "Won"
             },
             {
@@ -8577,7 +8212,7 @@
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 8,
               "description": "Goals for"
             },
             {
@@ -8587,7 +8222,7 @@
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 4,
               "description": "Goal difference"
             }
           ],
@@ -8595,7 +8230,66 @@
         },
         {
           "id": null,
-          "participantId": 471,
+          "participantId": 7397,
+          "position": 8,
+          "points": 10,
+          "result": null,
+          "leagueId": 2019,
+          "seasonId": 2494,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 7397,
+            "name": "Como 1907",
+            "shortCode": "COM",
+            "imageUrl": "https://crests.football-data.org/7397.png",
+            "role": null,
+            "position": 8,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 9,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 6,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 113,
           "position": 9,
           "points": 7,
           "result": null,
@@ -8605,10 +8299,10 @@
           "groupId": null,
           "roundId": null,
           "participant": {
-            "id": 471,
-            "name": "US Sassuolo Calcio",
-            "shortCode": "SAS",
-            "imageUrl": "https://crests.football-data.org/471.png",
+            "id": 113,
+            "name": "SSC Napoli",
+            "shortCode": "NAP",
+            "imageUrl": "https://crests.football-data.org/113.png",
             "role": null,
             "position": 9,
             "winner": null
@@ -8636,17 +8330,17 @@
             },
             {
               "typeId": null,
-              "value": 9,
+              "value": 7,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 9,
+              "value": 6,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": 1,
               "description": "Goal difference"
             }
           ],
@@ -8654,9 +8348,9 @@
         },
         {
           "id": null,
-          "participantId": 113,
+          "participantId": 471,
           "position": 10,
-          "points": 6,
+          "points": 7,
           "result": null,
           "leagueId": 2019,
           "seasonId": 2494,
@@ -8664,10 +8358,10 @@
           "groupId": null,
           "roundId": null,
           "participant": {
-            "id": 113,
-            "name": "SSC Napoli",
-            "shortCode": "NAP",
-            "imageUrl": "https://crests.football-data.org/113.png",
+            "id": 471,
+            "name": "US Sassuolo Calcio",
+            "shortCode": "SAS",
+            "imageUrl": "https://crests.football-data.org/471.png",
             "role": null,
             "position": 10,
             "winner": null
@@ -8675,7 +8369,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -8685,7 +8379,7 @@
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": 1,
               "description": "Drawn"
             },
             {
@@ -8695,17 +8389,17 @@
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 9,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 5,
+              "value": 9,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 1,
+              "value": 0,
               "description": "Goal difference"
             }
           ],
@@ -8734,7 +8428,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -8749,7 +8443,7 @@
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 3,
               "description": "Lost"
             },
             {
@@ -8759,12 +8453,12 @@
             },
             {
               "typeId": null,
-              "value": 5,
+              "value": 7,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": -2,
               "description": "Goal difference"
             }
           ],
@@ -8793,7 +8487,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -8808,7 +8502,7 @@
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 3,
               "description": "Lost"
             },
             {
@@ -8818,12 +8512,12 @@
             },
             {
               "typeId": null,
-              "value": 7,
+              "value": 10,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -2,
+              "value": -5,
               "description": "Goal difference"
             }
           ],
@@ -8949,8 +8643,67 @@
         },
         {
           "id": null,
-          "participantId": 5911,
+          "participantId": 112,
           "position": 15,
+          "points": 4,
+          "result": null,
+          "leagueId": 2019,
+          "seasonId": 2494,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 112,
+            "name": "Parma Calcio 1913",
+            "shortCode": "PAR",
+            "imageUrl": "https://crests.football-data.org/112.png",
+            "role": null,
+            "position": 15,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": -3,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 5911,
+          "position": 16,
           "points": 4,
           "result": null,
           "leagueId": 2019,
@@ -8964,7 +8717,7 @@
             "shortCode": "MON",
             "imageUrl": "https://crests.football-data.org/5911.png",
             "role": null,
-            "position": 15,
+            "position": 16,
             "winner": null
           },
           "details": [
@@ -9009,8 +8762,8 @@
         {
           "id": null,
           "participantId": 99,
-          "position": 16,
-          "points": 3,
+          "position": 17,
+          "points": 4,
           "result": null,
           "leagueId": 2019,
           "seasonId": 2494,
@@ -9023,13 +8776,13 @@
             "shortCode": "FIO",
             "imageUrl": "https://crests.football-data.org/99.png",
             "role": null,
-            "position": 16,
+            "position": 17,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -9039,7 +8792,7 @@
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": 1,
               "description": "Drawn"
             },
             {
@@ -9049,12 +8802,12 @@
             },
             {
               "typeId": null,
-              "value": 5,
+              "value": 6,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 11,
+              "value": 12,
               "description": "Goals against"
             },
             {
@@ -9068,7 +8821,7 @@
         {
           "id": null,
           "participantId": 103,
-          "position": 17,
+          "position": 18,
           "points": 2,
           "result": null,
           "leagueId": 2019,
@@ -9082,7 +8835,7 @@
             "shortCode": "BOL",
             "imageUrl": "https://crests.football-data.org/103.png",
             "role": null,
-            "position": 17,
+            "position": 18,
             "winner": null
           },
           "details": [
@@ -9126,65 +8879,6 @@
         },
         {
           "id": null,
-          "participantId": 112,
-          "position": 18,
-          "points": 1,
-          "result": null,
-          "leagueId": 2019,
-          "seasonId": 2494,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 112,
-            "name": "Parma Calcio 1913",
-            "shortCode": "PAR",
-            "imageUrl": "https://crests.football-data.org/112.png",
-            "role": null,
-            "position": 18,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -4,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
           "participantId": 107,
           "position": 19,
           "points": 1,
@@ -9206,7 +8900,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -9221,22 +8915,22 @@
             },
             {
               "typeId": null,
-              "value": 3,
+              "value": 4,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 3,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 8,
+              "value": 10,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -6,
+              "value": -7,
               "description": "Goal difference"
             }
           ],
@@ -9545,8 +9239,67 @@
         },
         {
           "id": null,
-          "participantId": 15,
+          "participantId": 3,
           "position": 5,
+          "points": 7,
+          "result": null,
+          "leagueId": 2002,
+          "seasonId": 2522,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 3,
+            "name": "Bayer 04 Leverkusen",
+            "shortCode": "B04",
+            "imageUrl": "https://crests.football-data.org/3.png",
+            "role": null,
+            "position": 5,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 10,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 15,
+          "position": 6,
           "points": 7,
           "result": null,
           "leagueId": 2002,
@@ -9560,7 +9313,7 @@
             "shortCode": "M05",
             "imageUrl": "https://crests.football-data.org/15.png",
             "role": null,
-            "position": 5,
+            "position": 6,
             "winner": null
           },
           "details": [
@@ -9604,8 +9357,67 @@
         },
         {
           "id": null,
+          "participantId": 719,
+          "position": 7,
+          "points": 7,
+          "result": null,
+          "leagueId": 2002,
+          "seasonId": 2522,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 719,
+            "name": "SV 07 Elversberg",
+            "shortCode": "ELV",
+            "imageUrl": "https://crests.football-data.org/719.png",
+            "role": null,
+            "position": 7,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 8,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
           "participantId": 12,
-          "position": 6,
+          "position": 8,
           "points": 7,
           "result": null,
           "leagueId": 2002,
@@ -9619,7 +9431,7 @@
             "shortCode": "SVW",
             "imageUrl": "https://crests.football-data.org/12.png",
             "role": null,
-            "position": 6,
+            "position": 8,
             "winner": null
           },
           "details": [
@@ -9664,7 +9476,7 @@
         {
           "id": null,
           "participantId": 721,
-          "position": 7,
+          "position": 9,
           "points": 6,
           "result": null,
           "leagueId": 2002,
@@ -9678,13 +9490,13 @@
             "shortCode": "RBL",
             "imageUrl": "https://crests.football-data.org/721.png",
             "role": null,
-            "position": 7,
+            "position": 9,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 3,
+              "value": 4,
               "description": "Played"
             },
             {
@@ -9699,7 +9511,7 @@
             },
             {
               "typeId": null,
-              "value": 1,
+              "value": 2,
               "description": "Lost"
             },
             {
@@ -9709,71 +9521,12 @@
             },
             {
               "typeId": null,
-              "value": 3,
+              "value": 5,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 6,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 719,
-          "position": 8,
-          "points": 6,
-          "result": null,
-          "leagueId": 2002,
-          "seasonId": 2522,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 719,
-            "name": "SV 07 Elversberg",
-            "shortCode": "ELV",
-            "imageUrl": "https://crests.football-data.org/719.png",
-            "role": null,
-            "position": 8,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 8,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 7,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 1,
+              "value": 4,
               "description": "Goal difference"
             }
           ],
@@ -9782,7 +9535,7 @@
         {
           "id": null,
           "participantId": 19,
-          "position": 9,
+          "position": 10,
           "points": 5,
           "result": null,
           "leagueId": 2002,
@@ -9796,7 +9549,7 @@
             "shortCode": "SGE",
             "imageUrl": "https://crests.football-data.org/19.png",
             "role": null,
-            "position": 9,
+            "position": 10,
             "winner": null
           },
           "details": [
@@ -9840,68 +9593,9 @@
         },
         {
           "id": null,
-          "participantId": 3,
-          "position": 10,
-          "points": 4,
-          "result": null,
-          "leagueId": 2002,
-          "seasonId": 2522,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 3,
-            "name": "Bayer 04 Leverkusen",
-            "shortCode": "B04",
-            "imageUrl": "https://crests.football-data.org/3.png",
-            "role": null,
-            "position": 10,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 8,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 5,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
           "participantId": 6,
           "position": 11,
-          "points": 4,
+          "points": 5,
           "result": null,
           "leagueId": 2002,
           "seasonId": 2522,
@@ -9920,7 +9614,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 3,
+              "value": 4,
               "description": "Played"
             },
             {
@@ -9930,7 +9624,7 @@
             },
             {
               "typeId": null,
-              "value": 1,
+              "value": 2,
               "description": "Drawn"
             },
             {
@@ -9958,8 +9652,67 @@
         },
         {
           "id": null,
-          "participantId": 1,
+          "participantId": 29,
           "position": 12,
+          "points": 4,
+          "result": null,
+          "leagueId": 2002,
+          "seasonId": 2522,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 29,
+            "name": "SC Paderborn 07",
+            "shortCode": "SCP",
+            "imageUrl": "https://crests.football-data.org/29.png",
+            "role": null,
+            "position": 12,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": -2,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 1,
+          "position": 13,
           "points": 4,
           "result": null,
           "leagueId": 2002,
@@ -9973,7 +9726,7 @@
             "shortCode": "KOE",
             "imageUrl": "https://crests.football-data.org/1.png",
             "role": null,
-            "position": 12,
+            "position": 13,
             "winner": null
           },
           "details": [
@@ -10018,7 +9771,7 @@
         {
           "id": null,
           "participantId": 2,
-          "position": 13,
+          "position": 14,
           "points": 3,
           "result": null,
           "leagueId": 2002,
@@ -10032,13 +9785,13 @@
             "shortCode": "TSG",
             "imageUrl": "https://crests.football-data.org/2.png",
             "role": null,
-            "position": 13,
+            "position": 14,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 3,
+              "value": 4,
               "description": "Played"
             },
             {
@@ -10053,22 +9806,22 @@
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 3,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 7,
+              "value": 10,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -1,
+              "value": -3,
               "description": "Goal difference"
             }
           ],
@@ -10077,7 +9830,7 @@
         {
           "id": null,
           "participantId": 10,
-          "position": 14,
+          "position": 15,
           "points": 3,
           "result": null,
           "leagueId": 2002,
@@ -10091,7 +9844,7 @@
             "shortCode": "VFB",
             "imageUrl": "https://crests.football-data.org/10.png",
             "role": null,
-            "position": 14,
+            "position": 15,
             "winner": null
           },
           "details": [
@@ -10136,7 +9889,7 @@
         {
           "id": null,
           "participantId": 7,
-          "position": 15,
+          "position": 16,
           "points": 3,
           "result": null,
           "leagueId": 2002,
@@ -10150,7 +9903,7 @@
             "shortCode": "HSV",
             "imageUrl": "https://crests.football-data.org/7.png",
             "role": null,
-            "position": 15,
+            "position": 16,
             "winner": null
           },
           "details": [
@@ -10187,65 +9940,6 @@
             {
               "typeId": null,
               "value": -11,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 29,
-          "position": 16,
-          "points": 1,
-          "result": null,
-          "leagueId": 2002,
-          "seasonId": 2522,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 29,
-            "name": "SC Paderborn 07",
-            "shortCode": "SCP",
-            "imageUrl": "https://crests.football-data.org/29.png",
-            "role": null,
-            "position": 16,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -4,
               "description": "Goal difference"
             }
           ],
@@ -10575,7 +10269,7 @@
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -10590,22 +10284,22 @@
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": 1,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 7,
+              "value": 8,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 4,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 5,
+              "value": 4,
               "description": "Goal difference"
             }
           ],
@@ -10672,8 +10366,67 @@
         },
         {
           "id": null,
-          "participantId": 532,
+          "participantId": 524,
           "position": 6,
+          "points": 8,
+          "result": null,
+          "leagueId": 2015,
+          "seasonId": 2497,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 524,
+            "name": "Paris Saint-Germain FC",
+            "shortCode": "PSG",
+            "imageUrl": "https://crests.football-data.org/524.png",
+            "role": null,
+            "position": 6,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 8,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 7,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
+          "participantId": 532,
+          "position": 7,
           "points": 7,
           "result": null,
           "leagueId": 2015,
@@ -10687,7 +10440,7 @@
             "shortCode": "ANG",
             "imageUrl": "https://crests.football-data.org/532.png",
             "role": null,
-            "position": 6,
+            "position": 7,
             "winner": null
           },
           "details": [
@@ -10732,7 +10485,7 @@
         {
           "id": null,
           "participantId": 576,
-          "position": 7,
+          "position": 8,
           "points": 7,
           "result": null,
           "leagueId": 2015,
@@ -10746,7 +10499,7 @@
             "shortCode": "RC",
             "imageUrl": "https://crests.football-data.org/576.png",
             "role": null,
-            "position": 7,
+            "position": 8,
             "winner": null
           },
           "details": [
@@ -10791,7 +10544,7 @@
         {
           "id": null,
           "participantId": 535,
-          "position": 8,
+          "position": 9,
           "points": 6,
           "result": null,
           "leagueId": 2015,
@@ -10803,9 +10556,9 @@
             "id": 535,
             "name": "Le Mans FC",
             "shortCode": "LMF",
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/en/5/57/Le_Mans_FC_logo.svg",
+            "imageUrl": "https://crests.football-data.org/535.png",
             "role": null,
-            "position": 8,
+            "position": 9,
             "winner": null
           },
           "details": [
@@ -10849,9 +10602,9 @@
         },
         {
           "id": null,
-          "participantId": 524,
-          "position": 9,
-          "points": 5,
+          "participantId": 519,
+          "position": 10,
+          "points": 6,
           "result": null,
           "leagueId": 2015,
           "seasonId": 2497,
@@ -10859,48 +10612,48 @@
           "groupId": null,
           "roundId": null,
           "participant": {
-            "id": 524,
-            "name": "Paris Saint-Germain FC",
-            "shortCode": "PSG",
-            "imageUrl": "https://crests.football-data.org/524.png",
+            "id": 519,
+            "name": "AJ Auxerre",
+            "shortCode": "AJA",
+            "imageUrl": "https://crests.football-data.org/519.png",
             "role": null,
-            "position": 9,
+            "position": 10,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
               "typeId": null,
-              "value": 1,
+              "value": 2,
               "description": "Won"
             },
             {
               "typeId": null,
-              "value": 2,
+              "value": 0,
               "description": "Drawn"
             },
             {
               "typeId": null,
-              "value": 1,
+              "value": 3,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 12,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": -5,
               "description": "Goal difference"
             }
           ],
@@ -10909,7 +10662,7 @@
         {
           "id": null,
           "participantId": 512,
-          "position": 9,
+          "position": 11,
           "points": 5,
           "result": null,
           "leagueId": 2015,
@@ -10923,13 +10676,13 @@
             "shortCode": "BRE",
             "imageUrl": "https://crests.football-data.org/512.png",
             "role": null,
-            "position": 9,
+            "position": 11,
             "winner": null
           },
           "details": [
             {
               "typeId": null,
-              "value": 4,
+              "value": 5,
               "description": "Played"
             },
             {
@@ -10944,22 +10697,22 @@
             },
             {
               "typeId": null,
-              "value": 1,
+              "value": 2,
               "description": "Lost"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 7,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 6,
+              "value": 8,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": 0,
+              "value": -1,
               "description": "Goal difference"
             }
           ],
@@ -10968,7 +10721,7 @@
         {
           "id": null,
           "participantId": 525,
-          "position": 11,
+          "position": 12,
           "points": 5,
           "result": null,
           "leagueId": 2015,
@@ -10982,7 +10735,7 @@
             "shortCode": "FCL",
             "imageUrl": "https://crests.football-data.org/525.png",
             "role": null,
-            "position": 11,
+            "position": 12,
             "winner": null
           },
           "details": [
@@ -11027,7 +10780,7 @@
         {
           "id": null,
           "participantId": 511,
-          "position": 12,
+          "position": 13,
           "points": 5,
           "result": null,
           "leagueId": 2015,
@@ -11041,7 +10794,7 @@
             "shortCode": "TOU",
             "imageUrl": "https://crests.football-data.org/511.png",
             "role": null,
-            "position": 12,
+            "position": 13,
             "winner": null
           },
           "details": [
@@ -11085,8 +10838,67 @@
         },
         {
           "id": null,
+          "participantId": 522,
+          "position": 14,
+          "points": 5,
+          "result": null,
+          "leagueId": 2015,
+          "seasonId": 2497,
+          "stageId": null,
+          "groupId": null,
+          "roundId": null,
+          "participant": {
+            "id": 522,
+            "name": "OGC Nice",
+            "shortCode": "NIC",
+            "imageUrl": "https://crests.football-data.org/522.png",
+            "role": null,
+            "position": 14,
+            "winner": null
+          },
+          "details": [
+            {
+              "typeId": null,
+              "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 2,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 3,
+              "description": "Goals for"
+            },
+            {
+              "typeId": null,
+              "value": 6,
+              "description": "Goals against"
+            },
+            {
+              "typeId": null,
+              "value": -3,
+              "description": "Goal difference"
+            }
+          ],
+          "form": []
+        },
+        {
+          "id": null,
           "participantId": 546,
-          "position": 13,
+          "position": 15,
           "points": 4,
           "result": null,
           "leagueId": 2015,
@@ -11100,7 +10912,7 @@
             "shortCode": "RCL",
             "imageUrl": "https://crests.football-data.org/546.png",
             "role": null,
-            "position": 13,
+            "position": 15,
             "winner": null
           },
           "details": [
@@ -11145,7 +10957,7 @@
         {
           "id": null,
           "participantId": 531,
-          "position": 14,
+          "position": 16,
           "points": 4,
           "result": null,
           "leagueId": 2015,
@@ -11159,7 +10971,7 @@
             "shortCode": "ETR",
             "imageUrl": "https://crests.football-data.org/531.png",
             "role": null,
-            "position": 14,
+            "position": 16,
             "winner": null
           },
           "details": [
@@ -11204,7 +11016,7 @@
         {
           "id": null,
           "participantId": 516,
-          "position": 15,
+          "position": 17,
           "points": 3,
           "result": null,
           "leagueId": 2015,
@@ -11218,102 +11030,43 @@
             "shortCode": "MAR",
             "imageUrl": "https://crests.football-data.org/516.png",
             "role": null,
-            "position": 15,
+            "position": 17,
             "winner": null
           },
           "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 6,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 519,
-          "position": 16,
-          "points": 3,
-          "result": null,
-          "leagueId": 2015,
-          "seasonId": 2497,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 519,
-            "name": "AJ Auxerre",
-            "shortCode": "AJA",
-            "imageUrl": "https://crests.football-data.org/519.png",
-            "role": null,
-            "position": 16,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 3,
-              "description": "Lost"
-            },
             {
               "typeId": null,
               "value": 5,
+              "description": "Played"
+            },
+            {
+              "typeId": null,
+              "value": 1,
+              "description": "Won"
+            },
+            {
+              "typeId": null,
+              "value": 0,
+              "description": "Drawn"
+            },
+            {
+              "typeId": null,
+              "value": 4,
+              "description": "Lost"
+            },
+            {
+              "typeId": null,
+              "value": 7,
               "description": "Goals for"
             },
             {
               "typeId": null,
-              "value": 11,
+              "value": 8,
               "description": "Goals against"
             },
             {
               "typeId": null,
-              "value": -6,
+              "value": -1,
               "description": "Goal difference"
             }
           ],
@@ -11322,7 +11075,7 @@
         {
           "id": null,
           "participantId": 533,
-          "position": 17,
+          "position": 18,
           "points": 2,
           "result": null,
           "leagueId": 2015,
@@ -11336,7 +11089,7 @@
             "shortCode": "HAC",
             "imageUrl": "https://crests.football-data.org/533.png",
             "role": null,
-            "position": 17,
+            "position": 18,
             "winner": null
           },
           "details": [
@@ -11373,65 +11126,6 @@
             {
               "typeId": null,
               "value": -3,
-              "description": "Goal difference"
-            }
-          ],
-          "form": []
-        },
-        {
-          "id": null,
-          "participantId": 522,
-          "position": 18,
-          "points": 2,
-          "result": null,
-          "leagueId": 2015,
-          "seasonId": 2497,
-          "stageId": null,
-          "groupId": null,
-          "roundId": null,
-          "participant": {
-            "id": 522,
-            "name": "OGC Nice",
-            "shortCode": "NIC",
-            "imageUrl": "https://crests.football-data.org/522.png",
-            "role": null,
-            "position": 18,
-            "winner": null
-          },
-          "details": [
-            {
-              "typeId": null,
-              "value": 4,
-              "description": "Played"
-            },
-            {
-              "typeId": null,
-              "value": 0,
-              "description": "Won"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Drawn"
-            },
-            {
-              "typeId": null,
-              "value": 2,
-              "description": "Lost"
-            },
-            {
-              "typeId": null,
-              "value": 1,
-              "description": "Goals for"
-            },
-            {
-              "typeId": null,
-              "value": 5,
-              "description": "Goals against"
-            },
-            {
-              "typeId": null,
-              "value": -4,
               "description": "Goal difference"
             }
           ],
