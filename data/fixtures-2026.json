@@ -991,6 +991,28 @@
    "away": "Everton"
   },
   {
+   "id": 560634,
+   "date": "2026-11-06T20:00:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 45,
+   "awayId": 1346,
+   "home": "Everton",
+   "away": "Coventry"
+  },
+  {
+   "id": 560632,
+   "date": "2026-11-07T12:30:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 63,
+   "awayId": 47,
+   "home": "Leeds",
+   "away": "Tottenham"
+  },
+  {
    "id": 560640,
    "date": "2026-11-07T15:00:00Z",
    "round": "Regular Season - 10",
@@ -1000,28 +1022,6 @@
    "awayId": 64,
    "home": "Arsenal",
    "away": "Hull"
-  },
-  {
-   "id": 560641,
-   "date": "2026-11-07T15:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 65,
-   "awayId": 50,
-   "home": "Forest",
-   "away": "Man City"
-  },
-  {
-   "id": 560632,
-   "date": "2026-11-07T15:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 63,
-   "awayId": 47,
-   "home": "Leeds",
-   "away": "Tottenham"
   },
   {
    "id": 560633,
@@ -1035,19 +1035,19 @@
    "away": "Newcastle"
   },
   {
-   "id": 560634,
-   "date": "2026-11-07T15:00:00Z",
+   "id": 560641,
+   "date": "2026-11-07T17:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 45,
-   "awayId": 1346,
-   "home": "Everton",
-   "away": "Coventry"
+   "homeId": 65,
+   "awayId": 50,
+   "home": "Forest",
+   "away": "Man City"
   },
   {
    "id": 560635,
-   "date": "2026-11-07T15:00:00Z",
+   "date": "2026-11-08T14:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -1058,7 +1058,7 @@
   },
   {
    "id": 560636,
-   "date": "2026-11-07T15:00:00Z",
+   "date": "2026-11-08T14:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -1069,7 +1069,7 @@
   },
   {
    "id": 560637,
-   "date": "2026-11-07T15:00:00Z",
+   "date": "2026-11-08T14:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -1080,7 +1080,7 @@
   },
   {
    "id": 560638,
-   "date": "2026-11-07T15:00:00Z",
+   "date": "2026-11-08T14:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -1091,7 +1091,7 @@
   },
   {
    "id": 560639,
-   "date": "2026-11-07T15:00:00Z",
+   "date": "2026-11-08T16:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -1099,6 +1099,17 @@
    "awayId": 66,
    "home": "Man United",
    "away": "Aston Villa"
+  },
+  {
+   "id": 560643,
+   "date": "2026-11-21T12:30:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 50,
+   "awayId": 36,
+   "home": "Man City",
+   "away": "Fulham"
   },
   {
    "id": 560642,
@@ -1112,17 +1123,6 @@
    "away": "Leeds"
   },
   {
-   "id": 560643,
-   "date": "2026-11-21T15:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 50,
-   "awayId": 36,
-   "home": "Man City",
-   "away": "Fulham"
-  },
-  {
    "id": 560644,
    "date": "2026-11-21T15:00:00Z",
    "round": "Regular Season - 11",
@@ -1132,28 +1132,6 @@
    "awayId": 746,
    "home": "Aston Villa",
    "away": "Sunderland"
-  },
-  {
-   "id": 560645,
-   "date": "2026-11-21T15:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 40,
-   "awayId": 33,
-   "home": "Liverpool",
-   "away": "Man United"
-  },
-  {
-   "id": 560646,
-   "date": "2026-11-21T15:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 64,
-   "awayId": 51,
-   "home": "Hull",
-   "away": "Brighton"
   },
   {
    "id": 560647,
@@ -1178,17 +1156,6 @@
    "away": "Ipswich"
   },
   {
-   "id": 560649,
-   "date": "2026-11-21T15:00:00Z",
-   "round": "Regular Season - 11",
-   "venue": null,
-   "city": null,
-   "homeId": 55,
-   "awayId": 45,
-   "home": "Brentford",
-   "away": "Everton"
-  },
-  {
    "id": 560650,
    "date": "2026-11-21T15:00:00Z",
    "round": "Regular Season - 11",
@@ -1201,7 +1168,7 @@
   },
   {
    "id": 560651,
-   "date": "2026-11-21T15:00:00Z",
+   "date": "2026-11-21T17:30:00Z",
    "round": "Regular Season - 11",
    "venue": null,
    "city": null,
@@ -1209,6 +1176,50 @@
    "awayId": 42,
    "home": "Newcastle",
    "away": "Arsenal"
+  },
+  {
+   "id": 560646,
+   "date": "2026-11-22T14:00:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 64,
+   "awayId": 51,
+   "home": "Hull",
+   "away": "Brighton"
+  },
+  {
+   "id": 560645,
+   "date": "2026-11-22T16:30:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 40,
+   "awayId": 33,
+   "home": "Liverpool",
+   "away": "Man United"
+  },
+  {
+   "id": 560649,
+   "date": "2026-11-23T20:00:00Z",
+   "round": "Regular Season - 11",
+   "venue": null,
+   "city": null,
+   "homeId": 55,
+   "awayId": 45,
+   "home": "Brentford",
+   "away": "Everton"
+  },
+  {
+   "id": 560658,
+   "date": "2026-11-27T20:00:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 65,
+   "awayId": 49,
+   "home": "Forest",
+   "away": "Chelsea"
   },
   {
    "id": 560652,
@@ -1222,28 +1233,6 @@
    "away": "Coventry"
   },
   {
-   "id": 560653,
-   "date": "2026-11-28T15:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 57,
-   "awayId": 66,
-   "home": "Ipswich",
-   "away": "Aston Villa"
-  },
-  {
-   "id": 560654,
-   "date": "2026-11-28T15:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 42,
-   "awayId": 50,
-   "home": "Arsenal",
-   "away": "Man City"
-  },
-  {
    "id": 560655,
    "date": "2026-11-28T15:00:00Z",
    "round": "Regular Season - 12",
@@ -1255,8 +1244,19 @@
    "away": "Brentford"
   },
   {
+   "id": 560653,
+   "date": "2026-11-28T17:30:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 57,
+   "awayId": 66,
+   "home": "Ipswich",
+   "away": "Aston Villa"
+  },
+  {
    "id": 560656,
-   "date": "2026-11-28T15:00:00Z",
+   "date": "2026-11-29T12:00:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -1267,7 +1267,7 @@
   },
   {
    "id": 560657,
-   "date": "2026-11-28T15:00:00Z",
+   "date": "2026-11-29T14:05:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -1277,19 +1277,8 @@
    "away": "Bournemouth"
   },
   {
-   "id": 560658,
-   "date": "2026-11-28T15:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 65,
-   "awayId": 49,
-   "home": "Forest",
-   "away": "Chelsea"
-  },
-  {
    "id": 560659,
-   "date": "2026-11-28T15:00:00Z",
+   "date": "2026-11-29T14:05:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -1300,7 +1289,7 @@
   },
   {
    "id": 560660,
-   "date": "2026-11-28T15:00:00Z",
+   "date": "2026-11-29T14:05:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -1311,7 +1300,7 @@
   },
   {
    "id": 560661,
-   "date": "2026-11-28T15:00:00Z",
+   "date": "2026-11-29T14:05:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -1319,6 +1308,17 @@
    "awayId": 64,
    "home": "Crystal Palace",
    "away": "Hull"
+  },
+  {
+   "id": 560654,
+   "date": "2026-11-29T16:30:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 42,
+   "awayId": 50,
+   "home": "Arsenal",
+   "away": "Man City"
   },
   {
    "id": 560662,
@@ -5173,19 +5173,8 @@
    "away": "Bilbao"
   },
   {
-   "id": 564718,
-   "date": "2026-10-25T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 728,
-   "awayId": 797,
-   "home": "Rayo Vallecano",
-   "away": "Elche"
-  },
-  {
    "id": 564719,
-   "date": "2026-10-25T00:00:00Z",
+   "date": "2026-10-23T19:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -5195,30 +5184,30 @@
    "away": "Malaga"
   },
   {
-   "id": 564720,
-   "date": "2026-10-25T00:00:00Z",
+   "id": 564718,
+   "date": "2026-10-24T12:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 531,
-   "awayId": 546,
-   "home": "Bilbao",
-   "away": "Getafe"
+   "homeId": 728,
+   "awayId": 797,
+   "home": "Rayo Vallecano",
+   "away": "Elche"
   },
   {
-   "id": 564721,
-   "date": "2026-10-25T00:00:00Z",
+   "id": 564727,
+   "date": "2026-10-24T14:15:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 536,
-   "awayId": 727,
-   "home": "Sevilla",
-   "away": "Osasuna"
+   "homeId": 4665,
+   "awayId": 540,
+   "home": "Santander",
+   "away": "Espanyol"
   },
   {
    "id": 564722,
-   "date": "2026-10-25T00:00:00Z",
+   "date": "2026-10-24T16:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -5228,19 +5217,8 @@
    "away": "Villarreal"
   },
   {
-   "id": 564723,
-   "date": "2026-10-25T00:00:00Z",
-   "round": "Regular Season - 10",
-   "venue": null,
-   "city": null,
-   "homeId": 529,
-   "awayId": 541,
-   "home": "Barcelona",
-   "away": "Real Madrid"
-  },
-  {
    "id": 564724,
-   "date": "2026-10-25T00:00:00Z",
+   "date": "2026-10-24T19:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -5250,8 +5228,19 @@
    "away": "Depor"
   },
   {
+   "id": 564720,
+   "date": "2026-10-25T13:00:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 531,
+   "awayId": 546,
+   "home": "Bilbao",
+   "away": "Getafe"
+  },
+  {
    "id": 564725,
-   "date": "2026-10-25T00:00:00Z",
+   "date": "2026-10-25T15:15:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -5262,7 +5251,7 @@
   },
   {
    "id": 564726,
-   "date": "2026-10-25T00:00:00Z",
+   "date": "2026-10-25T17:30:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
@@ -5272,15 +5261,26 @@
    "away": "Levante"
   },
   {
-   "id": 564727,
-   "date": "2026-10-25T00:00:00Z",
+   "id": 564723,
+   "date": "2026-10-25T20:00:00Z",
    "round": "Regular Season - 10",
    "venue": null,
    "city": null,
-   "homeId": 4665,
-   "awayId": 540,
-   "home": "Santander",
-   "away": "Espanyol"
+   "homeId": 529,
+   "awayId": 541,
+   "home": "Barcelona",
+   "away": "Real Madrid"
+  },
+  {
+   "id": 564721,
+   "date": "2026-10-26T20:00:00Z",
+   "round": "Regular Season - 10",
+   "venue": null,
+   "city": null,
+   "homeId": 536,
+   "awayId": 727,
+   "home": "Sevilla",
+   "away": "Osasuna"
   },
   {
    "id": 564736,
