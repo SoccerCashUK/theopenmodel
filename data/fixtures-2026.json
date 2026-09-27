@@ -9619,8 +9619,30 @@
    "away": "Torino"
   },
   {
-   "id": 558524,
+   "id": 558521,
    "date": "2026-11-22T11:30:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 496,
+   "awayId": 517,
+   "home": "Juventus",
+   "away": "Venezia"
+  },
+  {
+   "id": 558522,
+   "date": "2026-11-22T14:00:00Z",
+   "round": "Regular Season - 12",
+   "venue": null,
+   "city": null,
+   "homeId": 500,
+   "awayId": 494,
+   "home": "Bologna",
+   "away": "Udinese"
+  },
+  {
+   "id": 558524,
+   "date": "2026-11-22T14:00:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -9631,7 +9653,7 @@
   },
   {
    "id": 558523,
-   "date": "2026-11-22T14:00:00Z",
+   "date": "2026-11-22T17:00:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -9639,17 +9661,6 @@
    "awayId": 512,
    "home": "Milan",
    "away": "Frosinone"
-  },
-  {
-   "id": 558522,
-   "date": "2026-11-22T17:00:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 500,
-   "awayId": 494,
-   "home": "Bologna",
-   "away": "Udinese"
   },
   {
    "id": 558520,
@@ -9664,7 +9675,7 @@
   },
   {
    "id": 558519,
-   "date": "2026-11-23T17:30:00Z",
+   "date": "2026-11-23T19:45:00Z",
    "round": "Regular Season - 12",
    "venue": null,
    "city": null,
@@ -9674,63 +9685,19 @@
    "away": "Fiorentina"
   },
   {
-   "id": 558521,
-   "date": "2026-11-23T19:45:00Z",
-   "round": "Regular Season - 12",
-   "venue": null,
-   "city": null,
-   "homeId": 496,
-   "awayId": 517,
-   "home": "Juventus",
-   "away": "Venezia"
-  },
-  {
-   "id": 558509,
-   "date": "2026-11-29T00:00:00Z",
+   "id": 558515,
+   "date": "2026-11-27T19:45:00Z",
    "round": "Regular Season - 13",
    "venue": null,
    "city": null,
-   "homeId": 488,
-   "awayId": 492,
-   "home": "Sassuolo",
-   "away": "Napoli"
-  },
-  {
-   "id": 558510,
-   "date": "2026-11-29T00:00:00Z",
-   "round": "Regular Season - 13",
-   "venue": null,
-   "city": null,
-   "homeId": 490,
-   "awayId": 489,
-   "home": "Cagliari",
-   "away": "Milan"
-  },
-  {
-   "id": 558511,
-   "date": "2026-11-29T00:00:00Z",
-   "round": "Regular Season - 13",
-   "venue": null,
-   "city": null,
-   "homeId": 895,
-   "awayId": 496,
-   "home": "Como",
-   "away": "Juventus"
-  },
-  {
-   "id": 558512,
-   "date": "2026-11-29T00:00:00Z",
-   "round": "Regular Season - 13",
-   "venue": null,
-   "city": null,
-   "homeId": 497,
-   "awayId": 1579,
-   "home": "Roma",
-   "away": "Monza"
+   "homeId": 517,
+   "awayId": 500,
+   "home": "Venezia",
+   "away": "Bologna"
   },
   {
    "id": 558513,
-   "date": "2026-11-29T00:00:00Z",
+   "date": "2026-11-28T14:00:00Z",
    "round": "Regular Season - 13",
    "venue": null,
    "city": null,
@@ -9741,7 +9708,7 @@
   },
   {
    "id": 558514,
-   "date": "2026-11-29T00:00:00Z",
+   "date": "2026-11-28T17:00:00Z",
    "round": "Regular Season - 13",
    "venue": null,
    "city": null,
@@ -9751,41 +9718,8 @@
    "away": "Lazio"
   },
   {
-   "id": 558515,
-   "date": "2026-11-29T00:00:00Z",
-   "round": "Regular Season - 13",
-   "venue": null,
-   "city": null,
-   "homeId": 517,
-   "awayId": 500,
-   "home": "Venezia",
-   "away": "Bologna"
-  },
-  {
-   "id": 558516,
-   "date": "2026-11-29T00:00:00Z",
-   "round": "Regular Season - 13",
-   "venue": null,
-   "city": null,
-   "homeId": 867,
-   "awayId": 499,
-   "home": "Lecce",
-   "away": "Atalanta"
-  },
-  {
-   "id": 558517,
-   "date": "2026-11-29T00:00:00Z",
-   "round": "Regular Season - 13",
-   "venue": null,
-   "city": null,
-   "homeId": 494,
-   "awayId": 502,
-   "home": "Udinese",
-   "away": "Fiorentina"
-  },
-  {
    "id": 558518,
-   "date": "2026-11-29T00:00:00Z",
+   "date": "2026-11-28T19:45:00Z",
    "round": "Regular Season - 13",
    "venue": null,
    "city": null,
@@ -9795,41 +9729,74 @@
    "away": "Genoa"
   },
   {
-   "id": 558499,
-   "date": "2026-12-06T00:00:00Z",
-   "round": "Regular Season - 14",
+   "id": 558517,
+   "date": "2026-11-29T11:30:00Z",
+   "round": "Regular Season - 13",
    "venue": null,
    "city": null,
-   "homeId": 495,
-   "awayId": 503,
-   "home": "Genoa",
-   "away": "Torino"
+   "homeId": 494,
+   "awayId": 502,
+   "home": "Udinese",
+   "away": "Fiorentina"
   },
   {
-   "id": 558500,
-   "date": "2026-12-06T00:00:00Z",
-   "round": "Regular Season - 14",
+   "id": 558509,
+   "date": "2026-11-29T14:00:00Z",
+   "round": "Regular Season - 13",
    "venue": null,
    "city": null,
-   "homeId": 496,
-   "awayId": 494,
-   "home": "Juventus",
-   "away": "Udinese"
+   "homeId": 488,
+   "awayId": 492,
+   "home": "Sassuolo",
+   "away": "Napoli"
   },
   {
-   "id": 558501,
-   "date": "2026-12-06T00:00:00Z",
-   "round": "Regular Season - 14",
+   "id": 558512,
+   "date": "2026-11-29T17:00:00Z",
+   "round": "Regular Season - 13",
    "venue": null,
    "city": null,
-   "homeId": 512,
-   "awayId": 505,
-   "home": "Frosinone",
-   "away": "Inter"
+   "homeId": 497,
+   "awayId": 1579,
+   "home": "Roma",
+   "away": "Monza"
+  },
+  {
+   "id": 558511,
+   "date": "2026-11-29T19:45:00Z",
+   "round": "Regular Season - 13",
+   "venue": null,
+   "city": null,
+   "homeId": 895,
+   "awayId": 496,
+   "home": "Como",
+   "away": "Juventus"
+  },
+  {
+   "id": 558516,
+   "date": "2026-11-30T17:30:00Z",
+   "round": "Regular Season - 13",
+   "venue": null,
+   "city": null,
+   "homeId": 867,
+   "awayId": 499,
+   "home": "Lecce",
+   "away": "Atalanta"
+  },
+  {
+   "id": 558510,
+   "date": "2026-11-30T19:45:00Z",
+   "round": "Regular Season - 13",
+   "venue": null,
+   "city": null,
+   "homeId": 490,
+   "awayId": 489,
+   "home": "Cagliari",
+   "away": "Milan"
   },
   {
    "id": 558502,
-   "date": "2026-12-06T00:00:00Z",
+   "date": "2026-12-04T19:45:00Z",
    "round": "Regular Season - 14",
    "venue": null,
    "city": null,
@@ -9839,19 +9806,52 @@
    "away": "Roma"
   },
   {
-   "id": 558503,
-   "date": "2026-12-06T00:00:00Z",
+   "id": 558507,
+   "date": "2026-12-05T14:00:00Z",
    "round": "Regular Season - 14",
    "venue": null,
    "city": null,
-   "homeId": 502,
-   "awayId": 490,
-   "home": "Fiorentina",
-   "away": "Cagliari"
+   "homeId": 1579,
+   "awayId": 895,
+   "home": "Monza",
+   "away": "Como"
+  },
+  {
+   "id": 558501,
+   "date": "2026-12-05T17:00:00Z",
+   "round": "Regular Season - 14",
+   "venue": null,
+   "city": null,
+   "homeId": 512,
+   "awayId": 505,
+   "home": "Frosinone",
+   "away": "Inter"
+  },
+  {
+   "id": 558508,
+   "date": "2026-12-05T19:45:00Z",
+   "round": "Regular Season - 14",
+   "venue": null,
+   "city": null,
+   "homeId": 492,
+   "awayId": 867,
+   "home": "Napoli",
+   "away": "Lecce"
+  },
+  {
+   "id": 558499,
+   "date": "2026-12-06T11:30:00Z",
+   "round": "Regular Season - 14",
+   "venue": null,
+   "city": null,
+   "homeId": 495,
+   "awayId": 503,
+   "home": "Genoa",
+   "away": "Torino"
   },
   {
    "id": 558504,
-   "date": "2026-12-06T00:00:00Z",
+   "date": "2026-12-06T14:00:00Z",
    "round": "Regular Season - 14",
    "venue": null,
    "city": null,
@@ -9861,8 +9861,19 @@
    "away": "Atalanta"
   },
   {
+   "id": 558500,
+   "date": "2026-12-06T17:00:00Z",
+   "round": "Regular Season - 14",
+   "venue": null,
+   "city": null,
+   "homeId": 496,
+   "awayId": 494,
+   "home": "Juventus",
+   "away": "Udinese"
+  },
+  {
    "id": 558505,
-   "date": "2026-12-06T00:00:00Z",
+   "date": "2026-12-06T19:45:00Z",
    "round": "Regular Season - 14",
    "venue": null,
    "city": null,
@@ -9873,7 +9884,7 @@
   },
   {
    "id": 558506,
-   "date": "2026-12-06T00:00:00Z",
+   "date": "2026-12-07T17:30:00Z",
    "round": "Regular Season - 14",
    "venue": null,
    "city": null,
@@ -9883,52 +9894,19 @@
    "away": "Sassuolo"
   },
   {
-   "id": 558507,
-   "date": "2026-12-06T00:00:00Z",
+   "id": 558503,
+   "date": "2026-12-07T19:45:00Z",
    "round": "Regular Season - 14",
    "venue": null,
    "city": null,
-   "homeId": 1579,
-   "awayId": 895,
-   "home": "Monza",
-   "away": "Como"
-  },
-  {
-   "id": 558508,
-   "date": "2026-12-06T00:00:00Z",
-   "round": "Regular Season - 14",
-   "venue": null,
-   "city": null,
-   "homeId": 492,
-   "awayId": 867,
-   "home": "Napoli",
-   "away": "Lecce"
-  },
-  {
-   "id": 558489,
-   "date": "2026-12-13T00:00:00Z",
-   "round": "Regular Season - 15",
-   "venue": null,
-   "city": null,
-   "homeId": 492,
-   "awayId": 489,
-   "home": "Napoli",
-   "away": "Milan"
-  },
-  {
-   "id": 558490,
-   "date": "2026-12-13T00:00:00Z",
-   "round": "Regular Season - 15",
-   "venue": null,
-   "city": null,
-   "homeId": 895,
-   "awayId": 500,
-   "home": "Como",
-   "away": "Bologna"
+   "homeId": 502,
+   "awayId": 490,
+   "home": "Fiorentina",
+   "away": "Cagliari"
   },
   {
    "id": 558491,
-   "date": "2026-12-13T00:00:00Z",
+   "date": "2026-12-11T19:45:00Z",
    "round": "Regular Season - 15",
    "venue": null,
    "city": null,
@@ -9938,30 +9916,8 @@
    "away": "Frosinone"
   },
   {
-   "id": 558492,
-   "date": "2026-12-13T00:00:00Z",
-   "round": "Regular Season - 15",
-   "venue": null,
-   "city": null,
-   "homeId": 867,
-   "awayId": 488,
-   "home": "Lecce",
-   "away": "Sassuolo"
-  },
-  {
-   "id": 558493,
-   "date": "2026-12-13T00:00:00Z",
-   "round": "Regular Season - 15",
-   "venue": null,
-   "city": null,
-   "homeId": 523,
-   "awayId": 502,
-   "home": "Parma",
-   "away": "Fiorentina"
-  },
-  {
    "id": 558494,
-   "date": "2026-12-13T00:00:00Z",
+   "date": "2026-12-12T14:00:00Z",
    "round": "Regular Season - 15",
    "venue": null,
    "city": null,
@@ -9971,41 +9927,30 @@
    "away": "Venezia"
   },
   {
-   "id": 558495,
-   "date": "2026-12-13T00:00:00Z",
+   "id": 558492,
+   "date": "2026-12-12T17:00:00Z",
    "round": "Regular Season - 15",
    "venue": null,
    "city": null,
-   "homeId": 505,
-   "awayId": 503,
-   "home": "Inter",
-   "away": "Torino"
+   "homeId": 867,
+   "awayId": 488,
+   "home": "Lecce",
+   "away": "Sassuolo"
   },
   {
-   "id": 558496,
-   "date": "2026-12-13T00:00:00Z",
+   "id": 558490,
+   "date": "2026-12-12T19:45:00Z",
    "round": "Regular Season - 15",
    "venue": null,
    "city": null,
-   "homeId": 496,
-   "awayId": 1579,
-   "home": "Juventus",
-   "away": "Monza"
-  },
-  {
-   "id": 558497,
-   "date": "2026-12-13T00:00:00Z",
-   "round": "Regular Season - 15",
-   "venue": null,
-   "city": null,
-   "homeId": 499,
-   "awayId": 495,
-   "home": "Atalanta",
-   "away": "Genoa"
+   "homeId": 895,
+   "awayId": 500,
+   "home": "Como",
+   "away": "Bologna"
   },
   {
    "id": 558498,
-   "date": "2026-12-13T00:00:00Z",
+   "date": "2026-12-13T11:30:00Z",
    "round": "Regular Season - 15",
    "venue": null,
    "city": null,
@@ -10015,41 +9960,63 @@
    "away": "Roma"
   },
   {
-   "id": 558479,
-   "date": "2026-12-20T00:00:00Z",
-   "round": "Regular Season - 16",
+   "id": 558495,
+   "date": "2026-12-13T14:00:00Z",
+   "round": "Regular Season - 15",
    "venue": null,
    "city": null,
-   "homeId": 489,
-   "awayId": 895,
-   "home": "Milan",
-   "away": "Como"
+   "homeId": 505,
+   "awayId": 503,
+   "home": "Inter",
+   "away": "Torino"
   },
   {
-   "id": 558480,
-   "date": "2026-12-20T00:00:00Z",
-   "round": "Regular Season - 16",
+   "id": 558493,
+   "date": "2026-12-13T17:00:00Z",
+   "round": "Regular Season - 15",
    "venue": null,
    "city": null,
-   "homeId": 488,
-   "awayId": 523,
-   "home": "Sassuolo",
-   "away": "Parma"
+   "homeId": 523,
+   "awayId": 502,
+   "home": "Parma",
+   "away": "Fiorentina"
   },
   {
-   "id": 558481,
-   "date": "2026-12-20T00:00:00Z",
-   "round": "Regular Season - 16",
+   "id": 558489,
+   "date": "2026-12-13T19:45:00Z",
+   "round": "Regular Season - 15",
    "venue": null,
    "city": null,
-   "homeId": 497,
-   "awayId": 496,
-   "home": "Roma",
-   "away": "Juventus"
+   "homeId": 492,
+   "awayId": 489,
+   "home": "Napoli",
+   "away": "Milan"
+  },
+  {
+   "id": 558497,
+   "date": "2026-12-14T17:30:00Z",
+   "round": "Regular Season - 15",
+   "venue": null,
+   "city": null,
+   "homeId": 499,
+   "awayId": 495,
+   "home": "Atalanta",
+   "away": "Genoa"
+  },
+  {
+   "id": 558496,
+   "date": "2026-12-14T19:45:00Z",
+   "round": "Regular Season - 15",
+   "venue": null,
+   "city": null,
+   "homeId": 496,
+   "awayId": 1579,
+   "home": "Juventus",
+   "away": "Monza"
   },
   {
    "id": 558482,
-   "date": "2026-12-20T00:00:00Z",
+   "date": "2026-12-18T17:30:00Z",
    "round": "Regular Season - 16",
    "venue": null,
    "city": null,
@@ -10059,41 +10026,8 @@
    "away": "Lazio"
   },
   {
-   "id": 558483,
-   "date": "2026-12-20T00:00:00Z",
-   "round": "Regular Season - 16",
-   "venue": null,
-   "city": null,
-   "homeId": 499,
-   "awayId": 492,
-   "home": "Atalanta",
-   "away": "Napoli"
-  },
-  {
-   "id": 558484,
-   "date": "2026-12-20T00:00:00Z",
-   "round": "Regular Season - 16",
-   "venue": null,
-   "city": null,
-   "homeId": 502,
-   "awayId": 500,
-   "home": "Fiorentina",
-   "away": "Bologna"
-  },
-  {
-   "id": 558485,
-   "date": "2026-12-20T00:00:00Z",
-   "round": "Regular Season - 16",
-   "venue": null,
-   "city": null,
-   "homeId": 495,
-   "awayId": 494,
-   "home": "Genoa",
-   "away": "Udinese"
-  },
-  {
    "id": 558486,
-   "date": "2026-12-20T00:00:00Z",
+   "date": "2026-12-18T19:45:00Z",
    "round": "Regular Season - 16",
    "venue": null,
    "city": null,
@@ -10103,8 +10037,52 @@
    "away": "Inter"
   },
   {
+   "id": 558480,
+   "date": "2026-12-19T14:00:00Z",
+   "round": "Regular Season - 16",
+   "venue": null,
+   "city": null,
+   "homeId": 488,
+   "awayId": 523,
+   "home": "Sassuolo",
+   "away": "Parma"
+  },
+  {
+   "id": 558479,
+   "date": "2026-12-19T17:00:00Z",
+   "round": "Regular Season - 16",
+   "venue": null,
+   "city": null,
+   "homeId": 489,
+   "awayId": 895,
+   "home": "Milan",
+   "away": "Como"
+  },
+  {
+   "id": 558481,
+   "date": "2026-12-19T19:45:00Z",
+   "round": "Regular Season - 16",
+   "venue": null,
+   "city": null,
+   "homeId": 497,
+   "awayId": 496,
+   "home": "Roma",
+   "away": "Juventus"
+  },
+  {
+   "id": 558484,
+   "date": "2026-12-20T11:30:00Z",
+   "round": "Regular Season - 16",
+   "venue": null,
+   "city": null,
+   "homeId": 502,
+   "awayId": 500,
+   "home": "Fiorentina",
+   "away": "Bologna"
+  },
+  {
    "id": 558487,
-   "date": "2026-12-20T00:00:00Z",
+   "date": "2026-12-20T14:00:00Z",
    "round": "Regular Season - 16",
    "venue": null,
    "city": null,
@@ -10115,7 +10093,7 @@
   },
   {
    "id": 558488,
-   "date": "2026-12-20T00:00:00Z",
+   "date": "2026-12-20T14:00:00Z",
    "round": "Regular Season - 16",
    "venue": null,
    "city": null,
@@ -10125,52 +10103,30 @@
    "away": "Monza"
   },
   {
-   "id": 558469,
-   "date": "2027-01-03T00:00:00Z",
-   "round": "Regular Season - 17",
+   "id": 558485,
+   "date": "2026-12-20T17:00:00Z",
+   "round": "Regular Season - 16",
    "venue": null,
    "city": null,
-   "homeId": 494,
-   "awayId": 499,
-   "home": "Udinese",
-   "away": "Atalanta"
+   "homeId": 495,
+   "awayId": 494,
+   "home": "Genoa",
+   "away": "Udinese"
   },
   {
-   "id": 558470,
-   "date": "2027-01-03T00:00:00Z",
-   "round": "Regular Season - 17",
+   "id": 558483,
+   "date": "2026-12-20T19:45:00Z",
+   "round": "Regular Season - 16",
    "venue": null,
    "city": null,
-   "homeId": 895,
-   "awayId": 867,
-   "home": "Como",
-   "away": "Lecce"
-  },
-  {
-   "id": 558471,
-   "date": "2027-01-03T00:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 497,
-   "awayId": 512,
-   "home": "Roma",
-   "away": "Frosinone"
-  },
-  {
-   "id": 558472,
-   "date": "2027-01-03T00:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 523,
+   "homeId": 499,
    "awayId": 492,
-   "home": "Parma",
+   "home": "Atalanta",
    "away": "Napoli"
   },
   {
    "id": 558473,
-   "date": "2027-01-03T00:00:00Z",
+   "date": "2027-01-02T11:30:00Z",
    "round": "Regular Season - 17",
    "venue": null,
    "city": null,
@@ -10181,7 +10137,7 @@
   },
   {
    "id": 558474,
-   "date": "2027-01-03T00:00:00Z",
+   "date": "2027-01-02T14:00:00Z",
    "round": "Regular Season - 17",
    "venue": null,
    "city": null,
@@ -10191,8 +10147,30 @@
    "away": "Venezia"
   },
   {
+   "id": 558478,
+   "date": "2027-01-02T14:00:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 502,
+   "awayId": 487,
+   "home": "Fiorentina",
+   "away": "Lazio"
+  },
+  {
+   "id": 558471,
+   "date": "2027-01-02T17:00:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 497,
+   "awayId": 512,
+   "home": "Roma",
+   "away": "Frosinone"
+  },
+  {
    "id": 558475,
-   "date": "2027-01-03T00:00:00Z",
+   "date": "2027-01-02T19:45:00Z",
    "round": "Regular Season - 17",
    "venue": null,
    "city": null,
@@ -10203,7 +10181,7 @@
   },
   {
    "id": 558476,
-   "date": "2027-01-03T00:00:00Z",
+   "date": "2027-01-03T11:30:00Z",
    "round": "Regular Season - 17",
    "venue": null,
    "city": null,
@@ -10213,8 +10191,41 @@
    "away": "Sassuolo"
   },
   {
+   "id": 558469,
+   "date": "2027-01-03T14:00:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 494,
+   "awayId": 499,
+   "home": "Udinese",
+   "away": "Atalanta"
+  },
+  {
+   "id": 558470,
+   "date": "2027-01-03T14:00:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 895,
+   "awayId": 867,
+   "home": "Como",
+   "away": "Lecce"
+  },
+  {
+   "id": 558472,
+   "date": "2027-01-03T17:00:00Z",
+   "round": "Regular Season - 17",
+   "venue": null,
+   "city": null,
+   "homeId": 523,
+   "awayId": 492,
+   "home": "Parma",
+   "away": "Napoli"
+  },
+  {
    "id": 558477,
-   "date": "2027-01-03T00:00:00Z",
+   "date": "2027-01-03T19:45:00Z",
    "round": "Regular Season - 17",
    "venue": null,
    "city": null,
@@ -10224,41 +10235,8 @@
    "away": "Juventus"
   },
   {
-   "id": 558478,
-   "date": "2027-01-03T00:00:00Z",
-   "round": "Regular Season - 17",
-   "venue": null,
-   "city": null,
-   "homeId": 502,
-   "awayId": 487,
-   "home": "Fiorentina",
-   "away": "Lazio"
-  },
-  {
-   "id": 558459,
-   "date": "2027-01-06T00:00:00Z",
-   "round": "Regular Season - 18",
-   "venue": null,
-   "city": null,
-   "homeId": 512,
-   "awayId": 500,
-   "home": "Frosinone",
-   "away": "Bologna"
-  },
-  {
-   "id": 558460,
-   "date": "2027-01-06T00:00:00Z",
-   "round": "Regular Season - 18",
-   "venue": null,
-   "city": null,
-   "homeId": 488,
-   "awayId": 494,
-   "home": "Sassuolo",
-   "away": "Udinese"
-  },
-  {
    "id": 558461,
-   "date": "2027-01-06T00:00:00Z",
+   "date": "2027-01-05T17:30:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -10269,7 +10247,7 @@
   },
   {
    "id": 558462,
-   "date": "2027-01-06T00:00:00Z",
+   "date": "2027-01-05T17:30:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -10279,19 +10257,8 @@
    "away": "Roma"
   },
   {
-   "id": 558463,
-   "date": "2027-01-06T00:00:00Z",
-   "round": "Regular Season - 18",
-   "venue": null,
-   "city": null,
-   "homeId": 492,
-   "awayId": 490,
-   "home": "Napoli",
-   "away": "Cagliari"
-  },
-  {
    "id": 558464,
-   "date": "2027-01-06T00:00:00Z",
+   "date": "2027-01-05T19:45:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -10302,7 +10269,7 @@
   },
   {
    "id": 558465,
-   "date": "2027-01-06T00:00:00Z",
+   "date": "2027-01-06T11:30:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -10312,8 +10279,30 @@
    "away": "Torino"
   },
   {
+   "id": 558459,
+   "date": "2027-01-06T14:00:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 512,
+   "awayId": 500,
+   "home": "Frosinone",
+   "away": "Bologna"
+  },
+  {
+   "id": 558468,
+   "date": "2027-01-06T14:00:00Z",
+   "round": "Regular Season - 18",
+   "venue": null,
+   "city": null,
+   "homeId": 867,
+   "awayId": 523,
+   "home": "Lecce",
+   "away": "Parma"
+  },
+  {
    "id": 558466,
-   "date": "2027-01-06T00:00:00Z",
+   "date": "2027-01-06T17:00:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -10324,7 +10313,7 @@
   },
   {
    "id": 558467,
-   "date": "2027-01-06T00:00:00Z",
+   "date": "2027-01-06T19:45:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
@@ -10334,52 +10323,30 @@
    "away": "Inter"
   },
   {
-   "id": 558468,
-   "date": "2027-01-06T00:00:00Z",
+   "id": 558460,
+   "date": "2027-01-07T17:30:00Z",
    "round": "Regular Season - 18",
    "venue": null,
    "city": null,
-   "homeId": 867,
-   "awayId": 523,
-   "home": "Lecce",
-   "away": "Parma"
+   "homeId": 488,
+   "awayId": 494,
+   "home": "Sassuolo",
+   "away": "Udinese"
   },
   {
-   "id": 558449,
-   "date": "2027-01-10T00:00:00Z",
-   "round": "Regular Season - 19",
+   "id": 558463,
+   "date": "2027-01-07T19:45:00Z",
+   "round": "Regular Season - 18",
    "venue": null,
    "city": null,
-   "homeId": 502,
-   "awayId": 867,
-   "home": "Fiorentina",
-   "away": "Lecce"
-  },
-  {
-   "id": 558450,
-   "date": "2027-01-10T00:00:00Z",
-   "round": "Regular Season - 19",
-   "venue": null,
-   "city": null,
-   "homeId": 494,
-   "awayId": 492,
-   "home": "Udinese",
-   "away": "Napoli"
-  },
-  {
-   "id": 558451,
-   "date": "2027-01-10T00:00:00Z",
-   "round": "Regular Season - 19",
-   "venue": null,
-   "city": null,
-   "homeId": 503,
-   "awayId": 499,
-   "home": "Torino",
-   "away": "Atalanta"
+   "homeId": 492,
+   "awayId": 490,
+   "home": "Napoli",
+   "away": "Cagliari"
   },
   {
    "id": 558452,
-   "date": "2027-01-10T00:00:00Z",
+   "date": "2027-01-09T14:00:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
@@ -10389,30 +10356,19 @@
    "away": "Frosinone"
   },
   {
-   "id": 558453,
-   "date": "2027-01-10T00:00:00Z",
+   "id": 558458,
+   "date": "2027-01-09T17:00:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
-   "homeId": 505,
-   "awayId": 496,
-   "home": "Inter",
-   "away": "Juventus"
-  },
-  {
-   "id": 558454,
-   "date": "2027-01-10T00:00:00Z",
-   "round": "Regular Season - 19",
-   "venue": null,
-   "city": null,
-   "homeId": 523,
-   "awayId": 517,
-   "home": "Parma",
-   "away": "Venezia"
+   "homeId": 497,
+   "awayId": 489,
+   "home": "Roma",
+   "away": "Milan"
   },
   {
    "id": 558455,
-   "date": "2027-01-10T00:00:00Z",
+   "date": "2027-01-09T19:45:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
@@ -10422,19 +10378,8 @@
    "away": "Genoa"
   },
   {
-   "id": 558456,
-   "date": "2027-01-10T00:00:00Z",
-   "round": "Regular Season - 19",
-   "venue": null,
-   "city": null,
-   "homeId": 490,
-   "awayId": 488,
-   "home": "Cagliari",
-   "away": "Sassuolo"
-  },
-  {
    "id": 558457,
-   "date": "2027-01-10T00:00:00Z",
+   "date": "2027-01-10T11:30:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
@@ -10444,15 +10389,70 @@
    "away": "Lazio"
   },
   {
-   "id": 558458,
-   "date": "2027-01-10T00:00:00Z",
+   "id": 558449,
+   "date": "2027-01-10T14:00:00Z",
    "round": "Regular Season - 19",
    "venue": null,
    "city": null,
-   "homeId": 497,
-   "awayId": 489,
-   "home": "Roma",
-   "away": "Milan"
+   "homeId": 502,
+   "awayId": 867,
+   "home": "Fiorentina",
+   "away": "Lecce"
+  },
+  {
+   "id": 558454,
+   "date": "2027-01-10T14:00:00Z",
+   "round": "Regular Season - 19",
+   "venue": null,
+   "city": null,
+   "homeId": 523,
+   "awayId": 517,
+   "home": "Parma",
+   "away": "Venezia"
+  },
+  {
+   "id": 558451,
+   "date": "2027-01-10T17:00:00Z",
+   "round": "Regular Season - 19",
+   "venue": null,
+   "city": null,
+   "homeId": 503,
+   "awayId": 499,
+   "home": "Torino",
+   "away": "Atalanta"
+  },
+  {
+   "id": 558453,
+   "date": "2027-01-10T19:45:00Z",
+   "round": "Regular Season - 19",
+   "venue": null,
+   "city": null,
+   "homeId": 505,
+   "awayId": 496,
+   "home": "Inter",
+   "away": "Juventus"
+  },
+  {
+   "id": 558456,
+   "date": "2027-01-11T17:30:00Z",
+   "round": "Regular Season - 19",
+   "venue": null,
+   "city": null,
+   "homeId": 490,
+   "awayId": 488,
+   "home": "Cagliari",
+   "away": "Sassuolo"
+  },
+  {
+   "id": 558450,
+   "date": "2027-01-11T19:45:00Z",
+   "round": "Regular Season - 19",
+   "venue": null,
+   "city": null,
+   "homeId": 494,
+   "awayId": 492,
+   "home": "Udinese",
+   "away": "Napoli"
   },
   {
    "id": 558439,
