@@ -1,11 +1,11 @@
 {
   "schemaVersion": 1,
   "provider": "football-data",
-  "asOf": "2026-09-30T09:52:44.300Z",
-  "updatedAt": "2026-09-30T09:52:44.300Z",
+  "asOf": "2026-10-01T10:21:03.056Z",
+  "updatedAt": "2026-10-01T10:21:03.056Z",
   "coverage": {
-    "dateFrom": "2026-09-25",
-    "dateTo": "2026-10-14",
+    "dateFrom": "2026-09-26",
+    "dateTo": "2026-10-15",
     "fixtureCount": 48,
     "liveFixtureCount": 0,
     "finishedFixtureCount": 0,
@@ -41,7 +41,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -143,7 +143,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -245,7 +245,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -347,7 +347,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -449,7 +449,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -551,7 +551,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -644,6 +644,312 @@
       "injuries": []
     },
     {
+      "id": "football-data:565818",
+      "providerId": 565818,
+      "name": "TSG 1899 Hoffenheim vs Hamburger SV",
+      "startTime": "2026-10-10T13:30:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2522,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "shortCode": "BL1",
+        "imageUrl": "https://crests.football-data.org/BL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 2,
+          "name": "TSG 1899 Hoffenheim",
+          "shortCode": "TSG",
+          "imageUrl": "https://crests.football-data.org/2.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 7,
+          "name": "Hamburger SV",
+          "shortCode": "HSV",
+          "imageUrl": "https://crests.football-data.org/7.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 2,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 7,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 2,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 7,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:565812",
+      "providerId": 565812,
+      "name": "1. FSV Mainz 05 vs Bayer 04 Leverkusen",
+      "startTime": "2026-10-10T13:30:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2522,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "shortCode": "BL1",
+        "imageUrl": "https://crests.football-data.org/BL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 15,
+          "name": "1. FSV Mainz 05",
+          "shortCode": "M05",
+          "imageUrl": "https://crests.football-data.org/15.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 3,
+          "name": "Bayer 04 Leverkusen",
+          "shortCode": "B04",
+          "imageUrl": "https://crests.football-data.org/3.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 15,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 3,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 15,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 3,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:565813",
+      "providerId": 565813,
+      "name": "SC Paderborn 07 vs VfB Stuttgart",
+      "startTime": "2026-10-10T13:30:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2522,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "shortCode": "BL1",
+        "imageUrl": "https://crests.football-data.org/BL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 29,
+          "name": "SC Paderborn 07",
+          "shortCode": "SCP",
+          "imageUrl": "https://crests.football-data.org/29.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 10,
+          "name": "VfB Stuttgart",
+          "shortCode": "VFB",
+          "imageUrl": "https://crests.football-data.org/10.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 29,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 10,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 29,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 10,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:565819",
       "providerId": 565819,
       "name": "FC Augsburg vs FC Bayern München",
@@ -653,7 +959,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -755,7 +1061,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -848,312 +1154,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:565813",
-      "providerId": 565813,
-      "name": "SC Paderborn 07 vs VfB Stuttgart",
-      "startTime": "2026-10-10T13:30:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2522,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2002,
-        "name": "Bundesliga",
-        "shortCode": "BL1",
-        "imageUrl": "https://crests.football-data.org/BL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 29,
-          "name": "SC Paderborn 07",
-          "shortCode": "SCP",
-          "imageUrl": "https://crests.football-data.org/29.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 10,
-          "name": "VfB Stuttgart",
-          "shortCode": "VFB",
-          "imageUrl": "https://crests.football-data.org/10.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 29,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 10,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 29,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 10,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:565812",
-      "providerId": 565812,
-      "name": "1. FSV Mainz 05 vs Bayer 04 Leverkusen",
-      "startTime": "2026-10-10T13:30:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2522,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2002,
-        "name": "Bundesliga",
-        "shortCode": "BL1",
-        "imageUrl": "https://crests.football-data.org/BL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 15,
-          "name": "1. FSV Mainz 05",
-          "shortCode": "M05",
-          "imageUrl": "https://crests.football-data.org/15.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 3,
-          "name": "Bayer 04 Leverkusen",
-          "shortCode": "B04",
-          "imageUrl": "https://crests.football-data.org/3.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 15,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 3,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 15,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 3,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:565818",
-      "providerId": 565818,
-      "name": "TSG 1899 Hoffenheim vs Hamburger SV",
-      "startTime": "2026-10-10T13:30:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2522,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2002,
-        "name": "Bundesliga",
-        "shortCode": "BL1",
-        "imageUrl": "https://crests.football-data.org/BL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 2,
-          "name": "TSG 1899 Hoffenheim",
-          "shortCode": "TSG",
-          "imageUrl": "https://crests.football-data.org/2.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 7,
-          "name": "Hamburger SV",
-          "shortCode": "HSV",
-          "imageUrl": "https://crests.football-data.org/7.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 2,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 7,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 2,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 7,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:560599",
       "providerId": 560599,
       "name": "Ipswich Town FC vs Fulham FC",
@@ -1163,7 +1163,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -1265,7 +1265,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -1367,7 +1367,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -1469,7 +1469,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -1571,7 +1571,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -1673,7 +1673,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -1775,7 +1775,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -1868,210 +1868,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:560600",
-      "providerId": 560600,
-      "name": "Manchester United FC vs Tottenham Hotspur FC",
-      "startTime": "2026-10-10T16:30:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2502,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2021,
-        "name": "Premier League",
-        "shortCode": "PL",
-        "imageUrl": "https://crests.football-data.org/PL.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 66,
-          "name": "Manchester United FC",
-          "shortCode": "MUN",
-          "imageUrl": "https://crests.football-data.org/66.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 73,
-          "name": "Tottenham Hotspur FC",
-          "shortCode": "TOT",
-          "imageUrl": "https://crests.football-data.org/73.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 66,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 73,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 66,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 73,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:565815",
-      "providerId": 565815,
-      "name": "RB Leipzig vs Eintracht Frankfurt",
-      "startTime": "2026-10-10T16:30:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2522,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2002,
-        "name": "Bundesliga",
-        "shortCode": "BL1",
-        "imageUrl": "https://crests.football-data.org/BL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 721,
-          "name": "RB Leipzig",
-          "shortCode": "RBL",
-          "imageUrl": "https://crests.football-data.org/721.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 19,
-          "name": "Eintracht Frankfurt",
-          "shortCode": "SGE",
-          "imageUrl": "https://crests.football-data.org/19.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 721,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 19,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 721,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 19,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:564700",
       "providerId": 564700,
       "name": "FC Barcelona vs Getafe CF",
@@ -2081,7 +1877,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2174,16 +1970,220 @@
       "injuries": []
     },
     {
-      "id": "football-data:559673",
-      "providerId": 559673,
-      "name": "AS Monaco FC vs Toulouse FC",
+      "id": "football-data:565815",
+      "providerId": 565815,
+      "name": "RB Leipzig vs Eintracht Frankfurt",
+      "startTime": "2026-10-10T16:30:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2522,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2002,
+        "name": "Bundesliga",
+        "shortCode": "BL1",
+        "imageUrl": "https://crests.football-data.org/BL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 721,
+          "name": "RB Leipzig",
+          "shortCode": "RBL",
+          "imageUrl": "https://crests.football-data.org/721.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 19,
+          "name": "Eintracht Frankfurt",
+          "shortCode": "SGE",
+          "imageUrl": "https://crests.football-data.org/19.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 721,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 19,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 721,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 19,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:560600",
+      "providerId": 560600,
+      "name": "Manchester United FC vs Tottenham Hotspur FC",
+      "startTime": "2026-10-10T16:30:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2502,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2021,
+        "name": "Premier League",
+        "shortCode": "PL",
+        "imageUrl": "https://crests.football-data.org/PL.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 66,
+          "name": "Manchester United FC",
+          "shortCode": "MUN",
+          "imageUrl": "https://crests.football-data.org/66.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 73,
+          "name": "Tottenham Hotspur FC",
+          "shortCode": "TOT",
+          "imageUrl": "https://crests.football-data.org/73.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 66,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 73,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 66,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 73,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:559668",
+      "providerId": 559668,
+      "name": "FC Lorient vs Paris FC",
       "startTime": "2026-10-10T18:45:00.000Z",
       "resultInfo": null,
       "seasonId": 2497,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2213,19 +2213,19 @@
       },
       "participants": [
         {
-          "id": 548,
-          "name": "AS Monaco FC",
-          "shortCode": "ASM",
-          "imageUrl": "https://crests.football-data.org/548.png",
+          "id": 525,
+          "name": "FC Lorient",
+          "shortCode": "FCL",
+          "imageUrl": "https://crests.football-data.org/525.png",
           "role": "home",
           "position": null,
           "winner": false
         },
         {
-          "id": 511,
-          "name": "Toulouse FC",
-          "shortCode": "TOU",
-          "imageUrl": "https://crests.football-data.org/511.png",
+          "id": 1045,
+          "name": "Paris FC",
+          "shortCode": "PFC",
+          "imageUrl": "https://crests.football-data.org/1045.png",
           "role": "away",
           "position": null,
           "winner": false
@@ -2241,7 +2241,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 548,
+          "participantId": 525,
           "description": "CURRENT",
           "participant": "home",
           "goals": 0
@@ -2249,109 +2249,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 511,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 548,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 511,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
-      "id": "football-data:558586",
-      "providerId": 558586,
-      "name": "SSC Napoli vs Frosinone Calcio",
-      "startTime": "2026-10-10T18:45:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2494,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2019,
-        "name": "Serie A",
-        "shortCode": "SA",
-        "imageUrl": "https://crests.football-data.org/c111.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 113,
-          "name": "SSC Napoli",
-          "shortCode": "NAP",
-          "imageUrl": "https://crests.football-data.org/113.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 470,
-          "name": "Frosinone Calcio",
-          "shortCode": "FRO",
-          "imageUrl": "https://crests.football-data.org/470.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 113,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 470,
+          "participantId": 1045,
           "description": "CURRENT",
           "participant": "away",
           "goals": 0
@@ -2359,7 +2257,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 113,
+          "participantId": 525,
           "description": "1ST_HALF",
           "participant": "home",
           "goals": 0
@@ -2367,7 +2265,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 470,
+          "participantId": 1045,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
@@ -2387,7 +2285,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2489,7 +2387,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2582,16 +2480,16 @@
       "injuries": []
     },
     {
-      "id": "football-data:559668",
-      "providerId": 559668,
-      "name": "FC Lorient vs Paris FC",
+      "id": "football-data:559673",
+      "providerId": 559673,
+      "name": "AS Monaco FC vs Toulouse FC",
       "startTime": "2026-10-10T18:45:00.000Z",
       "resultInfo": null,
       "seasonId": 2497,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2621,19 +2519,19 @@
       },
       "participants": [
         {
-          "id": 525,
-          "name": "FC Lorient",
-          "shortCode": "FCL",
-          "imageUrl": "https://crests.football-data.org/525.png",
+          "id": 548,
+          "name": "AS Monaco FC",
+          "shortCode": "ASM",
+          "imageUrl": "https://crests.football-data.org/548.png",
           "role": "home",
           "position": null,
           "winner": false
         },
         {
-          "id": 1045,
-          "name": "Paris FC",
-          "shortCode": "PFC",
-          "imageUrl": "https://crests.football-data.org/1045.png",
+          "id": 511,
+          "name": "Toulouse FC",
+          "shortCode": "TOU",
+          "imageUrl": "https://crests.football-data.org/511.png",
           "role": "away",
           "position": null,
           "winner": false
@@ -2649,7 +2547,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 525,
+          "participantId": 548,
           "description": "CURRENT",
           "participant": "home",
           "goals": 0
@@ -2657,7 +2555,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 1045,
+          "participantId": 511,
           "description": "CURRENT",
           "participant": "away",
           "goals": 0
@@ -2665,7 +2563,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 525,
+          "participantId": 548,
           "description": "1ST_HALF",
           "participant": "home",
           "goals": 0
@@ -2673,7 +2571,109 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 1045,
+          "participantId": 511,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:558586",
+      "providerId": 558586,
+      "name": "SSC Napoli vs Frosinone Calcio",
+      "startTime": "2026-10-10T18:45:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2494,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2019,
+        "name": "Serie A",
+        "shortCode": "SA",
+        "imageUrl": "https://crests.football-data.org/c111.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 113,
+          "name": "SSC Napoli",
+          "shortCode": "NAP",
+          "imageUrl": "https://crests.football-data.org/113.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 470,
+          "name": "Frosinone Calcio",
+          "shortCode": "FRO",
+          "imageUrl": "https://crests.football-data.org/470.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 113,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 470,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 113,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 470,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
@@ -2693,7 +2693,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2795,7 +2795,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2897,7 +2897,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -2990,16 +2990,16 @@
       "injuries": []
     },
     {
-      "id": "football-data:560596",
-      "providerId": 560596,
-      "name": "Crystal Palace FC vs Nottingham Forest FC",
+      "id": "football-data:558583",
+      "providerId": 558583,
+      "name": "SS Lazio vs AC Monza",
       "startTime": "2026-10-11T13:00:00.000Z",
       "resultInfo": null,
-      "seasonId": 2502,
+      "seasonId": 2494,
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -3009,10 +3009,10 @@
         "isFinished": false
       },
       "league": {
-        "id": 2021,
-        "name": "Premier League",
-        "shortCode": "PL",
-        "imageUrl": "https://crests.football-data.org/PL.png"
+        "id": 2019,
+        "name": "Serie A",
+        "shortCode": "SA",
+        "imageUrl": "https://crests.football-data.org/c111.png"
       },
       "round": {
         "id": null,
@@ -3029,19 +3029,19 @@
       },
       "participants": [
         {
-          "id": 354,
-          "name": "Crystal Palace FC",
-          "shortCode": "CRY",
-          "imageUrl": "https://crests.football-data.org/354.png",
+          "id": 110,
+          "name": "SS Lazio",
+          "shortCode": "LAZ",
+          "imageUrl": "https://crests.football-data.org/110.png",
           "role": "home",
           "position": null,
           "winner": false
         },
         {
-          "id": 351,
-          "name": "Nottingham Forest FC",
-          "shortCode": "NOT",
-          "imageUrl": "https://crests.football-data.org/351.png",
+          "id": 5911,
+          "name": "AC Monza",
+          "shortCode": "MON",
+          "imageUrl": "https://crests.football-data.org/5911.png",
           "role": "away",
           "position": null,
           "winner": false
@@ -3057,7 +3057,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 354,
+          "participantId": 110,
           "description": "CURRENT",
           "participant": "home",
           "goals": 0
@@ -3065,7 +3065,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 351,
+          "participantId": 5911,
           "description": "CURRENT",
           "participant": "away",
           "goals": 0
@@ -3073,7 +3073,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 354,
+          "participantId": 110,
           "description": "1ST_HALF",
           "participant": "home",
           "goals": 0
@@ -3081,7 +3081,7 @@
         {
           "id": null,
           "typeId": null,
-          "participantId": 351,
+          "participantId": 5911,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
@@ -3101,7 +3101,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -3203,7 +3203,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -3296,108 +3296,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:558583",
-      "providerId": 558583,
-      "name": "SS Lazio vs AC Monza",
-      "startTime": "2026-10-11T13:00:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2494,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2019,
-        "name": "Serie A",
-        "shortCode": "SA",
-        "imageUrl": "https://crests.football-data.org/c111.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 110,
-          "name": "SS Lazio",
-          "shortCode": "LAZ",
-          "imageUrl": "https://crests.football-data.org/110.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 5911,
-          "name": "AC Monza",
-          "shortCode": "MON",
-          "imageUrl": "https://crests.football-data.org/5911.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 110,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 5911,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 110,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 5911,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:560594",
       "providerId": 560594,
       "name": "Hull City AFC vs Everton FC",
@@ -3407,7 +3305,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -3500,6 +3398,108 @@
       "injuries": []
     },
     {
+      "id": "football-data:560596",
+      "providerId": 560596,
+      "name": "Crystal Palace FC vs Nottingham Forest FC",
+      "startTime": "2026-10-11T13:00:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2502,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2021,
+        "name": "Premier League",
+        "shortCode": "PL",
+        "imageUrl": "https://crests.football-data.org/PL.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 354,
+          "name": "Crystal Palace FC",
+          "shortCode": "CRY",
+          "imageUrl": "https://crests.football-data.org/354.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 351,
+          "name": "Nottingham Forest FC",
+          "shortCode": "NOT",
+          "imageUrl": "https://crests.football-data.org/351.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 354,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 351,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 354,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 351,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:565814",
       "providerId": 565814,
       "name": "1. FC Köln vs Borussia Mönchengladbach",
@@ -3509,7 +3509,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -3611,7 +3611,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -3713,7 +3713,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -3806,108 +3806,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:560598",
-      "providerId": 560598,
-      "name": "Liverpool FC vs Manchester City FC",
-      "startTime": "2026-10-11T15:30:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2502,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2021,
-        "name": "Premier League",
-        "shortCode": "PL",
-        "imageUrl": "https://crests.football-data.org/PL.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 64,
-          "name": "Liverpool FC",
-          "shortCode": "LIV",
-          "imageUrl": "https://crests.football-data.org/64.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 65,
-          "name": "Manchester City FC",
-          "shortCode": "MCI",
-          "imageUrl": "https://crests.football-data.org/65.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 64,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 65,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 64,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 65,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:565816",
       "providerId": 565816,
       "name": "SC Freiburg vs FC Schalke 04",
@@ -3917,7 +3815,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:34Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4010,6 +3908,108 @@
       "injuries": []
     },
     {
+      "id": "football-data:560598",
+      "providerId": 560598,
+      "name": "Liverpool FC vs Manchester City FC",
+      "startTime": "2026-10-11T15:30:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2502,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2021,
+        "name": "Premier League",
+        "shortCode": "PL",
+        "imageUrl": "https://crests.football-data.org/PL.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 64,
+          "name": "Liverpool FC",
+          "shortCode": "LIV",
+          "imageUrl": "https://crests.football-data.org/64.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 65,
+          "name": "Manchester City FC",
+          "shortCode": "MCI",
+          "imageUrl": "https://crests.football-data.org/65.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 64,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 65,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 64,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 65,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:558580",
       "providerId": 558580,
       "name": "US Sassuolo Calcio vs AC Milan",
@@ -4019,7 +4019,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4121,7 +4121,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4214,108 +4214,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:559671",
-      "providerId": 559671,
-      "name": "ES Troyes AC vs Olympique de Marseille",
-      "startTime": "2026-10-11T18:45:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2497,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2015,
-        "name": "Ligue 1",
-        "shortCode": "FL1",
-        "imageUrl": "https://crests.football-data.org/FL1.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 531,
-          "name": "ES Troyes AC",
-          "shortCode": "ETR",
-          "imageUrl": "https://crests.football-data.org/531.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 516,
-          "name": "Olympique de Marseille",
-          "shortCode": "MAR",
-          "imageUrl": "https://crests.football-data.org/516.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 531,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 516,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 531,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 516,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:558584",
       "providerId": 558584,
       "name": "Cagliari Calcio vs Juventus FC",
@@ -4325,7 +4223,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4418,6 +4316,108 @@
       "injuries": []
     },
     {
+      "id": "football-data:559671",
+      "providerId": 559671,
+      "name": "ES Troyes AC vs Olympique de Marseille",
+      "startTime": "2026-10-11T18:45:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2497,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2015,
+        "name": "Ligue 1",
+        "shortCode": "FL1",
+        "imageUrl": "https://crests.football-data.org/FL1.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 531,
+          "name": "ES Troyes AC",
+          "shortCode": "ETR",
+          "imageUrl": "https://crests.football-data.org/531.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 516,
+          "name": "Olympique de Marseille",
+          "shortCode": "MAR",
+          "imageUrl": "https://crests.football-data.org/516.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 531,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 516,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 531,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 516,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
       "id": "football-data:564705",
       "providerId": 564705,
       "name": "Real Racing Club de Santander vs Valencia CF",
@@ -4427,7 +4427,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4529,7 +4529,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4631,7 +4631,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4724,108 +4724,6 @@
       "injuries": []
     },
     {
-      "id": "football-data:560597",
-      "providerId": 560597,
-      "name": "Coventry City FC vs Newcastle United FC",
-      "startTime": "2026-10-12T19:00:00.000Z",
-      "resultInfo": null,
-      "seasonId": 2502,
-      "stageId": null,
-      "roundId": null,
-      "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:36Z",
-      "status": {
-        "id": null,
-        "name": "Not Started",
-        "shortName": "TIMED",
-        "developerName": "TIMED",
-        "isLive": false,
-        "isFinished": false
-      },
-      "league": {
-        "id": 2021,
-        "name": "Premier League",
-        "shortCode": "PL",
-        "imageUrl": "https://crests.football-data.org/PL.png"
-      },
-      "round": {
-        "id": null,
-        "name": "REGULAR_SEASON",
-        "shortCode": null,
-        "imageUrl": null
-      },
-      "venue": {
-        "id": null,
-        "name": null,
-        "city": null,
-        "capacity": null,
-        "imageUrl": null
-      },
-      "participants": [
-        {
-          "id": 1076,
-          "name": "Coventry City FC",
-          "shortCode": "COV",
-          "imageUrl": "https://crests.football-data.org/1076.png",
-          "role": "home",
-          "position": null,
-          "winner": false
-        },
-        {
-          "id": 67,
-          "name": "Newcastle United FC",
-          "shortCode": "NEW",
-          "imageUrl": "https://crests.football-data.org/67.png",
-          "role": "away",
-          "position": null,
-          "winner": false
-        }
-      ],
-      "score": {
-        "home": 0,
-        "away": 0,
-        "halfTimeHome": 0,
-        "halfTimeAway": 0
-      },
-      "scores": [
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 1076,
-          "description": "CURRENT",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 67,
-          "description": "CURRENT",
-          "participant": "away",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 1076,
-          "description": "1ST_HALF",
-          "participant": "home",
-          "goals": 0
-        },
-        {
-          "id": null,
-          "typeId": null,
-          "participantId": 67,
-          "description": "1ST_HALF",
-          "participant": "away",
-          "goals": 0
-        }
-      ],
-      "events": [],
-      "lineups": [],
-      "injuries": []
-    },
-    {
       "id": "football-data:564704",
       "providerId": 564704,
       "name": "Levante UD vs Sevilla FC",
@@ -4835,7 +4733,7 @@
       "stageId": null,
       "roundId": null,
       "hasOdds": false,
-      "lastProcessedAt": "2026-09-30T00:20:35Z",
+      "lastProcessedAt": "2026-10-01T00:20:33Z",
       "status": {
         "id": null,
         "name": "Not Started",
@@ -4918,6 +4816,108 @@
           "id": null,
           "typeId": null,
           "participantId": 559,
+          "description": "1ST_HALF",
+          "participant": "away",
+          "goals": 0
+        }
+      ],
+      "events": [],
+      "lineups": [],
+      "injuries": []
+    },
+    {
+      "id": "football-data:560597",
+      "providerId": 560597,
+      "name": "Coventry City FC vs Newcastle United FC",
+      "startTime": "2026-10-12T19:00:00.000Z",
+      "resultInfo": null,
+      "seasonId": 2502,
+      "stageId": null,
+      "roundId": null,
+      "hasOdds": false,
+      "lastProcessedAt": "2026-10-01T00:20:34Z",
+      "status": {
+        "id": null,
+        "name": "Not Started",
+        "shortName": "TIMED",
+        "developerName": "TIMED",
+        "isLive": false,
+        "isFinished": false
+      },
+      "league": {
+        "id": 2021,
+        "name": "Premier League",
+        "shortCode": "PL",
+        "imageUrl": "https://crests.football-data.org/PL.png"
+      },
+      "round": {
+        "id": null,
+        "name": "REGULAR_SEASON",
+        "shortCode": null,
+        "imageUrl": null
+      },
+      "venue": {
+        "id": null,
+        "name": null,
+        "city": null,
+        "capacity": null,
+        "imageUrl": null
+      },
+      "participants": [
+        {
+          "id": 1076,
+          "name": "Coventry City FC",
+          "shortCode": "COV",
+          "imageUrl": "https://crests.football-data.org/1076.png",
+          "role": "home",
+          "position": null,
+          "winner": false
+        },
+        {
+          "id": 67,
+          "name": "Newcastle United FC",
+          "shortCode": "NEW",
+          "imageUrl": "https://crests.football-data.org/67.png",
+          "role": "away",
+          "position": null,
+          "winner": false
+        }
+      ],
+      "score": {
+        "home": 0,
+        "away": 0,
+        "halfTimeHome": 0,
+        "halfTimeAway": 0
+      },
+      "scores": [
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 1076,
+          "description": "CURRENT",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 67,
+          "description": "CURRENT",
+          "participant": "away",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 1076,
+          "description": "1ST_HALF",
+          "participant": "home",
+          "goals": 0
+        },
+        {
+          "id": null,
+          "typeId": null,
+          "participantId": 67,
           "description": "1ST_HALF",
           "participant": "away",
           "goals": 0
