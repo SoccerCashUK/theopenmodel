@@ -291,4 +291,7 @@ kickoff,league,home,away,pHome,pDraw,pAway,modelPick,lockedOn,homeGoals,awayGoal
 2026-09-20T18:45:00Z,serie-a,"Milan","Lecce",0.6313,0.2345,0.1342,home,2026-09-20,,,,
 2026-09-20T18:45:00Z,ligue-1,"Marseille","Paris SG",0.1564,0.2456,0.598,away,2026-09-20,,,,
 2026-09-20T19:00:00Z,la-liga,"Valencia","Sociedad",0.4471,0.2791,0.2738,home,2026-09-20,,,,
+2026-10-09T18:30:00Z,bundesliga,"Dortmund","Werder",0.685,0.2139,0.1011,home,2026-10-02,,,,
+2026-10-09T18:45:00Z,ligue-1,"Lens","Lyon",0.456,0.2779,0.2661,home,2026-10-02,,,,
+2026-10-09T19:00:00Z,la-liga,"Malaga","Espanyol",0.323,0.284,0.393,away,2026-10-02,,,,
 2026-10-21T18:00:00Z,la-liga,"Levante","Bilbao",0.3517,0.2849,0.3634,away,2026-09-16,,,,
