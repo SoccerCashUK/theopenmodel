@@ -1,40 +1,229 @@
 {
- "updated": "2026-10-05T10:42:36.951Z",
+ "updated": "2026-10-06T10:35:46.896Z",
  "items": [
+  {
+   "title": "Uefa investigating allegation Israel player spat at Ireland coach",
+   "link": "https://www.theguardian.com/football/2026/oct/06/uefa-investigating-allegation-israel-player-spat-at-ireland-coach",
+   "date": "2026-10-06T10:09:51.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/2cf039320e00578add0a26b00a9a979efc1e93cc/528_0_4742_3793/master/4742.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b39b399cac8c06e28b3d758552715a81"
+  },
+  {
+   "title": "Next Generation 2026: 60 of the best young talents in world football",
+   "link": "https://www.theguardian.com/football/ng-interactive/2026/oct/06/next-generation-2026-60-of-the-best-young-talents-in-world-football",
+   "date": "2026-10-06T10:00:51.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/b7ba568b001c9d37f27a841072d55afde100d7cf/0_0_1250_1000/master/1250.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e940d4d6205de52908f872c824d0a612"
+  },
+  {
+   "title": "Uefa investigating Republic of Ireland-Israel row after spitting accusation",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm3wvqxjdxn5o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T09:42:17.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a66/live/626b3a30-c168-11f1-a003-8be783290413.jpg"
+  },
+  {
+   "title": "‘Brighton are the world’s most forward-thinking club’: Jason McCarthy on retiring at 29 to coach",
+   "link": "https://www.theguardian.com/football/2026/oct/06/brighton-jason-mccarthy-coach-interview",
+   "date": "2026-10-06T09:04:15.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/6cc80fd8a5d94b1c03c41a1f05e099d81d07262d/1124_935_6627_5302/master/6627.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18c66d7664b50663824a0fdfcc74d729"
+  },
+  {
+   "title": "The small African nation ready for Messi's big night",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqly0lx461m8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T07:50:34.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a11e/live/1b0e6fd0-c0c4-11f1-885f-4f9e8c6dce17.jpg"
+  },
+  {
+   "title": "Donley keen to add goals after encouraging NI run",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6g7xg9l12mlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T07:01:03.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8b9/live/5639b910-c11a-11f1-a29c-b34ab2f04b87.jpg"
+  },
+  {
+   "title": "Schooled for success: how English lessons power Midtjylland’s talent factory",
+   "link": "https://www.theguardian.com/football/2026/oct/06/english-lessons-midtjylland-talent-factory-transfer-window",
+   "date": "2026-10-06T07:00:06.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/1adb5b0d87015885e1cb199fde85d7ce837f7674/831_0_4635_3707/master/4635.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b463b44b80fd4c81782db0517b00b2ff"
+  },
+  {
+   "title": "David Squires on … David Beckham’s heroics for England v Greece, 25 years on",
+   "link": "https://www.theguardian.com/football/picture/2026/oct/06/david-squires-on-david-beckham-heroics-england-greece-25-years-on",
+   "date": "2026-10-06T07:00:05.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/c70117707be950cc94ebaa0fb08d8512b13325b9/1017_1746_916_732/master/916.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d2857669645918da005c8c68f0cd5ea"
+  },
+  {
+   "title": "South Korea captain apologises for gloating over military service exemption",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T06:43:45.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe7/live/8b257120-c14f-11f1-a043-4511bb61bfac.jpg"
+  },
+  {
+   "title": "Quiz: Name England's all-time leading appearance makers",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmlylv1xl9qgo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T06:23:08.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/0aeb80f0-c00d-11f1-a64c-550be9e3c66b.png"
+  },
+  {
+   "title": "Born into Celtic, made at Motherwell, Welsh comes of age with Scotland",
+   "link": "https://www.bbc.co.uk/sport/football/articles/crd938wj2n14o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T06:18:52.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4d/live/150d2fd0-c156-11f1-ae7b-cfc528a6c828.jpg"
+  },
+  {
+   "title": "Who am I? Guess Premier League star No 78",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cxzdzdr6dyzlo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T05:50:25.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+  },
+  {
+   "title": "Owner, businessman & player: Messi has big plans as a golden era ends",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cwly3lpmyye9o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T05:39:49.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/736a/live/3de6acd0-c0b4-11f1-837f-5ba27a94daa8.jpg"
+  },
+  {
+   "title": "Wales focus on Albania as Grainger reunion looms",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c617j1klwpwqo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-06T04:56:59.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a51/live/9a623490-bb49-11f1-a071-65d2e11c8f4a.jpg"
+  },
+  {
+   "title": "Mary Fowler ruled out of Matildas friendlies due to ‘personal circumstances’",
+   "link": "https://www.theguardian.com/football/2026/oct/06/mary-fowler-personal-circumstances-ruled-out-matildas-friendlies",
+   "date": "2026-10-06T00:23:00.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/4ea59e4059787b15d895c87ca4133d22df9fef86/1000_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f74f6021615ceb9842965d268796f779"
+  },
+  {
+   "title": "NI make huge strides despite Georgia frustration",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9lp24p1po?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T23:30:24.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/febc/live/ddcf5090-c103-11f1-9ff2-3b6c88884537.jpg"
+  },
+  {
+   "title": "Nations League roundup: Olise leads late charge as France bowl over Belgium",
+   "link": "https://www.theguardian.com/football/2026/oct/05/nations-league-roundup-olise-leads-late-charge-as-france-bowl-over-belgium",
+   "date": "2026-10-05T21:31:20.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/dce415f753d6d269b51711f093be74a07323ee66/222_0_3865_3092/master/3865.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b380fae3500ddaba8a4ee9abe11a027"
+  },
+  {
+   "title": "How did some City fans become aggressive defenders of a nation state’s regime? | Sean Ingle",
+   "link": "https://www.theguardian.com/football/2026/oct/05/how-do-sports-fans-end-up-as-aggressive-defenders-of-a-nation-states-regime",
+   "date": "2026-10-05T21:29:27.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/a0999a27c9e6255e4b49f4d729e2af6fc9eea71b/446_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef0aabb574741efef6e3b00ba3204fd4"
+  },
+  {
+   "title": "Humble Gilmour happy with new role as 50th cap beckons",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmly05el6gz2o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T21:28:25.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca64/live/a6d4b810-c102-11f1-9ff2-3b6c88884537.jpg"
+  },
+  {
+   "title": "Mamardashvili saves penalty as Georgia hold Northern Ireland in Nations League",
+   "link": "https://www.theguardian.com/football/2026/oct/05/northern-ireland-georgia-nations-league-league-b-group-2-match-report",
+   "date": "2026-10-05T21:08:28.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/ad8477e0c63fdba55a1501ede707f7aa42581591/284_0_3134_2508/master/3134.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21bd0910e99d40964f7de9cbcd59ceae"
+  },
+  {
+   "title": "Juventus & Atletico Madrid eye Madueke - Tuesday's gossip",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cw203mjx7r46o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T20:38:51.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d3/live/7d914c60-c0f9-11f1-812d-715b1c9a79e7.png"
+  },
+  {
+   "title": "Gabriel in Man Utd team photo but no hint of reconciliation",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cmde8n8j0dn4o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T19:13:15.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/8a854380-c0e1-11f1-a64c-550be9e3c66b.jpg"
+  },
+  {
+   "title": "England's greatest international? Kane is now a serious contender",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T19:05:52.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg"
+  },
+  {
+   "title": "Jude awakening: how a more fluid England are ‘unlocking’ Bellingham’s full potential",
+   "link": "https://www.theguardian.com/football/2026/oct/05/jude-awakening-how-a-more-fluid-england-are-unlocking-bellinghams-full-potential",
+   "date": "2026-10-05T18:00:49.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/9af754426c8a1273f4f42795710344b0338f7f61/332_0_3305_2645/master/3305.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b757bf1c0064d478ce9d703d9f39336"
+  },
+  {
+   "title": "Police occupy Djibouti FA headquarters amid attempt to oust Fifa council member",
+   "link": "https://www.theguardian.com/football/2026/oct/05/djibouti-fa-president-souleiman-waberi-fifa-council-police",
+   "date": "2026-10-05T17:36:45.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/3b80ec3ad1ce35e911fc502b18e69bde7f9b8fad/1510_901_3718_2975/master/3718.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=034988bbb4451328cdd635a64d349952"
+  },
+  {
+   "title": "Ronaldo’s break with Portugal is sad, fitting, and long overdue | Jonathan Wilson",
+   "link": "https://www.theguardian.com/football/2026/oct/05/cristiano-ronaldo-portugal-rift",
+   "date": "2026-10-05T15:30:46.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/d8bafdeee56d3a7a027b839e6eb79fdccbac5486/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8909117e5c39c4fa14025d8f14225dd"
+  },
+  {
+   "title": "Player welfare, injury worries & boredom - has extended break worked?",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cq8jz7verm24o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T14:54:39.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a87/live/3816bed0-c0be-11f1-885f-4f9e8c6dce17.jpg"
+  },
+  {
+   "title": "What we learned from Wales' Nations League window",
+   "link": "https://www.bbc.co.uk/sport/football/articles/c6pwg5enxwz8o?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T13:37:42.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/df63d940-c0c1-11f1-885f-4f9e8c6dce17.jpg"
+  },
+  {
+   "title": "Celtic celebrate heated win over Rangers in final of revived Tennent’s Sixes",
+   "link": "https://www.theguardian.com/football/2026/oct/05/celtic-celebrate-heated-win-rangers-final-revived-tennents-sixes",
+   "date": "2026-10-05T13:21:16.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/b5155ce396ddbb488fee02d20b7fdbae578d319b/213_180_2916_2333/master/2916.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de7f4da1e9b5727454e3af901f95aca0"
+  },
+  {
+   "title": "Bournemouth unhappy after Scott injured with England",
+   "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
+   "date": "2026-10-05T12:38:58.000Z",
+   "src": "BBC Sport",
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
+  },
+  {
+   "title": "WSL talking points: heat cranks up on Arsenal but Putellas and Diani shine",
+   "link": "https://www.theguardian.com/football/2026/oct/05/wsl-talking-points-renee-slegers-arsenal-keira-walsh-chelsea",
+   "date": "2026-10-05T11:22:26.000Z",
+   "src": "The Guardian",
+   "img": "https://i.guim.co.uk/img/media/9caa42320661bd2fb652efbf6d8582fdb6228896/0_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4a6ae83cc26847b6671c32846578a46"
+  },
   {
    "title": "A nation divided as Ronaldo left with big decision on Portugal future",
    "link": "https://www.bbc.co.uk/sport/football/articles/crwyd31nw2w4o?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-05T10:22:57.000Z",
    "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e29/live/f6a58a20-bff6-11f1-8c3e-3b2eab095459.jpg"
-  },
-  {
-   "title": "Scott withdraws from England squad and could be out for eight weeks",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T09:58:37.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
-  },
-  {
-   "title": "Next Generation 2026: 20 of the best talents at Premier League clubs",
-   "link": "https://www.theguardian.com/football/ng-interactive/2026/oct/05/next-generation-2026-20-of-the-best-talents-at-premier-league-clubs",
-   "date": "2026-10-05T09:31:42.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/fc1ba01924cf666e56b0846a7f96397946384f70/0_0_1250_1000/master/1250.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77362adf1cbd24bf7cce93c556a60328"
-  },
-  {
-   "title": "All the goals from the Women's Super League - matchweek five",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T08:55:39.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2517/live/470ea640-c038-11f1-a64c-550be9e3c66b.jpg"
-  },
-  {
-   "title": "How perfect storm has rained on Derby's parade",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cmq5x58jgzq4o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T08:15:09.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a816/live/f64f9db0-be50-11f1-9ed2-eb192c505953.jpg"
+   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17de/live/d511d8d0-c0bb-11f1-9475-67b7bb314be1.jpg"
   },
   {
    "title": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
@@ -44,95 +233,11 @@
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb97/live/507e37e0-be7b-11f1-a64c-550be9e3c66b.jpg"
   },
   {
-   "title": "The only side in Nations League yet to concede? Northern Ireland",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw30elngz4y5o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T07:07:15.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926e/live/f883bdd0-bfe7-11f1-b06d-85ecedcb7cff.jpg"
-  },
-  {
-   "title": "Watch: Thistle narrow gap & big wins for County and Elgin",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c6m249d90491o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T07:00:53.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/9c06b0a0-c08a-11f1-babe-4199b0e7ccea.jpg"
-  },
-  {
    "title": "£117m Rogers failed at Bournemouth - and feared he may not make it",
    "link": "https://www.bbc.co.uk/sport/football/articles/ckp84r967d3go?at_medium=RSS&at_campaign=rss",
    "date": "2026-10-05T07:00:51.000Z",
    "src": "BBC Sport",
    "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef14/live/b70d9b40-c08d-11f1-bc2e-018d645d8d21.jpg"
-  },
-  {
-   "title": "Czechia’s Santi Denia: ‘Anthony Gordon? What a player! He’s at the same level as Lamine Yamal’",
-   "link": "https://www.theguardian.com/football/2026/oct/05/santi-denia-anthony-gordon-lamine-yamal-england-czechia",
-   "date": "2026-10-05T07:00:51.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/4d5af237e75e615e6c11cb1da1c829f79fccdd04/159_0_5000_4000/master/5000.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=005cab8de88e84db840a4f4f8a3f2e71"
-  },
-  {
-   "title": "How former Premier League goalkeeper David Stockdale rescued and revamped FC Farsley",
-   "link": "https://www.theguardian.com/football/2026/oct/05/former-goalkeeper-david-stockdale-rescued-revamped-fc-farsley",
-   "date": "2026-10-05T07:00:51.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/e34e4e953f8867d481f946d0d9fdad43a1dc27c3/720_0_7200_5760/master/7200.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=83b406a1591892743376b1b4e0863ae8"
-  },
-  {
-   "title": "Who am I? Guess Premier League star No 77",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cr3eqepqqq7po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-05T06:23:08.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-  },
-  {
-   "title": "Israel 'tried to intimidate' Irish amid spitting row - Hallgrimsson",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cw4g14eg5p22o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T22:51:49.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e2/live/2ac00d80-c042-11f1-b3e5-8557f7e62bde.jpg"
-  },
-  {
-   "title": "No other team should go through this - Hallgrimsson",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cqe8lv6m1nn3o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T22:43:10.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d038/live/2587d730-c042-11f1-b3e5-8557f7e62bde.jpg"
-  },
-  {
-   "title": "Bellamy bemoans new schedule after Denmark loss",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cm93zyld4513o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T22:36:20.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a124/live/22651ef0-c038-11f1-86a1-ad5985eac783.jpg"
-  },
-  {
-   "title": "Clàudia Pina hits four as Barcelona score seven goals to demolish Real Madrid",
-   "link": "https://www.theguardian.com/football/2026/oct/04/claudia-pina-hits-four-as-barcelona-demolish-real-madrid",
-   "date": "2026-10-04T22:28:38.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/ba2e34d3629eee951221fb7868c36ac6e719787e/204_0_2219_1776/master/2219.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aef5454b6aa6e0ea6145e3b9c613f556"
-  },
-  {
-   "title": "Portugal boss says door open for Ronaldo return",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T22:10:59.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/185e/live/89dca710-c097-11f1-babe-4199b0e7ccea.jpg"
-  },
-  {
-   "title": "Nations League roundup: Haaland limps off in Norway’s loss to Portugal",
-   "link": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal",
-   "date": "2026-10-04T21:42:23.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/3122f94274e23830c44bcecedfd3605595dacdd7/713_0_3588_2871/master/3588.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d56ca2e0879b48a40f9b798ffa52afba"
-  },
-  {
-   "title": "Man City fight back to beat struggling Arsenal",
-   "link": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T21:20:21.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/d9095200-c01c-11f1-babe-4199b0e7ccea.jpg"
   },
   {
    "title": "Hallgrímsson calls on Uefa to keep Ireland and Israel apart in future after bad-tempered draw",
@@ -142,116 +247,11 @@
    "img": "https://i.guim.co.uk/img/media/1fa5f2477b6880723077f538d72b1e59a47fd456/522_0_3310_2648/master/3310.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ee82366712374d3529d1a86671b56d3"
   },
   {
-   "title": "Let’s stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
-   "date": "2026-10-04T21:00:37.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/3ede7b755125eacd52536d5e40ec962ef763c08d/231_0_3268_2614/master/3268.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e57c6b40a5b2fb58f7492ecc4f5288be"
-  },
-  {
    "title": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
    "link": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report",
    "date": "2026-10-04T20:52:23.000Z",
    "src": "The Guardian",
    "img": "https://i.guim.co.uk/img/media/169e6d4539e108c76af46fd9ee51f53f8db4d2ca/314_0_3830_3064/master/3830.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d51ba509b36647d25f8b25c63600a4f"
-  },
-  {
-   "title": "Arsenal 10 points off WSL leaders - is Slegers' job at risk?",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T20:34:17.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ec/live/77998e20-c01e-11f1-bfc0-dbc6925567bb.jpg"
-  },
-  {
-   "title": "Real Madrid join race for Scott - Monday's gossip",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cke8r1v3jndlo?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T20:24:19.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3536/live/68d05a40-c014-11f1-b8fc-7927883c19e9.png"
-  },
-  {
-   "title": "'We fought for every ball' - Hemp on Man City's thrilling win",
-   "link": "https://www.bbc.co.uk/sport/football/videos/cqly0lgy37z8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T18:20:05.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f2/live/9b50ed40-c01e-11f1-babe-4199b0e7ccea.jpg"
-  },
-  {
-   "title": "Shaw seals thrilling win over Arsenal to extend Manchester City’s 100% WSL start",
-   "link": "https://www.theguardian.com/football/2026/oct/04/manchester-city-arsenal-wsl-match-report",
-   "date": "2026-10-04T18:07:47.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/3623452c4a89f04396a9ba83d3691c3e99d502b9/229_0_2599_2079/master/2599.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd3ba8e8527577c0ec68281e76fcc59c"
-  },
-  {
-   "title": "Modric 'ashamed' of Croatia's 'catastrophic night'",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cwzrdm3lyk21o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T10:35:47.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d7/live/e638a110-bfdb-11f1-b4e6-d96c2bf27b65.jpg"
-  },
-  {
-   "title": "Bowie seizing Scotland shot after World Cup disappointment",
-   "link": "https://www.bbc.co.uk/sport/football/articles/c5djvw4n8vp8o?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T07:59:10.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e53/live/7ab140f0-bfc7-11f1-ae6d-41d695ddb617.jpg"
-  },
-  {
-   "title": "I clawed my way to the top but need a break - Azpilicueta",
-   "link": "https://www.bbc.co.uk/sport/football/articles/cq0kl0yy3r0po?at_medium=RSS&at_campaign=rss",
-   "date": "2026-10-04T06:15:35.000Z",
-   "src": "BBC Sport",
-   "img": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a6/live/d4fed630-bb4e-11f1-bd21-bdf910f2cec6.jpg"
-  },
-  {
-   "title": "Lamine Yamal stars again as Spain see off Czechia and maintain perfect start",
-   "link": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
-   "date": "2026-10-03T21:13:00.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/4da43e5ef116a9a641c07d1d72e387dfc2ca7db5/277_0_2637_2109/master/2637.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f1618f70602c6690ac9b2ccb47614af0"
-  },
-  {
-   "title": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
-   "link": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism",
-   "date": "2026-10-03T20:06:45.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/c066ca330ce783057fd6a14799d19ada9cd3b6e9/451_0_4513_3610/master/4513.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=923bb8d88f3ad1fa5042f7e21f0f134c"
-  },
-  {
-   "title": "Zigiotti Olme capitalises on Liverpool mistake to keep Manchester United moving up WSL",
-   "link": "https://www.theguardian.com/football/2026/oct/03/manchester-united-liverpool-wsl-match-report",
-   "date": "2026-10-03T14:52:27.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/587e6b8cba6843a3feebd95671a5347daa95e075/2982_1437_2243_1795/master/2243.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=456504439df664a43f2efe61dcd81bc6"
-  },
-  {
-   "title": "Decline and fall: who will believe in Raheem Sterling now?",
-   "link": "https://www.theguardian.com/football/2026/oct/03/decline-and-fall-who-will-believe-in-raheem-sterling-now",
-   "date": "2026-10-03T05:00:51.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/921267a4d8d5c3e4989a81a97c9d6757e1e5563e/0_0_4958_3966/master/4958.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40e6287ec74819f7b5702fed05fd6a1d"
-  },
-  {
-   "title": "Arsenal shelve plans for major expansion of Emirates Stadium",
-   "link": "https://www.theguardian.com/football/2026/oct/02/arsenal-shelve-plans-for-major-expansion-of-emirates-stadium",
-   "date": "2026-10-02T20:10:12.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/446_0_4890_3910/master/4890.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=12ba207d9e314e2250f5bfbffd55a13a"
-  },
-  {
-   "title": "Slegers feels support from Arsenal hierarchy despite dismal run but biggest test looms",
-   "link": "https://www.theguardian.com/football/2026/oct/02/renee-slegers-feels-support-arsenal-hierarchy-despite-miserable-run-wsl",
-   "date": "2026-10-02T16:38:59.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/f4c403024ae5db490d637b50f06239add4c1ee13/951_0_4052_3242/master/4052.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf1c18472ee92bb2d6f60d48abdd9b6b"
-  },
-  {
-   "title": "Robbie Savage steps up to take Peterborough job: ‘All I want is a chance’",
-   "link": "https://www.theguardian.com/football/2026/oct/02/robbie-savage-peterborough-manager-job-understands-reservations",
-   "date": "2026-10-02T12:11:20.000Z",
-   "src": "The Guardian",
-   "img": "https://i.guim.co.uk/img/media/63d8194bb7f4b28794f986f83ecf0c0b16dda46a/606_162_1262_1010/master/1262.jpg?width=700&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d42e5c24eb4f0df49e84e7157f5427ed"
   },
   {
    "title": "Sign up to the Sport in Focus newsletter: the sporting week in photos",
