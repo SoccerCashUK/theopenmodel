@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-12",
+ "updated": "2026-10-13",
  "license": "CC BY 4.0 — link to theopenmodel.com",
  "rows": [
   {
@@ -5944,6 +5944,19 @@
    "url": "https://theopenmodel.com/match/everton-vs-coventry-2026-11-06/"
   },
   {
+   "date": "2026-11-06T20:00:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Sevilla",
+   "away": "Alaves",
+   "pHome": 0.3972,
+   "pDraw": 0.2838,
+   "pAway": 0.319,
+   "xgHome": 1.48,
+   "xgAway": 1.3,
+   "url": "https://theopenmodel.com/match/sevilla-vs-alaves-2026-11-06/"
+  },
+  {
    "date": "2026-11-07T12:30:00Z",
    "league": "premier-league",
    "round": "Regular Season - 10",
@@ -5955,6 +5968,19 @@
    "xgHome": 1.56,
    "xgAway": 1.22,
    "url": "https://theopenmodel.com/match/leeds-vs-tottenham-2026-11-07/"
+  },
+  {
+   "date": "2026-11-07T13:00:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Malaga",
+   "away": "Santander",
+   "pHome": 0.3901,
+   "pDraw": 0.2841,
+   "pAway": 0.3257,
+   "xgHome": 1.46,
+   "xgAway": 1.32,
+   "url": "https://theopenmodel.com/match/malaga-vs-santander-2026-11-07/"
   },
   {
    "date": "2026-11-07T14:00:00Z",
@@ -6061,6 +6087,19 @@
    "url": "https://theopenmodel.com/match/fulham-vs-newcastle-2026-11-07/"
   },
   {
+   "date": "2026-11-07T15:15:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Espanyol",
+   "away": "Depor",
+   "pHome": 0.5308,
+   "pDraw": 0.2639,
+   "pAway": 0.2052,
+   "xgHome": 1.76,
+   "xgAway": 1.02,
+   "url": "https://theopenmodel.com/match/espanyol-vs-depor-2026-11-07/"
+  },
+  {
    "date": "2026-11-07T16:15:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 10",
@@ -6098,6 +6137,19 @@
    "xgHome": 1.14,
    "xgAway": 1.64,
    "url": "https://theopenmodel.com/match/forest-vs-man-city-2026-11-07/"
+  },
+  {
+   "date": "2026-11-07T17:30:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Osasuna",
+   "away": "Bilbao",
+   "pHome": 0.3818,
+   "pDraw": 0.2845,
+   "pAway": 0.3337,
+   "xgHome": 1.44,
+   "xgAway": 1.34,
+   "url": "https://theopenmodel.com/match/osasuna-vs-bilbao-2026-11-07/"
   },
   {
    "date": "2026-11-07T17:30:00Z",
@@ -6139,46 +6191,7 @@
    "url": "https://theopenmodel.com/match/paris-sg-vs-troyes-2026-11-07/"
   },
   {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Elche",
-   "away": "Betis",
-   "pHome": 0.2753,
-   "pDraw": 0.2793,
-   "pAway": 0.4454,
-   "xgHome": 1.2,
-   "xgAway": 1.58,
-   "url": "https://theopenmodel.com/match/elche-vs-betis-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Osasuna",
-   "away": "Bilbao",
-   "pHome": 0.3818,
-   "pDraw": 0.2845,
-   "pAway": 0.3337,
-   "xgHome": 1.44,
-   "xgAway": 1.34,
-   "url": "https://theopenmodel.com/match/osasuna-vs-bilbao-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Sevilla",
-   "away": "Alaves",
-   "pHome": 0.3972,
-   "pDraw": 0.2838,
-   "pAway": 0.319,
-   "xgHome": 1.48,
-   "xgAway": 1.3,
-   "url": "https://theopenmodel.com/match/sevilla-vs-alaves-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
+   "date": "2026-11-07T20:00:00Z",
    "league": "la-liga",
    "round": "Regular Season - 12",
    "home": "Valencia",
@@ -6188,85 +6201,7 @@
    "pAway": 0.5674,
    "xgHome": 0.95,
    "xgAway": 1.83,
-   "url": "https://theopenmodel.com/match/valencia-vs-real-madrid-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Celta",
-   "away": "Levante",
-   "pHome": 0.5058,
-   "pDraw": 0.2694,
-   "pAway": 0.2248,
-   "xgHome": 1.7,
-   "xgAway": 1.08,
-   "url": "https://theopenmodel.com/match/celta-vs-levante-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Sociedad",
-   "away": "Rayo Vallecano",
-   "pHome": 0.3821,
-   "pDraw": 0.2845,
-   "pAway": 0.3334,
-   "xgHome": 1.44,
-   "xgAway": 1.34,
-   "url": "https://theopenmodel.com/match/sociedad-vs-rayo-vallecano-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Malaga",
-   "away": "Santander",
-   "pHome": 0.3901,
-   "pDraw": 0.2841,
-   "pAway": 0.3257,
-   "xgHome": 1.46,
-   "xgAway": 1.32,
-   "url": "https://theopenmodel.com/match/malaga-vs-santander-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Espanyol",
-   "away": "Depor",
-   "pHome": 0.5308,
-   "pDraw": 0.2639,
-   "pAway": 0.2052,
-   "xgHome": 1.76,
-   "xgAway": 1.02,
-   "url": "https://theopenmodel.com/match/espanyol-vs-depor-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Atletico",
-   "away": "Barcelona",
-   "pHome": 0.2796,
-   "pDraw": 0.2799,
-   "pAway": 0.4405,
-   "xgHome": 1.21,
-   "xgAway": 1.57,
-   "url": "https://theopenmodel.com/match/atletico-vs-barcelona-2026-11-08/"
-  },
-  {
-   "date": "2026-11-08T00:00:00Z",
-   "league": "la-liga",
-   "round": "Regular Season - 12",
-   "home": "Villarreal",
-   "away": "Getafe",
-   "pHome": 0.5431,
-   "pDraw": 0.261,
-   "pAway": 0.1959,
-   "xgHome": 1.78,
-   "xgAway": 1,
-   "url": "https://theopenmodel.com/match/villarreal-vs-getafe-2026-11-08/"
+   "url": "https://theopenmodel.com/match/valencia-vs-real-madrid-2026-11-07/"
   },
   {
    "date": "2026-11-08T11:30:00Z",
@@ -6280,6 +6215,19 @@
    "xgHome": 1.71,
    "xgAway": 1.08,
    "url": "https://theopenmodel.com/match/napoli-vs-lazio-2026-11-08/"
+  },
+  {
+   "date": "2026-11-08T13:00:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Elche",
+   "away": "Betis",
+   "pHome": 0.2753,
+   "pDraw": 0.2793,
+   "pAway": 0.4454,
+   "xgHome": 1.2,
+   "xgAway": 1.58,
+   "url": "https://theopenmodel.com/match/elche-vs-betis-2026-11-08/"
   },
   {
    "date": "2026-11-08T14:00:00Z",
@@ -6386,6 +6334,19 @@
    "url": "https://theopenmodel.com/match/koeln-vs-leverkusen-2026-11-08/"
   },
   {
+   "date": "2026-11-08T15:15:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Sociedad",
+   "away": "Rayo Vallecano",
+   "pHome": 0.3821,
+   "pDraw": 0.2845,
+   "pAway": 0.3334,
+   "xgHome": 1.44,
+   "xgAway": 1.34,
+   "url": "https://theopenmodel.com/match/sociedad-vs-rayo-vallecano-2026-11-08/"
+  },
+  {
    "date": "2026-11-08T16:15:00Z",
    "league": "ligue-1",
    "round": "Regular Season - 10",
@@ -6477,6 +6438,32 @@
    "url": "https://theopenmodel.com/match/inter-vs-como-2026-11-08/"
   },
   {
+   "date": "2026-11-08T17:30:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Celta",
+   "away": "Levante",
+   "pHome": 0.5058,
+   "pDraw": 0.2694,
+   "pAway": 0.2248,
+   "xgHome": 1.7,
+   "xgAway": 1.08,
+   "url": "https://theopenmodel.com/match/celta-vs-levante-2026-11-08/"
+  },
+  {
+   "date": "2026-11-08T17:30:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Villarreal",
+   "away": "Getafe",
+   "pHome": 0.5431,
+   "pDraw": 0.261,
+   "pAway": 0.1959,
+   "xgHome": 1.78,
+   "xgAway": 1,
+   "url": "https://theopenmodel.com/match/villarreal-vs-getafe-2026-11-08/"
+  },
+  {
    "date": "2026-11-08T18:30:00Z",
    "league": "bundesliga",
    "round": "Regular Season - 9",
@@ -6514,6 +6501,19 @@
    "xgHome": 1.64,
    "xgAway": 1.14,
    "url": "https://theopenmodel.com/match/lens-vs-marseille-2026-11-08/"
+  },
+  {
+   "date": "2026-11-08T20:00:00Z",
+   "league": "la-liga",
+   "round": "Regular Season - 12",
+   "home": "Atletico",
+   "away": "Barcelona",
+   "pHome": 0.2796,
+   "pDraw": 0.2799,
+   "pAway": 0.4405,
+   "xgHome": 1.21,
+   "xgAway": 1.57,
+   "url": "https://theopenmodel.com/match/atletico-vs-barcelona-2026-11-08/"
   },
   {
    "date": "2026-11-20T19:30:00Z",
